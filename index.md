@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 海泩文字录
+nav_order: 1
+has_children: true
 ---
 
 # 📚 Documentation
