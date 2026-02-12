@@ -1,16 +1,18 @@
 ---
-layout: default  
-title: Home
+layout: default
+title: 海泩文字录
 ---
 
-# My Site Works!
+# 📚 Documentation
 
-Content here...
-## Page Sections
-{:toc}
+| Category | Description | URL |
+|----------|-------------|-----|
+| [🏠 Home](#) | Main page | / |
+| [📝 Notes](notes/) | Personal notes | /notes/ |
+| [💻 Projects](projects/) | Code projects | /projects/ |
+| [🔬 Research](research/) | Academic papers | /research/ |
 
-### Section 1
-Content...
-
-### Section 2  
-More content...
+## Quick Links
+- [Notes Overview](notes/index.md)
+- [Project 1](projects/project1.md) 
+- [Research Paper](research/paper1.md)
