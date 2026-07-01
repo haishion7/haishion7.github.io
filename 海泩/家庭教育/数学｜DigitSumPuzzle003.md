@@ -6,7 +6,7 @@ nav_order: 0
 has_children: true
 ---
 
-今天在复习拼音，我们的谜底也是拼音哦～
+今天在复习拼音，我们的谜底也是拼音哦～对应汉字“今天学拼音”
 
 ### JINTIANXUEPINYIN
 
@@ -17,4 +17,4 @@ has_children: true
   </object>
 </figure>
 
-*2026/6/22*
+*2026/7/1*
