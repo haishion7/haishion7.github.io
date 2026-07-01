@@ -10,9 +10,11 @@ has_children: true
 
 ### ILOVECHESSPLAY
 
+<a href="assert/DigitSumPuzzle002.pdf">点击下载PDF文件</a>
+
 <figure>
   <object data="assert/DigitSumPuzzle002.pdf" type="application/pdf" width="100%" height="500px">
-    <p>Your browser does not support PDFs. 您的浏览器不支持PDF预览. </br> <a href="assert/DigitSumPuzzle002.pdf">Download the PDF. 点击下载文件</a>.</p>
+    
   </object>
 </figure>
 

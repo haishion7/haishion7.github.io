@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 数学｜DigitSumPuzzle002
+title: 数学｜DigitSumPuzzle003
 parent: 家庭教育
 nav_order: 0
 has_children: true
@@ -10,7 +10,7 @@ has_children: true
 
 ### JINTIANXUEPINYIN
 
-<a href="assert/DigitSumPuzzle003.pdf">点击下载PDF文件</a></p>
+<a href="assert/DigitSumPuzzle003.pdf">点击下载PDF文件</a>
 
 <figure>
   <object data="assert/DigitSumPuzzle003.pdf" type="application/pdf" width="100%" height="500px">
