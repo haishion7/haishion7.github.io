@@ -6,9 +6,10 @@ nav_order: 0
 has_children: true
 ---
 
-这周二到周四，Peter参加了三天的STEM夏令营，还挺喜欢的。今天的谜题就是
+这周二到周四，Peter参加了三天的STEM夏令营，还挺喜欢的。今天的谜题就是：
 
 ### STEM CAMP IS FUNNY
+
 
 <a href="assert/DigitSumPuzzle005.pdf">点击下载PDF文件</a>
 
