@@ -10,10 +10,10 @@ has_children: true
 
 ### CN 56 ETHNIC GROUPS
 
-<a href="assert/DigitSumPuzzle004.pdf">点击下载PDF文件</a>
+<a href="assert/数学/DigitSumPuzzle004.pdf">点击下载PDF文件</a>
 
 <figure>
-  <object data="assert/DigitSumPuzzle004.pdf" type="application/pdf" width="100%" height="500px">
+  <object data="assert/数学/DigitSumPuzzle004.pdf" type="application/pdf" width="100%" height="500px">
   </object>
 </figure>
 

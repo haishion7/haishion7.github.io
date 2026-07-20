@@ -20,11 +20,11 @@ has_children: true
 
 *注：除空白模板外，数字解谜游戏有不同的实例版本可以下载*
 
-<a href="assert/DigitSumPuzzle002.pdf">点击下载PDF文件</a>
+<a href="assert/数学/DigitSumPuzzle.pdf">点击下载PDF文件</a>
 
 <figure>
-  <object data="assert/DigitSumPuzzle.pdf" type="application/pdf" width="100%" height="500px">
-    <p>Your browser does not support PDFs. 您的浏览器不支持PDF预览. </br> <a href="assert/DigitSumPuzzle.pdf">Download the PDF. 点击下载文件</a>.</p>
+  <object data="assert/数学/DigitSumPuzzle.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Your browser does not support PDFs. 您的浏览器不支持PDF预览. </br> <a href="assert/数学/DigitSumPuzzle.pdf">Download the PDF. 点击下载文件</a>.</p>
   </object>
 </figure>
 

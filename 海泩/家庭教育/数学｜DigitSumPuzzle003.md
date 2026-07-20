@@ -10,10 +10,10 @@ has_children: true
 
 ### JINTIANXUEPINYIN
 
-<a href="assert/DigitSumPuzzle003.pdf">点击下载PDF文件</a>
+<a href="assert/数学/DigitSumPuzzle003.pdf">点击下载PDF文件</a>
 
 <figure>
-  <object data="assert/DigitSumPuzzle003.pdf" type="application/pdf" width="100%" height="500px">
+  <object data="assert/数学/DigitSumPuzzle003.pdf" type="application/pdf" width="100%" height="500px">
   </object>
 </figure>
 

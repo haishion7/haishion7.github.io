@@ -21,11 +21,11 @@ has_children: true
 1. 如果P1是紫色飓风格，若答错数学题返回之前的位置P0，若答对数学题，需进一步解决旅途最后一个未解数学题，如果继续答对，则安全停在P1，否则返回起点START；如果P1的问题之前已经被解答，则直接解决旅途最后一个未解数学题，如果答对，则安全停在P1，否则返回起点START。*注：旅途最后一个未解数学题从第30格开始看，如果第30格的问题已经被解决，则看第29格，依次往前*
 1. 途经第30格之后，玩家根据骰子点数会进入底下的目的地格子1到4，此时该玩家游戏结束，收获奖励或者惩罚。
 
-<a href="assert/DigitSumPuzzle002.pdf">点击下载PDF文件</a>
+<a href="assert/数学/MathAdventure.pdf">点击下载PDF文件</a>
 
 <figure>
-  <object data="assert/MathAdventure.pdf" type="application/pdf" width="100%" height="500px">
-    <p>Your browser does not support PDFs. 您的浏览器不支持PDF预览. </br> <a href="assert/MathAdventure.pdf">Download the PDF. 点击下载文件</a>.</p>
+  <object data="assert/数学/MathAdventure.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Your browser does not support PDFs. 您的浏览器不支持PDF预览. </br> <a href="assert/数学/MathAdventure.pdf">Download the PDF. 点击下载文件</a>.</p>
   </object>
 </figure>
 
