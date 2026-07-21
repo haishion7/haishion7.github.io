@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 数学｜DigitSumPuzzle
+title: 数学｜DSP
 parent: 家庭教育
 nav_order: 0
 has_children: true
 ---
-## 数字解谜游戏
+## 数字解谜游戏｜DigitSumPuzzle
 
 #### 家长辅助：
 1. 准备一句谜底，不超过16个字母，举个最简单的例子，比如`Good`。

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 数学｜DigitSumPuzzle006
+title: 数学｜DSP006
 parent: 家庭教育
 nav_order: 0
 has_children: true
