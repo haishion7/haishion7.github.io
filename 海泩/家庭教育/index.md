@@ -18,3 +18,4 @@ has_children: true
 另外分享两个适合孩子从零考试学习的网站，都是免费，可以切换中英文，且学习架构清晰。孩子可以一步步从简单开始学习知识点，并且在互动练习中加深理解、巩固知识：
 - 国际象棋：https://lichess.org/learn
 - 围棋：https://online-go.com/learn-to-play-go 
+- 中国象棋：https://play.xiangqi.com/lessons
