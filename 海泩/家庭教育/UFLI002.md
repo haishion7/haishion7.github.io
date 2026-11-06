@@ -1,3 +1,11 @@
+---
+layout: default
+title: UFLI｜002
+parent: 家庭教育
+nav_order: 0
+has_children: true
+---
+
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 2 — Alphabet Review & Longer Words（字母复习与更长的单音节词）
