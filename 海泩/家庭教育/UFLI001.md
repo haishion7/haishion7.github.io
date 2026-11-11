@@ -6,7 +6,7 @@ nav_order: 0
 has_children: true
 ---
 
-♥️<a href="assert/UFLI/UFLI001.pdf" target="_blank" rel="noopener noreferrer">点击可下载本页内容的PDF版本</a>
+2026/11/11 ♥️ <a href="assert/UFLI/UFLI001.pdf" target="_blank" rel="noopener noreferrer">点击可下载本页内容的PDF版本</a>
 
 
 # UFLI Foundations 家长辅助学习手册
