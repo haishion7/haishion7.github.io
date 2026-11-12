@@ -2,7 +2,7 @@
 layout: default
 title: 数学｜DSP
 parent: 家庭教育
-nav_order: 0
+nav_order: 1
 has_children: true
 ---
 ## 数字解谜游戏｜DigitSumPuzzle
