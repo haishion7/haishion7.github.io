@@ -6,6 +6,8 @@ nav_order: 1
 has_children: true
 ---
 
+2026/11/12 ♥️ <a href="assert/UFLI/UFLI002.pdf" target="_blank" rel="noopener noreferrer">点击可下载本页内容的PDF版本</a>
+
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 2 — Alphabet Review & Longer Words（字母复习与更长的单音节词）
@@ -13,7 +15,6 @@ has_children: true
 **课程范围：** Lessons 35–41  
 **适用阶段：** Kindergarten 后期、一年级基础巩固及复习  
 **前置知识：** Unit 1 — Alphabet（Lessons 1–34）
-
 **官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
 > **使用说明**：本手册沿用 Unit 1 的自然拼读教学思路，帮助中国家长理解知识点并进行家庭复习。发音以常见美式英语为参考；中文拼音只用于概念比较，不能代替英语发音。例词、练习和短文为家庭补充材料，并非 UFLI 官方逐课原文；部分扩展词涉及后续知识，请按孩子进度选用。
@@ -34,7 +35,6 @@ Unit 1 重点建立字母与声音的联系，能读 `cat → /k/ /æ/ /t/`；Un
 
 🌟 **家长重点：** 本单元不是要求孩子背下大量更长的单词，而是训练孩子**听清每个音、把声音连起来、再对应到拼写**。
 
----
 ---
 
 # Part 2. 中国家长需要理解的基础概念
@@ -93,7 +93,6 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 
 🌟 **提醒：** `split` 是 CCCVC，`sprint` 是 CCCVCC，字母数和音素数相同。但是我们不能仅凭字母数判断音素数，像 `ship` 中 `sh` 是一个音素，`box` 中 `x` 常对应 /k/ + /s/ 两个音素。
 
----
 ---
 
 # Part 3. UFLI Lessons 35–41 课程进度与练习
@@ -219,7 +218,6 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 **操作方法：** 家长读词 → 孩子口头分音（可用积木计数）→ 写下字母 → 逐音核对 → 连起来读。若孩子写错，先请他重新听声音，再指出可能需要修改的位置。
 
 ---
----
 
 # Part 4. 在家模仿 UFLI 的练习方法
 
@@ -269,7 +267,6 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 🌟 句子中的 `the`、`a` 等高频词可能需要家长提前介绍；不要把含未学规律的句子全部当作孩子应当独立拼读的材料。
 
 ---
----
 
 # Part 5. 阅读与写作练习
 
@@ -296,7 +293,6 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 🌟 和中文低年级“看图写话”类似，英语写作也可以从一句话逐步扩展。除了拼写，还要提醒孩子注意**词间空格、句首大写、句末标点**。
 
 ---
----
 
 # Part 6. 家长常见问题
 
@@ -320,7 +316,6 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 
 本单元主要训练**更复杂的单音节结构**，并未教完所有拼写规则。后面还会学 Digraphs、Silent e、Vowel Teams、R-controlled Vowels 等。遇到尚未学过的模式，家长可以先示范，不必强求独立拼读。
 
----
 ---
 
 # Part 7. 学习进度与家庭记录
@@ -346,7 +341,6 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 - [ ] 能听写部分较长单音节词，并尝试阅读简单句子。
 - [ ] 能解释读过的部分词义，回答简单阅读问题。
 
-<div style="page-break-after: always;"></div>
 
 ### 🚩家庭练习记录（可重复打印）
 
@@ -358,9 +352,7 @@ C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声�
 **掌握较好：** __________________　
 **需要复习：** __________________
 
-<div style="page-break-after: always;"></div>
 
----
 ---
 
 # Part 8. 本单元总结

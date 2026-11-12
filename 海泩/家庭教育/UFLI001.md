@@ -16,11 +16,7 @@ has_children: true
 **课程范围：** Lessons 1–34  
 **适用阶段：** Kindergarten 基础教学及一年级复习  
 **适用对象：** 希望了解美国小学英语教学、辅助孩子巩固自然拼读的中国家长
-
-**官方资料：**
-- [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)知识点一览
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)每课时的参考教学ppt
-- [UFLI 免费可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
+**官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
 > **使用说明**
 > 1. 本手册按照 UFLI Foundations 的教学思路组织，帮助家长理解知识点、跟踪学习进度、进行家庭复习。
@@ -731,12 +727,11 @@ Sam ran too.
 
 # Part 8. 家庭练习记录模板
 
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
 
-**今日复习内容：**
-
+**日期：** __________　
+**Lesson：** ______　
+**练习时长：** ______ 分钟  
+**今日内容：** 
 - [ ] Letter Sounds
 - [ ] Phoneme Blending
 - [ ] Phoneme Segmenting
@@ -745,13 +740,10 @@ Sam ran too.
 - [ ] Encoding
 - [ ] Reading
 
-**今天练习的单词：**
+**练习单词：** __________________________________________________  
+**掌握较好：** ______________________________________________　
+**需要复习：** ______________________________________________
 
-**孩子掌握较好的内容：**
-
-**遇到困难的地方：**
-
-**下次准备复习：**
 
 ---
 
