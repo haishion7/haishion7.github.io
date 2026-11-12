@@ -2,7 +2,7 @@
 layout: default
 title: UFLI｜002
 parent: 家庭教育
-nav_order: 0
+nav_order: 1
 has_children: true
 ---
 
@@ -11,922 +11,364 @@ has_children: true
 ## Unit 2 — Alphabet Review & Longer Words（字母复习与更长的单音节词）
 
 **课程范围：** Lessons 35–41  
-**适用阶段：** Kindergarten 后期、一年级基础巩固及有需要的学生复习  
+**适用阶段：** Kindergarten 后期、一年级基础巩固及复习  
 **前置知识：** Unit 1 — Alphabet（Lessons 1–34）
 
-**官方资料：**
-- [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
-- [UFLI 可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
+**官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
-> **本单元核心目标**
->
-> 帮助孩子熟练掌握五个短元音（Short Vowels），从简单的 CVC 单词逐渐过渡到 CCVC、CVCC、CCVCC、CCCVC 等更复杂的单音节词。
->
-> 本手册中的解释、示例和家庭练习为家长辅助材料，并非 UFLI 官方教学文本。单词难度可根据孩子掌握情况调整。
+> **使用说明**：本手册沿用 Unit 1 的自然拼读教学思路，帮助中国家长理解知识点并进行家庭复习。发音以常见美式英语为参考；中文拼音只用于概念比较，不能代替英语发音。例词、练习和短文为家庭补充材料，并非 UFLI 官方逐课原文；部分扩展词涉及后续知识，请按孩子进度选用。
 
 ---
 
-# Part 1. 本单元学习目标
+# Part 1. 本单元学什么？
 
-完成本单元后，孩子应该逐步能够：
+Unit 1 重点建立字母与声音的联系，能读 `cat → /k/ /æ/ /t/`；Unit 2 则进一步练习短元音，并把多个辅音连在一起读，如 `stop → /s/ /t/ /ɑ/ /p/`、`plant → /p/ /l/ /æ/ /n/ /t/`。**单词变长，不等于音节变多。**
 
-- [ ] 熟练识别五个短元音 a、e、i、o、u 的常见发音。
-- [ ] 听辨容易混淆的短元音。
-- [ ] 理解单词中可以出现多个连续辅音。
-- [ ] 能够准确拼读 CVC、CCVC、CVCC 等结构。
-- [ ] 能够将较长的单音节词拆分为独立音素。
-- [ ] 能根据听到的声音拼写较长的单音节词。
-- [ ] 能通过 Word Chains 练习声音替换、添加和删除。
-- [ ] 能够阅读包含已学拼读模式的句子和短文。
+| 核心能力 | 单元结束时的表现 |
+|---|---|
+| 短元音 | 能听辨并拼写 a /æ/、e /ɛ/、i /ɪ/、o /ɑ/、u /ʌ/ |
+| 辅音连缀 | 能连续读出 /st/、/pl/、/mp/ 等，不额外插入元音 |
+| 拼读与拼写 | 从 CVC 逐步过渡到 CCVC、CVCC、CCVCC、CCCVC |
+| 声音操作 | 能分割、合成、替换、添加或删除单词中的音素 |
+| 阅读 | 能读已学规律构成的单词、短句，并尝试解释意思 |
 
-**与 Unit 1 的主要区别：**
+🌟 **家长重点：** 本单元不是要求孩子背下大量更长的单词，而是训练孩子**听清每个音、把声音连起来、再对应到拼写**。
 
-Unit 1 主要建立字母与声音之间的联系。
-
-例如：
-
-`c + a + t → cat`
-
-Unit 2 则开始挑战：
-
-`/s/ + /t/ + /ɑ/ + /p/ → stop`
-
-虽然 stop 比 cat 多一个辅音，但仍然是一个音节。
-
+---
 ---
 
 # Part 2. 中国家长需要理解的基础概念
 
-## 2.1 Syllable（音节）是什么？
+## 2.1 Syllable（音节）与 Phoneme（音素）
 
-音节是语音中的一种节奏单位，通常围绕一个元音核心形成。
+音节是口语中的节奏单位，通常围绕一个元音核心形成；音素是能区别词义的最小语音单位。一个单词可以只有一个音节，却含有四五个音素。
 
-例如：
+| 单词 | 音素分割 | 音素数 | 音节数 |
+|---|---|---:|---:|
+| cat | /k/ /æ/ /t/ | 3 | 1 |
+| stop | /s/ /t/ /ɑ/ /p/ | 4 | 1 |
+| hand | /h/ /æ/ /n/ /d/ | 4 | 1 |
+| plant | /p/ /l/ /æ/ /n/ /t/ | 5 | 1 |
+| split | /s/ /p/ /l/ /ɪ/ /t/ | 5 | 1 |
+| rabbit | rab-bit | 5 | 2 |
 
-| 单词 | 音节划分 | 音节数量 |
+🌟 家长注意： rabbit 虽然有 6 个字母，但中间的 bb 通常只对应一个 /b/ 音素不需要发两次 /b/，所以是5个音素 /ɹ/ /æ/ /b/ /ɪ/ /t/。
+
+### 🚩与汉语拼音的比较
+
+普通话中，一个汉字通常对应一个音节，例如“妈”`mā`、“花”`huā`。普通话音节开头一般不会出现英语 `stop` 中的 /st/ 这样的连续辅音，所以中国学习者容易把它读成类似“si-top”。英语中 `stop` 仍然只有**一个音节**。
+
+🌟 **家长提醒：** 辅音之间不要添“呃”“衣”等声音。读 `stop` 时，让 /s/ 顺畅接到 /t/，再读 /ɑp/；不是先读一个“丝”，再读 `top`。
+
+## 2.2 Consonant Blends（辅音连缀）
+
+**Consonant Blend** 指两个或三个相邻的辅音音素连续出现，**每个辅音仍保留自己的声音**。例如 `clap` 的 `cl` 是 /k/ + /l/，`stop` 的 `st` 是 /s/ + /t/。
+
+| 类别 | 常见组合 | 可练习单词 |
 |---|---|---|
-| cat | cat | 1 |
-| stop | stop | 1 |
-| plant | plant | 1 |
-| rabbit | rab-bit | 2 |
-| banana | ba-na-na | 3 |
-| computer | com-pu-ter | 3 |
+| l-blends | bl, cl, fl, gl, pl, sl | black, clap, flag, glad, plug, slip |
+| r-blends | br, cr, dr, fr, gr, tr | brag, crab, drum, frog, grin, trap |
+| s-blends | sk, sm, sn, sp, st, sw | skip, smell, snap, spin, stop, swim |
+| 三辅音连缀 | spl, spr, str, scr | split, spring, strap, scrap |
+| 词尾连缀 | -nd, -mp, -st, -lk, -ft | hand, lamp, best, milk, lift |
 
-**注意：单词的字母数量、音素数量与音节数量不是一回事。**
-
-例如：
-
-`plant`
-
-- 字母：5个
-- 音素：5个（/p/ /l/ /æ/ /n/ /t/）
-- 音节：1个
-
-### 与汉语拼音的比较
-
-普通话中的一个汉字通常对应一个音节，例如：
-
-- 妈 → mā
-- 花 → huā
-- 学 → xué
-
-而英语一个音节可以包含更多连续辅音。
-
-例如：
-
-`stop → /s/ /t/ /ɑ/ /p/`
-
-英语允许音节开头出现 /st/ 这样的辅音连缀。
-
-普通话通常不允许两个普通辅音以这种方式连续出现在音节开头。
-
-因此，中国学习者容易把 stop 读成类似“si-top”的两个音节。
-
-**家长提醒：** 不要在 s 和 t 中间额外添加元音。stop 应连续读出 /s/ 和 /t/，再进入元音。
-
----
-
-## 2.2 什么是 Consonant Blends（辅音连缀）？
-
-Consonant Blend 指两个或多个相邻辅音音素连续出现，每个辅音仍然保留自己的发音。
-
-例如：
-
-`stop`
-
-- s → /s/
-- t → /t/
-- o → /ɑ/
-- p → /p/
-
-其中 /s/ 和 /t/ 是连续的两个辅音。
-
-### 常见辅音连缀
-
-| 类型 | 字母组合 | 示例 |
-|---|---|---|
-| L-blends | bl | black, blink |
-| | cl | clap, clip |
-| | fl | flag, flip |
-| | gl | glad, glass |
-| | pl | plan, plug |
-| | sl | slip, sled |
-| R-blends | br | brag, brim |
-| | cr | crab, crop |
-| | dr | drag, drip |
-| | fr | frog, fresh |
-| | gr | grab, grin |
-| | tr | trap, trip |
-| S-blends | sc | scan |
-| | sk | skip, skin |
-| | sm | smell, small |
-| | sn | snap, snip |
-| | sp | spin, spot |
-| | st | stop, step |
-| | sw | swim, swam |
-| 三辅音连缀 | spl | split, splash |
-| | spr | spring, sprint |
-| | str | strip, strong |
-| | scr | scrap, scrub |
-
-*部分示例包含后续单元才学习的字母组合或拼写规则，初学时只选择已学过的词。*
-
-### Blend 和 Digraph 有什么区别？
-
-这两个概念很容易混淆。
-
-**Blend：多个字母对应的辅音音素都保留。**
-
-例如：
-
-`st → /s/ + /t/`
-
-**Digraph：两个字母组合表示一个音素。**
-
-例如：
-
-`sh → /ʃ/`
-
-对比：
-
-| 单词 | 字母组合 | 音素数量 |
-|---|---|---|
-| stop | st = /s/ + /t/ | 4 |
-| ship | sh = /ʃ/ | 3 |
-| clap | cl = /k/ + /l/ | 4 |
-| chat | ch = /tʃ/ | 3 |
-
-**与汉语拼音对比：**
-
-拼音中的 `sh` 由两个字母组成，但表示一个声母。
-
-英语中的 `sh` 同样是两个字母表示一个音素，不过实际发音不同。
-
-而英语 `st` 是两个独立的辅音音素连续发出，不能像 `sh` 那样当作一个音素。
-
----
+🌟 **Blend 不等于 Digraph（辅音字母组合）**：`st` 表示 /s/ + /t/ 两个音素；`sh` 通常表示 /ʃ/ 一个音素（如 `ship`）。这有点像汉语拼音 `sh` 是一个声母，但英语 /ʃ/ 与普通话 `sh` 的实际发音不同。`sh`、`ch` 等将在后续单元系统学习，不必在本单元提前掌握。
 
 ## 2.3 常见单音节词结构
 
-C = Consonant（辅音）
+C = Consonant（辅音音素），V = Vowel（元音音素）；以下按**声音结构**分类，不是机械地数英文字母。
 
-V = Vowel（元音）
-
-这里的结构主要按**音素**划分，而不是简单按照字母数量划分。
-
-| 结构 | 含义 | 示例 |
+| 结构 | 示例 | 音素分割 |
 |---|---|---|
-| VC | 元音 + 辅音 | at, in |
-| CVC | 辅音 + 元音 + 辅音 | cat, sit |
-| CCVC | 两辅音 + 元音 + 辅音 | stop, clap |
-| CVCC | 辅音 + 元音 + 两辅音 | hand, milk |
-| CCVCC | 两辅音 + 元音 + 两辅音 | plant, stand |
-| CCCVC | 三辅音 + 元音 + 辅音 | split, strap |
+| CVC | cat, sit | cat：/k/ /æ/ /t/ |
+| CCVC | clap, stop | clap：/k/ /l/ /æ/ /p/ |
+| CVCC | hand, milk | hand：/h/ /æ/ /n/ /d/ |
+| CCVCC | plant, blend | plant：/p/ /l/ /æ/ /n/ /t/ |
+| CCCVC | split, strap | split：/s/ /p/ /l/ /ɪ/ /t/ |
+| CCCVCC | sprint, strand | sprint：/s/ /p/ /r/ /ɪ/ /n/ /t/ |
 
-### 逐步增加难度
+### 🎣从简单词到长词
 
-**Level 1：CVC**
+让孩子比较 `cap → clap`（加 /l/）、`pan → plan`（加 /l/）、`sit → slit`（加 /l/）、`pat → past`（加 /s/）、`ham → harm`（扩展词，涉及 r-controlled vowel，暂不要求自主拼读）。前四组可以用字母卡实际操作：先读原词，再加入一个字母，重新数音素并拼读。
 
-`cat → /k/ /æ/ /t/`
-
-**Level 2：CCVC**
-
-`clap → /k/ /l/ /æ/ /p/`
-
-**Level 3：CVCC**
-
-`hand → /h/ /æ/ /n/ /d/`
-
-**Level 4：CCVCC**
-
-`plant → /p/ /l/ /æ/ /n/ /t/`
-
-**Level 5：CCCVC**
-
-`split → /s/ /p/ /l/ /ɪ/ /t/`
-
-### 中国家长需要注意
-
-英语单词中连续出现两个或三个辅音时，不代表需要添加额外的元音。
-
-例如：
-
-- plan 不是 pu-lan
-- stop 不是 si-top
-- split 不是 si-pu-lit
-
-正确练习方式是先分别听清每个音素，再尝试连续合音。
+🌟 **提醒：** `split` 是 CCCVC，`sprint` 是 CCCVCC，字母数和音素数相同。但是我们不能仅凭字母数判断音素数，像 `ship` 中 `sh` 是一个音素，`box` 中 `x` 常对应 /k/ + /s/ 两个音素。
 
 ---
+---
 
-# Part 3. 官方课程进度（Lessons 35–41）
+# Part 3. UFLI Lessons 35–41 课程进度与练习
 
-## 3.1 完整课程目录
+## 3.1 课程目录
 
-| Lesson | 官方知识点 | 中文解释 | 完成 |
+| Lesson | 复习内容 | 本课练习重点 | 完成 |
 |---|---|---|---|
-| 35 | Short A Review (incl. Nasalized A) | 短元音 a 复习，包括鼻音前的 a | ☐ |
-| 36 | Short I Review | 短元音 i 复习 | ☐ |
-| 37 | Short O Review | 短元音 o 复习 | ☐ |
-| 38 | Short A, I, O Review | a、i、o 综合复习 | ☐ |
-| 39 | Short U Review | 短元音 u 复习 | ☐ |
-| 40 | Short E Review | 短元音 e 复习 | ☐ |
-| 41 | Short Vowels Review (all) | 五个短元音综合复习 | ☐ |
+| 35 | Short A Review（含 Nasalized A） | /æ/、鼻音前 a、辅音连缀 | ☐ |
+| 36 | Short I Review | /ɪ/ 与较长单音节词 | ☐ |
+| 37 | Short O Review | 常见美式 /ɑ/ | ☐ |
+| 38 | Short A, I, O Review | 三个短元音听辨与拼写 | ☐ |
+| 39 | Short U Review | /ʌ/ 与较长单音节词 | ☐ |
+| 40 | Short E Review | /ɛ/ 与较长单音节词 | ☐ |
+| 41 | Short Vowels Review（All） | 五个短元音综合运用 | ☐ |
 
----
+## 3.2 Lessons 35–37：a、i、o
 
-## Lesson 35 — Short A Review
+### 🚩Lesson 35 — Short A /æ/
 
-### 1. 学习目标
-
-复习短元音 a 的常见发音 /æ/，并进一步熟悉较长的单音节词。
-
-同时关注 a 在 m、n 等鼻音前可能出现的发音变化。
-
-### 2. 示例单词
-
-| 结构 | 单词 |
+| 结构 | 例词 |
 |---|---|
-| CVC | cat, map, bag, fan |
-| CCVC | clap, plan, trap, grab |
-| CVCC | hand, sand, lamp, fast |
-| CCVCC | plant, stand, grand |
-| CCCVC | strap, scrap |
+| CVC | cat, map, bag, fan, man |
+| CCVC | clap, plan, trap, grab, flag |
+| CVCC | hand, sand, lamp, fast, last |
+| CCVCC / CCCVC | plant, stand, grand / strap, scrap |
 
-### 3. Nasalized A（鼻化的 a）
+**Nasalized A（鼻音前的 a）**：在许多美式英语口音中，/æ/ 位于 /m/、/n/ 前会受到鼻音影响，如 `am, an, man, ham, hand, sand`。孩子只需跟着可靠录音模仿，不必背复杂语音学术语。
 
-在许多美式英语口音中，/æ/ 出现在鼻辅音 /m/、/n/ 前时，元音可能发生变化。
+**🎣练习：** 音素分割 `cat`（3音）、`clap`（4音）、`hand`（4音）、`plant`（5音）；单词链 `cat → can → man → map → cap → clap`（最后一步增加 /l/）；听写 `fan, flag, sand, lamp, plant`。
 
-例如：
+🌟 不要把 /æ/ 直接读成汉语拼音 `a`。练习时可以让孩子观察嘴巴张开程度，并比较 `cat` 与 `cut`（后者在 Lesson 39 复习）。
 
-- am
-- an
-- ham
-- man
-- hand
-- sand
+### 🚩Lesson 36 — Short I /ɪ/
 
-不需要让孩子学习复杂的鼻化语音学知识，重点是听辨和模仿自然发音。
-
-### 4. 家庭练习
-
-**Phoneme Segmenting**
-
-- cat → /k/ /æ/ /t/
-- clap → /k/ /l/ /æ/ /p/
-- hand → /h/ /æ/ /n/ /d/
-- plant → /p/ /l/ /æ/ /n/ /t/
-
-**Word Chain**
-
-`cat → can → man → map → clap`
-
-其中 map → clap 不只是替换一个音，还涉及增加辅音并改变其他位置，因此不适合作为严格的单步音素变换链。
-
-更适合的练习链是：
-
-`cat → can → man → map → cap → clap`
-
-最后一步增加 /l/，其他步骤每次替换一个音素。
-
-### 5. 家长常见错误
-
-不要把短 a 直接读成拼音 a。
-
-例如 cat 中的 /æ/ 与普通话“啊”的元音并不相同。
-
----
-
-## Lesson 36 — Short I Review
-
-### 1. 学习目标
-
-巩固短元音 i /ɪ/，练习包含辅音连缀的单音节词。
-
-### 2. 示例单词
-
-| 结构 | 单词 |
+| 结构 | 例词 |
 |---|---|
-| CVC | sit, pin, big, lip |
-| CCVC | slip, spin, trip, grin |
-| CVCC | milk, list, lift, pink |
-| CCVCC | print, blink, twist |
-| CCCVC | split, strip, sprint（此词为 CCCVCC） |
+| CVC | sit, pin, big, lip, fit |
+| CCVC | slip, spin, trip, grin, drip |
+| CVCC | milk, list, lift, pink, mist |
+| CCVCC / CCCVC | print, blink, twist / split, strip |
 
-### 3. 发音重点
+**🎣练习：** 分割 `slip → /s/ /l/ /ɪ/ /p/`、`milk → /m/ /ɪ/ /l/ /k/`、`split → /s/ /p/ /l/ /ɪ/ /t/`；单词链 `pin → pan → pat → pit → sit → sip`；听写 `lip, slip, spin, milk, print`。
 
-英语 /ɪ/ 是短元音，舌位较高，但比 /i/ 更放松。
+🌟 /ɪ/ 不是汉语拼音 `i`，也不同于英语 `seat` 中的 /i/。`seat` 涉及后续拼写规则，只作听音对比；注意不要把 `slip` 读成两个音节。
 
-比较：
+### 🚩Lesson 37 — Short O /ɑ/（常见美式读法）
 
-- sit /sɪt/
-- seat /sit/
-
-前者是短元音 /ɪ/，后者是 /i/。
-
-*seat 的拼写属于后续元音组合知识点，此处仅用于发音对比。*
-
-### 4. 家庭练习
-
-**Word Chain**
-
-`pin → pan → pat → pit → sit → sip`
-
-每一步改变一个音素。
-
-**听音分割**
-
-- slip → /s/ /l/ /ɪ/ /p/
-- milk → /m/ /ɪ/ /l/ /k/
-- split → /s/ /p/ /l/ /ɪ/ /t/
-
-### 5. 家长常见错误
-
-不要把 /ɪ/ 发成拼音 i，也不要把 slip 中的 /sl/ 拆成两个音节。
-
----
-
-## Lesson 37 — Short O Review
-
-### 1. 学习目标
-
-复习短元音 o 的常见美式发音 /ɑ/。
-
-### 2. 示例单词
-
-| 结构 | 单词 |
+| 结构 | 例词 |
 |---|---|
-| CVC | hot, pot, dog, log |
-| CCVC | stop, frog, crop, plot |
+| CVC | hot, pot, dog, log, dot |
+| CCVC | stop, frog, crop, plot, drop |
 | CVCC | pond, lost, soft, cost |
 | CCVCC | frost, stomp |
-| CCCVC | strong（包含 /ŋ/，适合后续扩展） |
 
-### 3. 发音重点
+**🎣练习：** 分割 `stop → /s/ /t/ /ɑ/ /p/`、`frog → /f/ /ɹ/ /ɑ/ /g/`、`pond → /p/ /ɑ/ /n/ /d/`；单词链 `hot → pot → dot → dog → log → lot`；听写 `dog, stop, frog, pond, frost`。
 
-常见美式英语中，hot、pot、stop 等词的短 o 通常发 /ɑ/。
+🌟 `hot` 的短 o 不等于汉语拼音 `o`；美式和英式英语的短 o 也可能不同，以孩子学校采用的示范发音为准。
 
-但不同英语口音可能存在差异。
+## 3.3 Lessons 38–40：综合辨音 u、e
 
-例如，美式英语与英式英语在 hot 的元音上就存在区别。
+### 🚩Lesson 38 — Short A, I, O Review
 
-### 4. 家庭练习
+让孩子听辨 `/æ/`（cat, map, clap, hand）、`/ɪ/`（sit, pin, slip, milk）、`/ɑ/`（hot, pot, stop, pond）。**🎣听音分类**：家长打乱读出 `cat, slip, pond, pin, clap, hot, hand, stop, sit, map, milk, pot`，孩子写入 a / i / o 三列。**🎣单词链**：`pat → pit → pot → hot → hat → hit`。**🎣听写**：`cat, sit, hot, clap, slip, stop`，先拆音再写字母。
 
-**Word Chain**
+### 🚩Lesson 39 — Short U /ʌ/
 
-`hot → pot → dot → dog → log → lot`
-
-**音素分割**
-
-- stop → /s/ /t/ /ɑ/ /p/
-- frog → /f/ /ɹ/ /ɑ/ /g/
-- pond → /p/ /ɑ/ /n/ /d/
-
-### 5. 与汉语拼音比较
-
-英语 hot 中的 o 不是汉语拼音 o 的发音。
-
-建议家长优先使用英语示范音频，不要直接套用拼音读法。
-
----
-
-## Lesson 38 — Short A, I, O Review
-
-### 1. 学习目标
-
-综合复习短元音 a、i、o，尤其强调听辨与拼写。
-
-### 2. 元音对比
-
-| 元音 | 示例 |
+| 结构 | 例词 |
 |---|---|
-| /æ/ | cat, map, clap |
-| /ɪ/ | sit, pin, slip |
-| /ɑ/ | hot, pot, stop |
+| CVC | sun, cup, bug, mud, run |
+| CCVC | drum, plug, snug, slug, grub |
+| CVCC | jump, dust, bump, hunt, lump |
+| CCVCC / CCCVC | grunt, stump, crust / strut, scrub |
 
-### 3. 家庭练习：听音分类
+**🎣练习：** 分割 `drum → /d/ /ɹ/ /ʌ/ /m/`、`jump → /dʒ/ /ʌ/ /m/ /p/`、`stump → /s/ /t/ /ʌ/ /m/ /p/`；单词链 `sun → run → rub → tub → tug → bug`；听写 `cup, drum, dust, jump, stump`。
 
-家长随机读出：
+🌟 短 u /ʌ/ 不等于拼音 `u`（“乌”）；可对比 `cap /kæp/` 和 `cup /kʌp/`，让孩子发现中间声音改变后词义也改变。
 
-- cat
-- sit
-- hot
-- map
-- pin
-- pot
-- clap
-- slip
-- stop
+### 🚩Lesson 40 — Short E /ɛ/
 
-孩子将单词分到 a、i、o 三组。
-
-### 4. Word Chain
-
-`pat → pit → pot → hot → hat → hit`
-
-每一步替换一个音素。
-
-### 5. 拼写练习
-
-家长读单词，孩子先说出每个音素，再写出单词。
-
-建议顺序：
-
-1. cat
-2. sit
-3. hot
-4. clap
-5. slip
-6. stop
-
----
-
-## Lesson 39 — Short U Review
-
-### 1. 学习目标
-
-复习短元音 u /ʌ/，掌握含短 u 的较长单音节词。
-
-### 2. 示例单词
-
-| 结构 | 单词 |
+| 结构 | 例词 |
 |---|---|
-| CVC | sun, cup, bug, mud |
-| CCVC | drum, plug, snug, slug |
-| CVCC | jump, dust, bump, hunt |
-| CCVCC | grunt, stump, crust |
-| CCCVC | strut, scrub |
-
-### 3. 发音重点
-
-短 u /ʌ/ 不等于汉语拼音 u。
-
-例如：
-
-- cup
-- sun
-- mud
-- run
-
-这些词中的 u 通常发 /ʌ/，而不是汉语“乌”的元音。
-
-### 4. 家庭练习
-
-**Word Chain**
-
-`sun → run → rub → tub → tug → bug`
-
-**音素分割**
-
-- drum → /d/ /ɹ/ /ʌ/ /m/
-- jump → /dʒ/ /ʌ/ /m/ /p/
-- stump → /s/ /t/ /ʌ/ /m/ /p/
-
----
-
-## Lesson 40 — Short E Review
-
-### 1. 学习目标
-
-复习短元音 e /ɛ/，并练习复杂的单音节词。
-
-### 2. 示例单词
-
-| 结构 | 单词 |
-|---|---|
-| CVC | bed, pen, red, ten |
-| CCVC | step, sled, fret, bred |
-| CVCC | best, tent, left, bend |
+| CVC | bed, pen, red, ten, net |
+| CCVC | step, sled, fret, bred, stem |
+| CVCC | best, tent, left, bend, nest |
 | CCVCC | spent, blend, trend |
-| CCCVC | stress（包含双写 s，适合扩展） |
 
-### 3. 发音重点
+**🎣练习：** 分割 `step → /s/ /t/ /ɛ/ /p/`、`tent → /t/ /ɛ/ /n/ /t/`、`blend → /b/ /l/ /ɛ/ /n/ /d/`；单词链 `bed → bad → dad → did → lid → led`；听写 `pen, step, nest, bend, blend`。
 
-英语 /ɛ/ 与汉语拼音 e 不同。
+🌟 /ɛ/ 不等于汉语拼音 `e`。对比 `bad → bed → bid`，提醒孩子不要只看单词外形，必须听清中间的元音。
 
-比较：
+## 3.4 Lesson 41 — 五个短元音综合复习
+🎤推荐儿歌“Apples and Bananas”🍎🍌，可以和孩子一起反复跟唱，对短元音拼读大有助益。
 
-- bed
-- bad
-- bid
-
-三个词只改变中间元音，读音和意义就会变化。
-
-### 4. 家庭练习
-
-**Word Chain**
-
-`bed → bad → dad → did → lid → led`
-
-**音素分割**
-
-- step → /s/ /t/ /ɛ/ /p/
-- tent → /t/ /ɛ/ /n/ /t/
-- blend → /b/ /l/ /ɛ/ /n/ /d/
-
----
-
-## Lesson 41 — Short Vowels Review (All)
-
-### 1. 学习目标
-
-综合复习五个短元音及本单元的单音节词结构。
-
-孩子应能够：
-
-- 听辨五个短元音。
-- 拼读包含辅音连缀的单音节词。
-- 将单词分割成音素。
-- 根据声音拼写单词。
-- 阅读包含已学规则的简单句子。
-
-### 2. 五个短元音总表
-
-| 字母 | 常见发音 | 简单单词 | 较长单音节词 |
+| 元音 | CVC | 四音素单词 | 五音素单词 |
 |---|---|---|---|
-| a | /æ/ | cat, map | clap, hand, plant |
-| e | /ɛ/ | bed, pen | step, tent, blend |
-| i | /ɪ/ | sit, pin | slip, milk, print |
-| o | /ɑ/ | hot, pot | stop, pond, frost |
-| u | /ʌ/ | sun, cup | drum, jump, stump |
+| a /æ/ | cat, map | clap, hand | plant, stand |
+| e /ɛ/ | bed, pen | step, tent | blend, spent |
+| i /ɪ/ | sit, pin | slip, milk | print, split |
+| o /ɑ/ | hot, pot | stop, pond | frost, stomp |
+| u /ʌ/ | sun, cup | drum, jump | stump, crust |
 
-### 3. 综合 Word Chain
+### 🎣综合 Word Chains（单词变换链）
 
-**Chain A：**
+| 练习 | 每一步只改变一个音素或增删一个音素 |
+|---|---|
+| A：混合替换 | `cat → cap → cup → pup → pop → pot → hot → hat` |
+| B：元音和首末音 | `pin → pan → pat → pet → pen → ten → tin` |
+| C：辅音连缀 | `slip → flip → flap → clap → clan → plan` |
+| D：添加末音 | `pan → pant → plant`（第二步增加 /l/ 于首辅音后） |
+| E：删除音素 | `stand → sand → sad → sat` |
 
-`cat → cap → cup → pup → pop → pot → hot → hat`
+🌟 D 链的 `pan → pant` 是增加 /t/，`pant → plant` 是增加 /l/；家长可以明确说出“增加”而不是“替换”。每次只选一两条链，避免机械重复。
 
-**Chain B：**
+### 🎣分层听写
 
-`pin → pan → pat → pet → pen → ten → tin`
+| 难度 | 单词（每次选 3–5 个） |
+|---|---|
+| 基础：3音素 | cat, bed, sit, hot, sun, map, pen, cup |
+| 进阶：4音素 | clap, step, slip, stop, drum, hand, milk, jump |
+| 挑战：5音素 | plant, blend, print, frost, stump, split, stand, crust |
 
-**Chain C：**
-
-`slip → flip → flap → clap → clan → plan`
-
-每次只改变一个音素；有时改变首音，有时改变元音或末音。
-
-### 4. 综合听写
-
-建议分三组：
-
-**基础 CVC**
-
-- cat
-- bed
-- sit
-- hot
-- sun
-
-**四音素单词**
-
-- clap
-- step
-- slip
-- stop
-- drum
-
-**五音素单词**
-
-- plant
-- blend
-- print
-- frost
-- stump
-
-不要一次要求孩子完成全部15个词。可以每天选5个，观察孩子在哪些声音上容易出错。
+**操作方法：** 家长读词 → 孩子口头分音（可用积木计数）→ 写下字母 → 逐音核对 → 连起来读。若孩子写错，先请他重新听声音，再指出可能需要修改的位置。
 
 ---
+---
 
-# Part 4. 家长如何按照 UFLI 方法辅助练习？
+# Part 4. 在家模仿 UFLI 的练习方法
 
-## 4.1 八步教学方法与家庭应用
+## 4.1 八个教学环节
 
-| UFLI 环节 | 学习目的 | 家长可以怎么做 |
+| 环节 | 家庭简化操作 |
+|---|---|
+| Phonemic Awareness | 不看文字，听音、合音、分音 |
+| Visual Drill | 看字母或字母组合，说对应声音 |
+| Auditory Drill | 听声音，写对应字母 |
+| Blending Drill | /s/ /t/ /ɑ/ /p/ → stop |
+| New Concept | 复习短元音、辅音连缀 |
+| Word Work | 字母卡替换、添加、删除音素 |
+| Irregular Words | 复习学校当周 Heart Words |
+| Connected Text | 阅读已学规律的句子与短文 |
+
+家庭不必每次做完八个环节。每天选择 3–4 项，练习 **10–15 分钟** 即可。
+
+## 4.2 Word Work：像美国课堂一样操作
+
+美国老师常使用磁性字母、Letter Tiles（字母卡）或小白板，让孩子从一个词开始，根据老师给出的声音提示改变一个音素，并重新拼读整个词。
+
+| 类型 | 练习链 | 家长英文提示示例 |
 |---|---|---|
-| Phonemic Awareness | 听辨和操作音素 | 听单词、拆声音 |
-| Visual Drill | 字母到声音 | 看字母卡说发音 |
-| Auditory Drill | 声音到字母 | 听音写字母 |
-| Blending Drill | 音素合成 | /s/ /t/ /ɑ/ /p/ → stop |
-| New Concept | 学习或复习规则 | 讲解短元音与辅音连缀 |
-| Word Work | 拼读和拼写 | Word Chains |
-| Irregular Words | 高频词特殊拼写 | 复习学校当周 Heart Words |
-| Connected Text | 句子与文章阅读 | 阅读可解码句子和短文 |
+| 替换首音 | `mat → sat → pat → bat → cat` | “Change /m/ to /s/.” |
+| 替换元音 | `pan → pen → pin → pun` | “Change /æ/ to /ɛ/.” |
+| 替换末音 | `map → mat → man → mad` | “Change /p/ to /t/.” |
+| 添加首音附近的辅音 | `cap → clap`；`pin → spin` | “Add /l/ after /k/.” |
+| 添加末音 | `pan → pant`；`lam → lamp`（lam 为练习用词） | “Add /t/ at the end.” |
+| 删除音素 | `stop → top`；`plant → pant` | “Take away /s/.” |
+
+### 🎣家长引导脚本
+
+“Read the word: **cap**.”（读 cap。）→ “Add /l/ after /k/.”（在 /k/ 后加 /l/。）→ “What is the new word?”（新词是什么？）→ 孩子拼出 `clap`，再逐音读 `/k/ /l/ /æ/ /p/`。同理可以练 `pin → spin`、`pan → plan`、`top → stop`、`lip → slip`。
+
+🌟 **注意**：`cap → clap` 增加的是一个音素，**不是**把 /k/ 和 /l/ 合并成一个新音素。开始时用熟悉、已学过的词；如果出现错音，先帮助孩子辨音，再检查拼写。
+
+## 4.3 🎣每天15分钟家庭练习示例
+
+| 时间 | 活动 | 可直接使用的材料 |
+|---|---|---|
+| 3分钟 | 音素分割 | cat（3）、stop（4）、plant（5）、slip（4） |
+| 3分钟 | 短元音听辨 | cat / sit / hot / sun / bed；再换 map / pin / pot / cup / pen |
+| 5分钟 | 单词变换链 | `cat → cap → cup → pup → pop → pot` |
+| 4分钟 | 短句阅读 | `Sam can clap.` `The dog can jump.` `A frog sat on a log.` |
+
+🌟 句子中的 `the`、`a` 等高频词可能需要家长提前介绍；不要把含未学规律的句子全部当作孩子应当独立拼读的材料。
 
 ---
-
-## 4.2 推荐每天15分钟练习
-
-### Step 1：音素意识（3分钟）
-
-家长说出：
-
-- cat
-- stop
-- plant
-
-孩子逐个说出其中的音素。
-
-可以使用积木，每听到一个音素就移动一块积木。
-
-例如 plant 需要5块积木。
-
-### Step 2：短元音听辨（3分钟）
-
-家长随机读出：
-
-- cat
-- sit
-- hot
-- sun
-- bed
-
-孩子判断中间的元音。
-
-### Step 3：Word Chains（5分钟）
-
-使用字母卡片：
-
-`cat → cap → cup → pup → pop → pot`
-
-每一步让孩子自己找出发生变化的声音。
-
-### Step 4：句子阅读与复述（4分钟）
-
-阅读：
-
-- The cat sat on the mat.
-- A frog sat on a log.
-- The dog can jump.
-- The plant is in a pot.
-
-这些句子包含部分尚未在 Lessons 1–41 中系统学习的拼写模式或高频词，因此可由家长辅助阅读，不应全部当作严格可解码练习。
-
-阅读后问：
-
-- What happened?
-- Where was the animal?
-- Can you tell me the sentence in your own words?
-
 ---
 
 # Part 5. 阅读与写作练习
 
-## 5.1 阅读：从单词走向短文
+## 5.1 从单词到短句
 
-### 练习短文：The Frog and the Log
+| Level | 练习内容 |
+|---|---|
+| 1：读词 | cat, clap, stop, plant, slip, milk, jump, blend |
+| 2：读句 | `Sam can clap.` `The cat sat.` `The dog can jump.` `A frog sat on a log.` |
+| 3：听写短句 | `Sam sat.` `The dog ran.` `A cat can jump.` |
 
-A frog sat on a log.
+### 🎣家庭补充短文：The Frog and the Log
 
-The frog saw a bug.
+> A frog sat on a log. The frog saw a bug. The bug ran. The frog ran too. The frog got wet.
 
-The bug ran.
+**阅读理解：** “Where did the frog sit?”（青蛙坐在哪里？）“What did the frog see?”（看见了什么？）“What did the bug do?”（虫子做了什么？）“Why do you think the frog ran?”（你觉得青蛙为什么跑？）最后一题是开放推测，没有唯一答案。
 
-The frog ran too.
+🌟 **阅读提示：** 这篇短文用于亲子阅读理解，不是严格限定 Lessons 1–41 已学字素的官方可解码短文。`the`、`saw` 等词需要家长辅助，不应据此判断孩子是否掌握本单元拼读规则。
 
-The frog got wet.
+## 5.2 🎣从听写单词到自主造句
 
-### 阅读理解问题
+**听写词：** `hand, stop, jump, plant, slip, blend`。**填空句：** `The cat is on the ____.`（mat） / `I can ____.`（jump） / `The ____ is big.`（dog）。**看图写句：** 看到青蛙在木头上，可以写 `A frog is on a log.`；熟练后扩展为 `A green frog is on a big log.`（green 涉及后续元音拼写，家长可提供单词）。
 
-1. Where did the frog sit?
-2. What did the frog see?
-3. What did the bug do?
-4. Why do you think the frog ran?
-
-**家长提醒：** 这篇短文用于家庭阅读理解练习，不是严格符合 Lessons 1–41 已学拼读规则的官方 Decodable Text。其中 saw、the 等词需要提前介绍或由家长辅助。
-
-## 5.2 写作：从单词到完整句子
-
-### Level 1：听写单词
-
-- cat
-- hand
-- stop
-- jump
-- plant
-
-### Level 2：补全句子
-
-1. The cat is on the ______.
-2. I can ______.
-3. The ______ is big.
-
-### Level 3：自主造句
-
-给孩子一张图片，例如一只青蛙坐在木头上。
-
-让孩子自己写一句话：
-
-`A frog is on a log.`
-
-如果孩子愿意，可以继续扩展：
-
-`A green frog is on a big log.`
-
-**与中文写作对比：**
-
-中国孩子刚开始写话时，老师可能让他们“看图写一句话”，然后逐渐扩展为几句话。
-
-美国低年级写作也有类似的发展过程。
-
-但英语写作需要额外注意单词拼写、词间空格、句首大写和句末标点。
+🌟 和中文低年级“看图写话”类似，英语写作也可以从一句话逐步扩展。除了拼写，还要提醒孩子注意**词间空格、句首大写、句末标点**。
 
 ---
-
-# Part 6. 中国家长容易遇到的问题
-
-### Q1：为什么 stop 只有一个音节？
-
-因为音节不是按字母数量决定的。
-
-stop 包含四个音素，但只有一个元音核心，因此是一个音节。
-
-### Q2：为什么孩子会把 stop 读成两个音节？
-
-可能是因为还不习惯英语连续辅音的结构。
-
-例如 /st/ 中间不应该加入额外的元音。
-
-可以先练：
-
-- /s/
-- /t/
-- /st/
-- stop
-
-注意逐步连读，而不是把每个辅音读成一个独立音节。
-
-### Q3：孩子能读 cat，却读不出 clap，说明什么？
-
-可能是因为孩子已经掌握简单 CVC 结构，但还不熟悉辅音连缀。
-
-建议先练：
-
-`cap → clap`
-
-比较两个单词：
-
-- cap：/k/ /æ/ /p/
-- clap：/k/ /l/ /æ/ /p/
-
-让孩子发现 clap 比 cap 多了 /l/。
-
-### Q4：需要让孩子记住 CCVC、CVCC 这些术语吗？
-
-不需要。
-
-这些术语主要帮助家长和教师理解单词结构。
-
-孩子只需要能够听清、拼读和拼写单词即可。
-
-### Q5：是不是每个较长的单词都可以按照规则拼读？
-
-不是。
-
-本单元主要处理较长的单音节词。
-
-以后还需要学习：
-
-- Digraphs
-- Silent e
-- Vowel Teams
-- R-Controlled Vowels
-- Syllable Types
-- Prefixes and Suffixes
-
-因此，孩子暂时读不出包含尚未学习规则的单词是正常的。
-
 ---
 
-# Part 7. 学习进度跟踪
+# Part 6. 家长常见问题
 
-## 7.1 Lesson 进度表
+### 🚩Q1：stop 为什么只有一个音节？
 
-| Lesson | 知识点 | 日期 | 掌握情况 | 需要复习 |
-|---|---|---|---|---|
-| 35 | Short A | | ☐ 熟练 ☐ 练习中 | |
-| 36 | Short I | | ☐ 熟练 ☐ 练习中 | |
-| 37 | Short O | | ☐ 熟练 ☐ 练习中 | |
-| 38 | A / I / O | | ☐ 熟练 ☐ 练习中 | |
-| 39 | Short U | | ☐ 熟练 ☐ 练习中 | |
-| 40 | Short E | | ☐ 熟练 ☐ 练习中 | |
-| 41 | All Short Vowels | | ☐ 熟练 ☐ 练习中 | |
+它有 /s/ /t/ /ɑ/ /p/ 四个音素，却只有一个元音核心，所以是一个音节。不要把音素数当成音节数。
 
-## 7.2 单元结束自查
+### 🚩Q2：孩子总把 stop 读成“si-top”，怎么办？
 
-### 短元音
+先练持续发 /s/，再接 /t/，最后读完整 `stop`。也可练 `top → stop`、`pin → spin`、`lip → slip`，让孩子听到新增的辅音，但不额外增加音节。
 
-- [ ] 能区分 /æ/、/ɛ/、/ɪ/、/ɑ/、/ʌ/。
-- [ ] 能听辨容易混淆的元音。
-- [ ] 能根据听到的元音选择正确的字母。
+### 🚩Q3：孩子能读 cat，却读不出 clap，说明什么？
 
-### 辅音连缀
+可能已经掌握 CVC，但还不熟悉连缀。用 `cap → clap` 比较：`cap` 有 /k/ /æ/ /p/ 三个音素；`clap` 多出 /l/，有四个音素。先拆音、再合音、最后看拼写。
 
-- [ ] 能准确拼读 CCVC 单词。
-- [ ] 能准确拼读 CVCC 单词。
-- [ ] 能尝试拼读 CCVCC 和 CCCVC 单词。
-- [ ] 不会习惯性在连续辅音之间添加额外元音。
+### 🚩Q4：孩子需要记住 CCVC、CVCC 等术语吗？
 
-### 拼读与拼写
+不需要。这些主要是帮助家长理解难度变化的标签。孩子的目标是听清、拼读和拼写，而不是背术语。
 
-- [ ] 能独立拼读本单元所覆盖的陌生单词。
-- [ ] 能分割4–5个音素的单词。
-- [ ] 能听写较长的单音节词。
-- [ ] 能通过 Word Chains 操作单词中的音素。
+### 🚩Q5：为什么有些长一点的词仍然读不出来？
 
-### 阅读与表达
-
-- [ ] 能阅读包含已学规则的简单句子。
-- [ ] 能理解部分已读单词的意思。
-- [ ] 能复述简单句子或故事内容。
-- [ ] 愿意尝试用英文写句子。
+本单元主要训练**更复杂的单音节结构**，并未教完所有拼写规则。后面还会学 Digraphs、Silent e、Vowel Teams、R-controlled Vowels 等。遇到尚未学过的模式，家长可以先示范，不必强求独立拼读。
 
 ---
-
-# Part 8. 家庭练习记录模板
-
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
-
-### 今日复习
-
-- [ ] Short Vowels
-- [ ] Phoneme Blending
-- [ ] Phoneme Segmenting
-- [ ] Consonant Blends
-- [ ] Word Chains
-- [ ] Decoding
-- [ ] Encoding
-- [ ] Reading
-
-**练习单词：**
-
-**孩子掌握较好的内容：**
-
-**容易混淆的发音：**
-
-**下次需要复习：**
-
 ---
 
-# Part 9. 本单元总结
+# Part 7. 学习进度与家庭记录
 
-## 三个最重要的学习成果
+## 7.1 Lesson 进度
 
-**1. 熟练掌握五个短元音。**
+| Lesson | 日期 | 掌握情况 | 需要复习的词或发音 |
+|---|---|---|---|
+| 35 Short A | | ☐ 熟练 ☐ 练习中 | |
+| 36 Short I | | ☐ 熟练 ☐ 练习中 | |
+| 37 Short O | | ☐ 熟练 ☐ 练习中 | |
+| 38 A / I / O | | ☐ 熟练 ☐ 练习中 | |
+| 39 Short U | | ☐ 熟练 ☐ 练习中 | |
+| 40 Short E | | ☐ 熟练 ☐ 练习中 | |
+| 41 All Short Vowels | | ☐ 熟练 ☐ 练习中 | |
 
-这是后续学习 Silent e、Vowel Teams 和多音节词的重要基础。
+## 7.2 🎣单元自查
 
-**2. 理解英语允许多个辅音连续出现。**
+- [ ] 能听辨五个短元音，正确选择相应的字母。
+- [ ] 能拼读 CVC、CCVC、CVCC，并尝试 CCVCC、CCCVC。
+- [ ] 能分割、合成 3–5 个音素，不在辅音连缀中额外添加元音。
+- [ ] 能通过 Word Chains 替换、增加、删除一个音素。
+- [ ] 能听写部分较长单音节词，并尝试阅读简单句子。
+- [ ] 能解释读过的部分词义，回答简单阅读问题。
 
-孩子能够从 cat、sit 逐步过渡到 stop、plant、split 等更复杂的单音节词。
+<div style="page-break-after: always;"></div>
 
-**3. 从记忆熟悉单词转向独立拼读陌生单词。**
+### 🚩家庭练习记录（可重复打印）
 
-家长可以通过 Word Chains、音素分割和听写来判断孩子是否真正掌握规律。
+**日期：** __________　
+**Lesson：** ______　
+**练习时长：** ______ 分钟  
+**今日内容：** ☐ 短元音 ☐ 合音/分音 ☐ 辅音连缀 ☐ Word Chains ☐ 听写 ☐ 阅读  
+**练习单词：** __________________________________________________  
+**掌握较好：** __________________　
+**需要复习：** __________________
+
+<div style="page-break-after: always;"></div>
 
 ---
+---
 
-## 下一单元预告
+# Part 8. 本单元总结
 
-**Unit 3 — Digraphs（Lessons 42–53）**
+**第一，熟练听辨五个短元音。** 能区分 /æ/、/ɛ/、/ɪ/、/ɑ/、/ʌ/，为后续元音拼写规律打基础。
 
-主要学习：
+**第二，理解连续辅音不等于多个音节。** 从 `cat`、`sit` 过渡到 `stop`、`plant`、`split`，仍能逐音拼读。
 
-- FLSZ Spelling Rule
-- -all、-oll、-ull
-- ck
-- sh
-- voiced th
-- unvoiced th
-- ch
-- wh、ph
-- ng、nk
+**第三，从记熟词走向独立拼读。** 用音素分割、Word Chains 和听写，观察孩子是否真正建立了声音与拼写的联系。
 
-这也是美国一年级自然拼读教学中非常重要的阶段。
-
-孩子将进一步理解：
-
-**两个字母不一定表示两个音素，有时两个字母组合起来只表示一个音素。**
+**下一单元：Unit 3 — Digraphs（Lessons 42–53）**。将继续学习两个字母表示一个音素的常见拼写模式，如 `ck`、`sh`、`th`、`ch`、`ng`、`nk` 等，以及相关的拼写规则。

@@ -18,8 +18,8 @@ has_children: true
 **适用对象：** 希望了解美国小学英语教学、辅助孩子巩固自然拼读的中国家长
 
 **官方资料：**
-- [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
+- [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)知识点一览
+- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)每课时的参考教学ppt
 - [UFLI 免费可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
 > **使用说明**
