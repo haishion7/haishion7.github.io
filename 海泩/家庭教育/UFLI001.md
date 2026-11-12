@@ -16,6 +16,7 @@ has_children: true
 **课程范围：** Lessons 1–34  
 **适用阶段：** Kindergarten 基础教学及一年级复习  
 **适用对象：** 希望了解美国小学英语教学、辅助孩子巩固自然拼读的中国家长
+
 **官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
 > **使用说明**

@@ -15,6 +15,7 @@ has_children: true
 **课程范围：** Lessons 35–41  
 **适用阶段：** Kindergarten 后期、一年级基础巩固及复习  
 **前置知识：** Unit 1 — Alphabet（Lessons 1–34）
+
 **官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
 > **使用说明**：本手册沿用 Unit 1 的自然拼读教学思路，帮助中国家长理解知识点并进行家庭复习。发音以常见美式英语为参考；中文拼音只用于概念比较，不能代替英语发音。例词、练习和短文为家庭补充材料，并非 UFLI 官方逐课原文；部分扩展词涉及后续知识，请按孩子进度选用。
