@@ -6,7 +6,10 @@ nav_order: 0
 has_children: true
 ---
 
-2026/11/12 ♥️ <a href="assert/UFLI/UFLI002.pdf" target="_blank" rel="noopener noreferrer">点击可下载本页内容的PDF版本</a>
+<div style="font-size: 11px; color: #999; text-align: right; margin: 8px 0 16px 0;">
+  2026/11/12 · 海泩整理 · 抖音同名 · 欢迎交流、指正与反馈
+👉 <a href="assert/UFLI/UFLI002.pdf" target="_blank" rel="noopener noreferrer">PDF下载</a>
+</div>
 
 # UFLI Foundations 家长辅助学习手册
 
