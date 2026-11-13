@@ -1,10 +1,4 @@
----
-layout: default
-title: UFLI｜007
-parent: 家庭教育
-nav_order: 0
-has_children: true
----
+
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 7 — R-Controlled Vowels（R 控制元音）
