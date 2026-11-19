@@ -1,1473 +1,522 @@
+---
+layout: default
+title: UFLI｜012
+parent: 家庭教育
+nav_order: 0
+has_children: true
+---
+
+<div style="font-size: 11px; color: #999; text-align: right; margin: 8px 0 16px 0;">
+  2026/11/19 · 海泩整理 ❤️ 抖音同名 · 欢迎交流、指正与反馈
+👉 <a href="assert/UFLI/UFLI012.pdf" target="_blank" rel="noopener noreferrer">PDF下载</a>
+</div>
 
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 12 — Suffixes, Prefixes & Spelling Changes（前后缀与拼写变化）
 
 **课程范围：** Lessons 99–110  
-**适用阶段：** 一年级后期至二年级，或需要巩固构词与拼写规律的学生  
-**前置知识：** Units 1–11，包括自然拼读、音节划分、VCe、Vowel Teams 和常见词尾模式。
+**适用阶段：** 一年级后期至二年级；也适合拼读与基础构词复习  
+**前置知识：** Units 1–11，包括音素与字素、短长元音、VCe、音节划分、Vowel Teams 和常见词尾。
 
-**官方资料：**
+**官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
-- [UFLI Scope & Sequence PDF](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
-- [UFLI Printable Resources](https://ufli.education.ufl.edu/foundations/printable-resources/)
-
-> **本单元核心目标**
->
-> 帮助孩子理解英语单词如何通过前缀、后缀和拼写变化产生新的词形或意义。
->
-> 重点掌握：
->
-> - 常见后缀：-s、-es、-er、-est、-ly、-less、-ful
-> - 常见前缀：un-、pre-、re-、dis-
-> - 后缀拼写变化：Doubling Rule、Drop-e Rule、y-to-i Rule
->
-> **核心理念：从只关注字母与声音，逐步发展到同时关注单词的结构和意义。**
-
-本手册面向中国家长。示例、解释和家庭练习为自行编写的辅助内容，并非 UFLI 官方教师手册的逐字翻译。
+> **使用说明：** 本手册面向中国家长，以常见美式英语为参考。例词、词素练习、Word Work、短文和家庭练习为自行编写的补充材料，并非 UFLI 官方逐课原文。词缀意义和拼写规则有适用范围，涉及较复杂语法的例句可由家长辅助。
 
 ---
 
-# Part 1. 学习目标
+# Part 1. 本单元学什么？
 
-完成本单元后，孩子应逐步能够：
+Unit 11 认识词内不发音的字母；Unit 12 进一步认识**基础词（Base Word）与词缀（Affix）**：加上前缀或后缀可以改变意义或语法形式，添加后缀时还可能需要调整拼写。`help → helpful`、`un + happy → unhappy`、`run + ing → running` 都是例子。
 
-- [ ] 理解 Base Word（基础词）的概念。
-- [ ] 理解 Prefix（前缀）和 Suffix（后缀）。
-- [ ] 认识 -s、-es 的常见用途与发音。
-- [ ] 掌握 -er、-est 表示比较的常见情况。
-- [ ] 理解 -ly、-less、-ful 的常见意义。
-- [ ] 理解 un-、pre-、re-、dis- 的常见意义。
-- [ ] 掌握添加后缀时的辅音双写规律。
-- [ ] 掌握添加后缀时去掉词尾 e 的常见规律。
-- [ ] 掌握词尾 y 改为 i 的常见规律。
-- [ ] 能将单词拆分为基础词和词缀。
-- [ ] 能通过词缀推测陌生单词的意义。
-- [ ] 能在阅读和写作中使用相关词汇。
+| 核心能力 | 单元结束时的表现 |
+|---|---|
+| 后缀 -s、-es、-er、-est | 认识复数、动词形式和比较表达 |
+| 后缀 -ly、-less、-ful | 理解常见词义变化 |
+| 前缀 un-、pre-、re-、dis- | 根据基础词推测新词含义 |
+| Doubling | 拼写 running、stopped、bigger |
+| Drop-e | 拼写 making、hoping、riding |
+| y-to-i | 拼写 babies、happier、cried |
+| 综合应用 | 词素分块、构词、分类、听写、阅读与写作 |
+
+🌟 **教学重点：** 词素（Morpheme）是意义或语法单位，音节（Syllable）是语音单位。`un-hap-py` 有三个音节，但按词素可拆为 `un + happy` 两部分；不能把所有分块都当成 Word Chains。
 
 ---
 
 # Part 2. 中国家长需要理解的基础概念
 
-## 2.1 什么是 Morpheme（词素）？
+## 2.1 🚩Phoneme、Grapheme、Syllable 与 Morpheme
 
-Morpheme 是语言中具有意义或语法功能的最小单位。
-
-例如：
-
-`unhappy`
-
-可以拆成：
-
-`un- + happy`
-
-其中：
-
-- happy：快乐的。
-- un-：表示否定。
-- unhappy：不快乐的。
-
-再例如：
-
-`jumped`
-
-可以拆成：
-
-`jump + -ed`
-
-其中：
-
-- jump：跳。
-- -ed：在这里表示规则动词的过去式形式。
-
-### 与 Phoneme 的区别
-
-| 概念 | 中文 | 作用 | 示例 |
+| 概念 | 中文 | 关注什么 | 示例 |
 |---|---|---|---|
-| Phoneme | 音素 | 区分发音和词义 | /k/、/æ/、/t/ |
-| Grapheme | 字素 | 用字母表示声音 | c、a、t、sh |
-| Morpheme | 词素 | 表示意义或语法功能 | un-、happy、-ed |
-| Syllable | 音节 | 语音节奏单位 | hap-py |
+| Phoneme | 音素 | 听到的最小区别性声音 | cat：/k/ /æ/ /t/ |
+| Grapheme | 字素 | 代表声音的拼写 | sh、ee、igh |
+| Syllable | 音节 | 单词的语音节奏 | hap-py（2个） |
+| Morpheme | 词素 | 最小意义或语法单位 | un + happy（2个） |
 
-**注意：词素、音素、音节并不是同一个概念。**
+`jumped = jump + ed`：-ed 在这里表示过去式；`unhelpful = un + help + ful`：三个词素共同构成新词。词素拆分与音节划分不必一致，例如 `help-ful` 恰好两者相近，但 `un-hap-py` 与 `un + happy` 不同。
 
-例如：
+## 2.2 🚩Prefix 与 Suffix
 
-`unhappy`
-
-- 词素：un- + happy，共2个。
-- 音节：un-hap-py，共3个。
-
----
-
-## 2.2 与中文构词的比较
-
-中文也可以通过组合有意义的成分形成词语。
-
-例如：
-
-- 快乐
-- 不快乐
-- 重新开始
-- 读者
-- 工作人员
-
-英语同样可以通过词缀改变意义：
-
-| 英语 | 中文 | 构词 |
-|---|---|---|
-| happy | 快乐的 | 基础词 |
-| unhappy | 不快乐的 | un- + happy |
-| read | 阅读 | 基础词 |
-| reread | 重新阅读 | re- + read |
-| help | 帮助 | 基础词 |
-| helpful | 有帮助的 | help + -ful |
-| careless | 粗心的 | care + -less |
-
-### 两种语言的重要区别
-
-中文通常不需要通过改变汉字本身的拼写来表示语法变化。
-
-例如：
-
-- 我跳。
-- 我昨天跳了。
-- 我正在跳。
-
-英语则经常通过词尾或助动词表达相应的语法关系：
-
-- I jump.
-- I jumped yesterday.
-- I am jumping.
-
-不过，英语 -ed、-ing 并不分别等同于中文“了”“正在”，需要结合句子结构理解。
-
----
-
-## 2.3 Prefix 与 Suffix 有什么区别？
-
-**Prefix（前缀）**：加在基础词前面。
-
-例如：
-
-`un- + kind → unkind`
-
-**Suffix（后缀）**：加在基础词后面。
-
-例如：
-
-`kind + -ness → kindness`
-
-| 类型 | 位置 | 示例 |
-|---|---|---|
-| Prefix | 词前 | unhappy, rewrite |
-| Suffix | 词后 | helpful, slowly |
-| Prefix + Suffix | 词前与词后 | unhelpful |
-
-### 为什么学习词缀很重要？
-
-因为孩子遇到一个不熟悉的单词时，可以尝试拆分它。
-
-例如：
-
-`unhelpful`
-
-拆成：
-
-`un- + help + -ful`
-
-即使孩子第一次看到这个词，也可以根据已学词素推测：
-
-- help：帮助。
-- -ful：具有某种性质。
-- un-：否定。
-
-因此 unhelpful 表示“没有帮助的”。
-
----
-
-# Part 3. 官方课程进度（Lessons 99–110）
-
-## 3.1 Suffixes & Prefixes（Lessons 99–106）
-
-| Lesson | 官方知识点 | 中文解释 | 完成 |
+| 类型 | 位置 | 常见功能 | 例词 |
 |---|---|---|---|
-| 99 | -s、-es | 复数或动词词尾 | ☐ |
-| 100 | -er、-est | 比较级与最高级 | ☐ |
-| 101 | -ly | 常见副词后缀 | ☐ |
-| 102 | -less、-ful | 表示缺少或具有某种性质 | ☐ |
-| 103 | un- | 常见否定前缀 | ☐ |
-| 104 | pre-、re- | 之前、再次 | ☐ |
-| 105 | dis- | 否定、相反或分离 | ☐ |
-| 106 | Affixes Review 1 | 词缀综合复习 | ☐ |
+| Prefix 前缀 | 基础词前 | 否定、重复、提前 | unhappy, reread, preheat |
+| Suffix 后缀 | 基础词后 | 语法变化或新词义 | cats, taller, slowly, helpful |
+| 前后缀组合 | 两侧 | 叠加词义 | unhelpful = un + help + ful |
 
-## 3.2 Suffix Spelling Changes（Lessons 107–110）
+🌟 `re-` 并不意味着所有 re 开头的词都可拆开；`red`、`real` 不是 re + 基础词。后缀 `-er` 也可能表示“做某事的人”（teacher），本单元 Lesson 100 重点是比较级（taller）。
 
-| Lesson | 官方知识点 | 中文解释 | 完成 |
+## 2.3 🚩为什么添加后缀还要改变拼写？
+
+| 处理方式 | 基础词 + 后缀 | 结果 | 核心提示 |
 |---|---|---|---|
-| 107 | Doubling Rule: -ed、-ing | 添加 -ed、-ing 时的辅音双写 |
-| 108 | Doubling Rule: -er、-est | 添加 -er、-est 时的辅音双写 |
-| 109 | Drop-e Rule | 添加某些后缀时去掉词尾 e |
-| 110 | y-to-i Rule | 添加某些后缀时 y 改为 i |
+| 直接添加 | jump + ing | jumping | 不需要改变基础词 |
+| Doubling | run + ing | running | 特定短元音末尾结构双写辅音 |
+| Drop-e | make + ing | making | 某些元音开头后缀前去掉词尾 e |
+| y-to-i | happy + er | happier | 辅音字母 + y，遇到部分后缀改 i |
+
+`hop → hopping` 与 `hope → hoping` 是最适合并排展示的一组：两者都添加 -ing，却分别遵循双写与去 e 规则。
+
+## 2.4 🚩发音和意义都要看
+
+`cats` 的 -s 读 /s/，`dogs` 的 -s 读 /z/，`boxes` 的 -es 读 /ɪz/。这三个词尾都可能表示复数，但读音取决于基础词末尾的**声音**。`walked`、`played`、`wanted` 中 -ed 也有不同发音（分别读 /t/、/d/、/ɪd/）。
+
+中文可以用“不”“更”“最”“重新”等独立成分表达类似意义；英语经常使用词缀，但两种语言并非逐词对应。例如 -ing 不总等于“正在”，-ed 也不总等于“了”。
 
 ---
 
-# Part 4. 逐课知识点与家庭练习
+# Part 3. UFLI Lessons 99–110 课程进度与练习
 
-## Lesson 99 — Suffixes -s、-es
+## 3.1 课程目录
 
-### 1. 学习目标
+| Lesson | 课程内容 | 练习重点 | 完成 |
+|---|---|---|---|
+| 99 | -s、-es | 三种词尾发音；复数和动词形式 | ☐ |
+| 100 | -er、-est | tall、taller、tallest | ☐ |
+| 101 | -ly | quick、quickly | ☐ |
+| 102 | -less、-ful | helpful、helpless | ☐ |
+| 103 | un- | unhappy、unlock | ☐ |
+| 104 | pre-、re- | preheat、reread | ☐ |
+| 105 | dis- | disagree、dislike | ☐ |
+| 106 | Affixes Review 1 | 词素分类与词义推测 | ☐ |
+| 107 | Doubling：-ed、-ing | stopped、running | ☐ |
+| 108 | Doubling：-er、-est | bigger、biggest | ☐ |
+| 109 | Drop-e Rule | making、riding | ☐ |
+| 110 | y-to-i Rule | babies、happier | ☐ |
 
-复习并扩展 -s、-es 的常见用途，包括名词复数和动词形式。
+## 3.2 🚩Lesson 99 — -s、-es
 
-### 2. 名词复数
+-s、-es 可用于名词复数，也可用于一般现在时第三人称单数动词。词尾的三种常见读音取决于**基础词最后一个音素**：
+- 清辅音 /p/、/t/、/k/、/f/、/θ/ → /s/
+- 元音或浊辅音 /b/、/d/、/g/、/v/、/ð/、/m/、/n/、/ŋ/、/l/、/r/ → z/
+- 咝音 /s/、/z/、/ʃ/、/ʒ/、/tʃ/、/dʒ/ → /ɪz/
 
-| 单数 | 复数 | 中文 |
+| /s/ | /z/ | /ɪz/ |
 |---|---|---|
-| cat | cats | 猫 |
-| dog | dogs | 狗 |
-| book | books | 书 |
-| box | boxes | 盒子 |
-| dish | dishes | 盘子 |
-| bus | buses | 公共汽车 |
-| wish | wishes | 愿望 |
+| cats, books, cups | dogs, pens, bags | boxes, dishes, buses |
+| maps, hats | runs, plays | wishes, watches |
 
-### 3. 三种常见发音
+**🎣 词素分块：** `cat + s → cats`；`dish + es → dishes`；`run + s → runs`。**分类：** `cats, dogs, boxes, books, dishes, pens, watches, bags` 按 /s/、/z/、/ɪz/ 分类。**听写：** `cats, dogs, boxes, dishes, wishes`。**读句：** `I have two cats.` `She watches the birds.`
 
-| 词尾发音 | 示例 |
+🌟 词尾 -es 不一定都增加一个音节，例如 `goes` 的词尾读 /z/；不要教成“看到 es 一律读 /ɪz/”。
+
+**🌟 语法与中文对比：** `tall` 描述一个人的身高；`taller` 常用于两者比较，句中可以用 `than`；`the tallest` 常用于某个范围内的最高者。例如 `Ben is tall.` → `Ben is taller than Tom.` → `Ben is the tallest in the class.`。中文多用“更”“最”，英语常通过词尾变化表达。
+
+**🎣 家庭问答：** “Who is taller, Ben or Tom?” “Who is the tallest?” 让孩子观察三支不同长度的铅笔，分别用 `long / longer / longest` 描述。
+
+## 3.3 🚩Lesson 100 — -er、-est
+
+在许多较短的形容词后添加 -er 表示“更……”，添加 -est 表示“最……”。本课先学习**直接添加**，双写规则在 Lesson 108 再系统练习。
+- -er → /ɚ/：通常为非重读卷舌元音，如 taller /ˈtɔlɚ/、faster /ˈfæstɚ/。
+- -est → /ɪst/：通常为非重读音节，如 tallest /ˈtɔlɪst/、fastest /ˈfæstɪst/。
+
+🌟 注意： -er 和 -est 通常各增加一个音节。-er 中的 /ɚ/ 与 Unit 7 学过的重读 /ɝ/ 不同；-est 中的 e 通常读 /ɪ/，不是短元音 /ɛ/。
+
+| 基础词 | 比较级 | 最高级 | 基础词 | 比较级 | 最高级 |
+|---|---|---|---|---|---|
+| tall | taller | tallest | fast | faster | fastest |
+| small | smaller | smallest | long | longer | longest |
+| short | shorter | shortest | cold | colder | coldest |
+
+**🎣 词素分块：** `tall + er`、`tall + est`。**词形转换：** `fast → faster → fastest`；`small → smaller → smallest`。**听写：** `taller, tallest, faster, longest`。**读句：** `Ben is taller than Tom.` `Sam is the tallest.`
+
+🌟 不是所有形容词都直接加 -er/-est，例如 good → better → best；beautiful 常用 more/most。`teacher` 中的 -er 是另一种构词意义。
+
+**🌟 词性辨别：** `The rabbit is quick.` 中 quick 描述兔子；`The rabbit runs quickly.` 中 quickly 描述“跑”的方式。中文可借助“快的／快速地”理解，但英语句子中要关注它修饰的是名词还是动作。
+
+**🎣 句子替换：** `Walk slowly.` → `Walk quickly.`；`Speak softly.` → `Speak loudly.`。先口头表演动作，再让孩子选合适的 -ly 单词。
+
+## 3.4 🚩Lesson 101 — -ly
+
+-ly 常把形容词变为表示动作方式的副词，例如 `quick → quickly`。-ly 常把形容词变为表示动作方式的副词，但不是所有 -ly 词都是副词（如 friendly），也不是所有副词都以 -ly 结尾（如 fast）。
+
+-ly 通常读 /li/，其中 l 读 /l/，y 读 /i/，一般形成一个非重读音节。例如 quick → quickly /ˈkwɪkli/、slow → slowly /ˈsloʊli/、soft → softly /ˈsɔftli/。
+🌟 注意： 添加 -ly 通常增加一个音节，基础词的重音一般保持不变。例如 quick（1 个音节）→ quickly（2 个音节）。
+
+| 基础词 | 加 -ly | 基础词 | 加 -ly |
+|---|---|---|---|
+| quick | quickly | slow | slowly |
+| soft | softly | loud | loudly |
+| kind | kindly | quiet | quietly |
+
+**🎣 词素分块：** `quick + ly`、`slow + ly`。**词形转换：** `soft → softly`；`loud → loudly`；`kind → kindly`。**听写：** `quickly, slowly, softly, loudly`。**读句：** `Walk slowly.` `The rabbit runs quickly.`
+
+🌟 `friendly` 通常是形容词；`fast` 既可以作形容词也可以作副词。较复杂的 `happy → happily` 可留到 Lesson 110 后复习。
+
+
+## 3.5 🚩Lesson 102 — -less、-ful
+
+`-less` 常表示“缺少、没有”，通常读 /ləs/，其中 e 弱化为 /ə/；`-ful` 常表示“具有……性质”，通常读 /fəl/，其中 u 也弱化为 /ə/。它们不能在所有基础词上随意互换，也不保证意义完全相反。两个后缀中的元音通常都发生弱化（Schwa /ə/），不要按完整的短元音 /ɛ/ 或 /ʌ/ 来读。
+
+| 基础词 | -ful | -less | 基础词 | -ful | -less |
+|---|---|---|---|---|---|
+| care | careful | careless | help | helpful | helpless |
+| hope | hopeful | hopeless | harm | harmful | harmless |
+| use | useful | useless | fear | fearful | fearless |
+
+**🎣 词素分块：** `help + ful`、`care + less`。**词义配对：** helpful/helpless、careful/careless、hopeful/hopeless。**听写：** `helpful, careful, careless, hopeful, useless`。**读句：** `Be careful.` `My friend is helpful.`
+
+**🌟 词义不是简单加法：** `careful` 是“小心的”，`careless` 是“粗心的”；`helpful` 是“有帮助的”，`helpless` 更常指“无助的”，不宜机械译成“没有帮助的”。
+
+**🎣 词素拼搭：** 准备 `care, help, hope, use` 与 `-ful, -less` 两组卡片，先组合，再判断新词是否常用、是什么意思。请孩子用 `Be careful.` 和 `This tool is useful.` 各造一句。
+
+🌟 后缀 **-ful 只有一个 l**，不要写成 helpfull；`care + less → careless` 保留基础词末尾 e。 
+
+
+## 3.6 🚩Lesson 103 — un-
+
+`un-` 常表示否定（unhappy）或反向动作（unlock），并不是所有基础词都能直接添加。通常读 /ʌn/，其中 u 读 /ʌ/，n 读 /n/，一般形成一个音节。
+
+🌟 注意： un- 通常不重读，单词的主要重音一般仍在基础词上。与部分非重读后缀不同，un- 中的元音通常保留 /ʌ/，不弱化为 Schwa /ə/。
+
+| 否定 | 反向动作 | 拓展 |
+|---|---|---|
+| happy → unhappy | lock → unlock | fair → unfair |
+| kind → unkind | pack → unpack | safe → unsafe |
+| lucky → unlucky | tie → untie | known → unknown |
+
+**🎣 词素分块：** `un + happy`、`un + lock`。**词义判断：** not happy → unhappy；open a lock → unlock。**听写：** `unhappy, unkind, unfair, unlock`。**读句：** `The boy is unhappy.` `Please unlock the door.`
+
+🌟 un- 是有意义的前缀，但不要把 `under`、`uncle` 机械拆成 un- + 基础词。
+
+**🌟 两种 un- 不能混为一谈：** `unhappy` 表示“不快乐”，`unlock` 表示“把锁打开”，即反向动作。中文“不”和“解开”也不完全相同。
+
+**🎣 动作练习：** `lock → unlock`、`pack → unpack`、`tie → untie` 可以配实物操作；`kind → unkind`、`fair → unfair` 更适合配人物行为图片或短句讨论。
+
+## 3.7 🚩Lesson 104 — pre-、re-
+
+`pre-` 常表示“预先、在……之前”，通常读 /pri/；`re-` 常表示“再次、重新”，通常读 /ri/。通过基础词猜词义，再验证真实用法。
+
+🌟 注意： 两个前缀中的 e 通常读 /i/，而不是短元音 /ɛ/。前缀不一定承担主要重音，例如 preheat 和 rewrite 的主要重音在基础词上；preview 的主要重音通常在前缀上。
+
+| pre- | 分块 | re- | 分块 |
+|---|---|---|---|
+| preheat | pre + heat | reread | re + read |
+| preview | pre + view | rewrite | re + write |
+| preschool | pre + school | replay | re + play |
+| pretest | pre + test | repaint | re + paint |
+
+**🎣 词素分块：** `pre + heat`、`re + write`。**构词：** `read → reread`；`play → replay`；`heat → preheat`。**听写：** `preheat, preview, reread, rewrite`。**读句：** `Please reread the story.` `We preheat the oven.`
+
+🌟 `rewrite` 同时复习 Unit 11 的 `wr /r/`；`red`、`real` 不按 re- 前缀解释。
+
+**🌟 与生活联系：** `preheat the oven` 是烘烤前先预热；`preview a book` 是正式阅读前先浏览；`reread` 是再读一遍。可提醒孩子 `pre-` 和 `re-` 的含义很实用，但并非任意词都能加。
+
+**🎣 词义选择：** “Read the story again.” → `reread`；“Heat the oven before baking.” → `preheat`；“Play the video again.” → `replay`。随后让孩子用 `re + write` 拼出 `rewrite`，同时复习 Unit 11 的 silent w。
+
+
+## 3.8 🚩Lesson 105 — dis-
+
+`dis-` 在不同单词中常表示否定、相反或分离，不能与 un- 随意替换。通常读 /dɪs/，一般形成一个音节。dis- 通常不承担主要重音，元音一般保留 /ɪ/，不弱化为 Schwa /ə/。
+
+| 基础词 | 新词 | 基础词 | 新词 |
+|---|---|---|---|
+| agree | disagree | like | dislike |
+| obey | disobey | appear | disappear |
+| connect | disconnect | honest | dishonest |
+
+**🎣 词素分块：** `dis + agree`、`dis + like`、`dis + connect`。**词义配对：** not agree → disagree；not like → dislike；stop being connected → disconnect。**听写：** `disagree, dislike, disobey, dishonest`。**读句：** `I disagree.` `I dislike loud noise.`
+
+🌟 `disappear` 不只是简单的“not appear”逐词翻译，应结合“消失”的词义理解。
+
+**🌟 un- 与 dis- 的选择依赖具体单词：** 可以说 `unhappy`、`disagree`、`disconnect`，但不能仅根据中文“不”随意替换前缀。`disappear` 表示“消失”，与 `appear` 的词义有关。
+
+**🎣 情境练习：** “I do not agree.” → `I disagree.`；“Please stop the connection.” → `Please disconnect.`。让孩子圈出基础词，再解释前缀改变了什么。
+
+## 3.9 🚩Lesson 106 — Affixes Review 1
+
+| 词缀 | 常见意义或功能 | 例词 | 词缀 | 常见意义或功能 | 例词 |
+|---|---|---|---|---|---|
+| -s/-es | 复数、动词形式 | cats, watches | -er/-est | 比较 | taller, tallest |
+| -ly | 常见方式副词 | slowly | -less/-ful | 缺少、具有 | careless, helpful |
+| un- | 否定、反向 | unhappy | pre- | 预先 | preheat |
+| re- | 再次 | reread | dis- | 否定、相反 | disagree |
+
+**🎣 词素分类：** `unhappy, helpful, reread, careless, slowly, disagree, tallest, watches`，先圈出基础词，再标前缀或后缀。**词义猜测：** not happy、read again、without care、before heating。**听写：** `unhappy, helpful, slowly, reread, disagree`。**读句：** `My friend is helpful.` `Please reread the story.`
+
+🌟 复习时优先确认“孩子能解释词义并正确拼写”，不必机械背诵所有语法术语。
+
+---
+
+# Part 4. 后缀拼写变化：Lessons 107–110
+
+## 4.1 🚩Lesson 107 — Doubling Rule：-ed、-ing
+
+许多**重读的单音节**基础词以“单个元音字母 + 单个辅音字母”结尾，添加以元音字母开头的后缀时，需要双写末尾辅音；多音节词还要考虑末音节是否重读。本课先练习典型单音节词。注意区分两套规则：
+- Doubling Rule（双写规则）：决定添加后缀时如何拼写，例如 stop → stopped，需要双写 p。
+- -ed Pronunciation（发音规则）：决定词尾读 /t/、/d/ 还是 /ɪd/，例如 stopped 的 -ed 读 /t/。
+
+🌟 还有一个值得提醒家长的地方：双写的辅音字母不代表要发两次音。 stopped 中的 pp 仍然只对应一个 /p/，整个单词通常只有一个音节。
+
+| 基础词 | + -ed | + -ing | 基础词 | + -ed | + -ing |
+|---|---|---|---|---|---|
+| stop | stopped | stopping | hop | hopped | hopping |
+| plan | planned | planning | rub | rubbed | rubbing |
+| clap | clapped | clapping | slip | slipped | slipping |
+
+**🌟 规则适用范围：** 常见单音节例词如 `stop, hop, plan` 适合练习；`rain` 的 ai 是两个元音字母，`help` 末尾是 lp 两个辅音字母，`fix` 以 x 结尾，通常都不按这一规则双写。多音节词还需要考虑末音节重音，先不要求孩子一次掌握全部情况。
+
+**🎣 逐步示范：** `hop` → 短元音 o + 单个末辅音 p → 加 `-ing` → 双写 p → `hopping`；`jump` → 末尾 mp 两个辅音字母 → 直接加 `-ing` → `jumping`。
+
+**🎣 构词：** `stop + ed → stopped`；`run + ing → running`；`hop + ing → hopping`。**对比：** `hop → hopping` 与 `hope → hoping`；`sit → sitting` 与 `site → siting`（后者为拓展词）。**分类：** `jumping, running, helping, stopping, playing, hopping`，分为直接添加和双写。**听写：** `running, stopped, planning, hopping, clapping`。
+
+🌟 `help → helping`（末尾两个辅音）、`rain → raining`（两个元音字母）、`fix → fixing`（通常不双写 x）都不能机械套用双写规则；不要仅凭“CVC”三个字母判断所有词。
+
+## 4.2 🚩Lesson 108 — Doubling Rule：-er、-est
+
+同样的双写思路也用于部分形容词的比较级和最高级。先找基础词，再判断末尾结构。
+
+| 原级 | 比较级 | 最高级 | 原级 | 比较级 | 最高级 |
+|---|---|---|---|---|---|
+| big | bigger | biggest | hot | hotter | hottest |
+| sad | sadder | saddest | thin | thinner | thinnest |
+| wet | wetter | wettest | flat | flatter | flattest |
+
+**🎣 构词：** `big + er → bigger`；`hot + est → hottest`。**对比：** `big → bigger` / `tall → taller`；`hot → hotter` / `cold → colder`。**听写：** `bigger, biggest, hotter, thinner, saddest`。**读句：** `This box is bigger.` `That is the hottest day.`
+
+🌟 `tall → taller` 不需要再双写，因为末尾已经有两个 l。不要把所有 -er/-est 词都套用双写。
+
+**🌟 判断双写的顺序：** 先找 `big/hot/thin` 这样的基础词，再确认词尾是一个元音字母加一个辅音字母，且这里是重读短元音；最后检查后缀 `-er/-est` 以元音字母开头。`big → bigger` 双写 g，但 `fast → faster` 不双写，因为末尾已有 `st` 两个辅音字母。
+
+**🎣 判断题：** `big + est`、`hot + er`、`cold + est`、`wet + er`、`small + est`。先口头说明是否双写，再写出 `biggest, hotter, coldest, wetter, smallest`。
+
+## 4.3 🚩Lesson 109 — Drop-e Rule
+
+许多以不发音 e 结尾的基础词，在添加**以元音字母开头**的后缀时会去掉 e。常见 -ing、-ed、-er、-est 都可提供练习。
+
+| 基础词 | 添加后缀 | 结果 | 基础词 | 添加后缀 | 结果 |
+|---|---|---|---|---|---|
+| make | -ing | making | hope | -ing | hoping |
+| ride | -ing | riding | smile | -ing | smiling |
+| bake | -ed | baked | nice | -er | nicer |
+| large | -est | largest | use | -ing | using |
+
+**🎣 构词：** `make + ing → making`；`hope + ing → hoping`。**对比：** `hop/hopping` 与 `hope/hoping`；`plan/planning` 与 `plane/planing`（planing 为拓展词）。**听写：** `making, riding, hoping, baked, smiling`。**读句：** `She is making a cake.` `I am riding my bike.`
+
+🌟添加元音字母开头的后缀通常去掉 e，例外有 `dye + ing → dyeing`，保留 e 以避免与 dying 混淆；也有 `see → seeing` 等特殊情况，先掌握典型模式。
+
+🌟 添加辅音字母开头的后缀通常保留 e（hope → hopeful），`hope + ful → hopeful`、`care + less → careless` 保留 e。这是一条常见拼写规则，并非没有例外，例如 true + ly → truly 会去掉 e。
+
+**🌟 与 VCe 的联系：** `hop` 的短 o 与 `hope` 的长 o 不同；加 -ing 后形成 `hopping` 与 `hoping`。前者双写 p，后者去掉 e，但两词仍保留各自原来的元音读法。不要把 Drop-e 解释为“e 没用了”，它在基础词中是重要的拼写线索。
+
+**🎣 选择正确拼写：** `makeing / making`、`hopeing / hoping`、`rideing / riding`、`careless / carless`。让孩子说明：添加的是元音开头还是辅音开头的后缀？
+
+
+## 4.4 🚩Lesson 110 — y-to-i Rule
+
+基础词以**辅音字母 + y** 结尾，添加某些后缀时通常将 y 改成 i；但添加 -ing 通常保留 y。若 y 前是元音字母，通常直接添加。
+
+| 基础词 | 新词 | 变化 | 基础词 | 新词 | 变化 |
+|---|---|---|---|---|---|
+| happy | happier | y → i | baby | babies | y → i |
+| happy | happiest | y → i | cry | cried | y → i |
+| easy | easier | y → i | try | tried | y → i |
+| cry | crying | 保留 y | play | played | 保留 y |
+
+**🎣 构词：** `happy + er → happier`；`baby + es → babies`；`cry + ed → cried`。**对比：** `baby/babies` 与 `play/plays`；`cry/cried` 与 `cry/crying`。**听写：** `happier, babies, cried, tried, crying`。**读句：** `The baby is happy.` `The babies are happier.`
+
+**🌟 两个判断条件都要看：** 先看 y 前面是辅音还是元音，再看后缀。`baby → babies`、`happy → happier` 改 y 为 i；`play → played` 因为 y 前是元音 a，通常不改；`cry → crying` 虽然 y 前是辅音 r，但添加 -ing 时仍保留 y。
+
+**🎣 分类练习：** 将 `babies, happier, tried, played, crying, enjoying, funniest, studying` 分成“y→i”和“保留 y”两组。可让孩子先写出基础词，再解释原因。
+
+## 4.5 🎣三种变化综合比较
+
+| 基础词 + 后缀 | 正确结果 | 规则 | 基础词 + 后缀 | 正确结果 | 规则 |
+|---|---|---|---|---|---|
+| run + ing | running | 双写 | jump + ing | jumping | 直接添加 |
+| big + er | bigger | 双写 | tall + er | taller | 直接添加 |
+| make + ing | making | 去 e | hope + ful | hopeful | 保留 e |
+| happy + er | happier | y → i | cry + ing | crying | 保留 y |
+
+**🎣 四步判断：** 找到基础词 → 看结尾字母与重音 → 看后缀开头 → 决定双写、去 e、y→i 或直接添加。**混合听写：** `running, stopping, bigger, making, hoping, happier, babies, crying`。
+
+---
+
+## 4.6 🎣规则综合应用：先判断，再动笔
+
+| 基础词 | 后缀 | 判断依据 | 正确拼写 |
+|---|---|---|---|
+| stop | -ing | 短元音 + 单个末辅音 | stopping |
+| help | -ing | 末尾 lp 两个辅音 | helping |
+| hope | -ing | 末尾不发音 e | hoping |
+| hope | -ful | 后缀以辅音开头 | hopeful |
+| baby | -es | 辅音 + y | babies |
+| play | -ed | 元音 + y | played |
+| cry | -ing | -ing 前保留 y | crying |
+
+**🎣 家长提问顺序：** “What is the base word?”（基础词是什么？）→ “What suffix are we adding?”（加什么后缀？）→ “Do we change the spelling?”（需要改变拼写吗？）→ “Read the new word.”（读出新词。）
+
+🌟 这一部分练的是词素、拼写规则与词义，不是每一步只改变一个音素的 Word Chain。孩子可以先用字母卡操作，再在纸上写出完整单词。
+
+---
+
+# Part 5. 在家模仿 UFLI 的练习方法
+
+## 5.1 八个教学环节
+
+| 环节 | 家庭简化操作 |
 |---|---|
-| /s/ | cats, books, cups |
-| /z/ | dogs, pens, bags |
-| /ɪz/ | boxes, dishes, buses |
+| Phonemic Awareness | 听辨基础词及新词的实际声音，如 hop/hopping |
+| Visual Drill | 看 un-、re-、-ful、-less 等词缀说常见功能 |
+| Auditory Drill | 听完整单词，讨论词素及可能的拼写变化 |
+| Blending Drill | 先读基础词，再读加词缀后的完整单词 |
+| New Concept | 每次介绍一种词缀或拼写变化规则 |
+| Word Work | 词素卡构词、排序、选择正确拼写 |
+| Irregular Words | 复习学校当周 Heart Words |
+| Connected Text | 在句子与短文中识别词缀及其意义 |
 
-**关键：判断发音时，要关注基础词最后的音素，而不是只看最后一个字母。**
+## 5.2 🎣可直接使用的英文指令
 
-### 4. 动词中的 -s、-es
-
-例如：
-
-- I run.
-- He runs.
-- I watch.
-- She watches.
-
-这里 -s、-es 不表示复数，而是与一般现在时第三人称单数有关。
-
-### 5. 与中文比较
-
-中文：
-
-- 一只猫
-- 两只猫
-
-英语：
-
-- one cat
-- two cats
-
-中文名词通常不因数量变化而改变字形，但英语名词常需要复数形式。
-
-### 6. 家庭练习
-
-**分类**
-
-cats, dogs, boxes, books, dishes, pens
-
-按照 /s/、/z/、/ɪz/ 分类。
-
-**听写**
-
-- cats
-- dogs
-- boxes
-- dishes
-- wishes
-
-**句子**
-
-- I have two cats.
-- She watches the birds.
-- He runs fast.
-
-### 7. 家长常见错误
-
-- 认为 -s 永远读 /s/。
-- 认为 -es 永远增加一个音节。
-- 将名词复数与动词第三人称单数混为一谈。
-
----
-
-## Lesson 100 — Suffixes -er、-est
-
-### 1. 学习目标
-
-学习 -er、-est 表示比较的常见情况。
-
-### 2. 示例单词
-
-| 原级 | 比较级 | 最高级 |
+| 家长指令 | 中文说明 | 示例 |
 |---|---|---|
-| tall | taller | tallest |
-| small | smaller | smallest |
-| fast | faster | fastest |
-| long | longer | longest |
-| short | shorter | shortest |
-| cold | colder | coldest |
+| “Find the base word.” | 找基础词 | helpful → help |
+| “Circle the prefix.” | 圈出前缀 | un in unhappy |
+| “Underline the suffix.” | 标出后缀 | ful in helpful |
+| “What does re- mean?” | 解释词缀 | reread：read again |
+| “Add -ing to run.” | 构词并调整拼写 | running |
+| “Do we double the final consonant?” | 判断是否双写 | stop → stopping |
+| “Drop the final e.” | 去掉词尾 e | make → making |
+| “Change y to i.” | y 改 i | happy → happier |
 
-### 3. 意义解释
+## 5.3 🎣每天15分钟家庭练习
 
-**tall**
-
-高的。
-
-**taller**
-
-更高的。
-
-**tallest**
-
-最高的。
-
-例如：
-
-- Tom is tall.
-- Ben is taller than Tom.
-- Sam is the tallest.
-
-### 4. 与中文比较
-
-中文：
-
-- 高
-- 更高
-- 最高
-
-英语：
-
-- tall
-- taller
-- tallest
-
-中文通常使用“更”“最”等独立成分，英语则可以通过添加后缀表示比较。
-
-### 5. 注意：不是所有形容词都直接加 -er、-est
-
-例如：
-
-- beautiful → more beautiful → most beautiful
-- good → better → best
-
-这些属于后续扩展知识。
-
-### 6. 家庭练习
-
-**词形转换**
-
-- tall → taller → tallest
-- fast → faster → fastest
-- small → smaller → smallest
-
-**句子**
-
-- My bag is bigger.
-- This tree is the tallest.
-- The red car is faster.
-
-其中 bigger 涉及 Lesson 108 的双写规则，可作为预习例子。
-
-### 7. 家长常见错误
-
-- 将 -er 一律理解为“做某事的人”。
-- 认为所有形容词都可以直接添加 -er、-est。
-- 忽略比较级和最高级的意义区别。
-
----
-
-## Lesson 101 — Suffix -ly
-
-### 1. 学习目标
-
-学习 -ly 的常见构词功能。
-
-### 2. 示例单词
-
-| 基础词 | 添加 -ly | 中文 |
+| 时间 | 活动 | 示例 |
 |---|---|---|
-| quick | quickly | 快速地 |
-| slow | slowly | 缓慢地 |
-| soft | softly | 轻柔地 |
-| loud | loudly | 大声地 |
-| kind | kindly | 友善地 |
-| quiet | quietly | 安静地 |
-| careful | carefully | 小心地 |
+| 3分钟 | 找基础词和词缀 | unhappy、helpful、reread |
+| 3分钟 | 词义配对 | not happy、read again |
+| 5分钟 | Word Work | run → running；make → making |
+| 4分钟 | 读句与理解 | `The boy is running.` |
 
-### 3. -ly 有什么作用？
-
-- quick：快的。
-- quickly：快速地。
-
-例如：
-
-- The rabbit is quick.
-- The rabbit runs quickly.
-
-quick 描述兔子的性质，quickly 描述动作进行的方式。
-
-### 4. 与中文比较
-
-中文：
-
-- 快
-- 快速地
-
-英语：
-
-- quick
-- quickly
-
-两者在表达方式上有一定相似性。
-
-但英语并非所有副词都以 -ly 结尾，例如 fast 既可以作形容词，也可以作副词。
-
-### 5. 家庭练习
-
-**词形转换**
-
-- slow → slowly
-- quick → quickly
-- loud → loudly
-
-**句子**
-
-- Walk slowly.
-- Speak softly.
-- The boy runs quickly.
-
-### 6. 家长常见错误
-
-- 认为所有 -ly 单词都是副词，例如 friendly 通常是形容词。
-- 认为所有副词都必须以 -ly 结尾。
-- 把 quickly 拆成两个没有意义联系的部分。
+🌟 对本单元而言，**Base Word → New Word** 是构词练习，不一定是“每步改变一个音素”的 Word Chain。避免把 `run → running` 当作严格单步音素链。
 
 ---
 
-## Lesson 102 — Suffixes -less、-ful
+# Part 6. 阅读与写作练习
 
-### 1. 学习目标
+## 6.1 🎣从单词到短句
 
-学习两个常见后缀：
-
-- -less：缺少、没有。
-- -ful：具有、充满某种性质。
-
-### 2. 示例单词
-
-| 基础词 | -ful | -less |
-|---|---|---|
-| care | careful | careless |
-| hope | hopeful | hopeless |
-| help | helpful | helpless |
-| use | useful | useless |
-| fear | fearful | fearless |
-| harm | harmful | harmless |
-
-### 3. 意义解释
-
-例如：
-
-**careful**
-
-小心的、谨慎的。
-
-**careless**
-
-粗心的。
-
-再例如：
-
-**helpful**
-
-有帮助的。
-
-**helpless**
-
-无助的。
-
-### 4. 与中文比较
-
-可以借助中文的“有……的”“没有……的”理解。
-
-例如：
-
-- helpful：有帮助的。
-- helpless：无助的。
-
-但并不是所有 -ful、-less 单词都可以机械翻译。
-
-### 5. 特别注意拼写
-
-后缀 `-ful` 只有一个 l。
-
-例如：
-
-`help + ful → helpful`
-
-不是 helpfull。
-
-### 6. 家庭练习
-
-**词义对比**
-
-- careful / careless
-- hopeful / hopeless
-- helpful / helpless
-
-**听写**
-
-- helpful
-- careful
-- careless
-- hopeful
-- useless
-
-**句子**
-
-- My friend is helpful.
-- Be careful.
-- The broken toy is useless.
-
-### 7. 家长常见错误
-
-- 将 -ful 写成 -full。
-- 认为 -less 与 -ful 总是严格相反。
-- 只记住中文意思，不理解基础词和后缀的关系。
-
----
-
-## Lesson 103 — Prefix un-
-
-### 1. 学习目标
-
-学习 un- 表示否定或相反动作的常见情况。
-
-### 2. 示例单词
-
-| 基础词 | 添加 un- | 中文 |
-|---|---|---|
-| happy | unhappy | 不快乐的 |
-| kind | unkind | 不友善的 |
-| fair | unfair | 不公平的 |
-| safe | unsafe | 不安全的 |
-| lucky | unlucky | 不幸运的 |
-| lock | unlock | 解锁 |
-| pack | unpack | 打开包裹；取出物品 |
-| tie | untie | 解开 |
-
-### 3. un- 的两种常见作用
-
-**否定：**
-
-- happy → unhappy
-- fair → unfair
-
-**反向动作：**
-
-- lock → unlock
-- tie → untie
-
-### 4. 与中文比较
-
-中文常用“不”“非”“解”等表达类似意义。
-
-例如：
-
-- 快乐 → 不快乐
-- 公平 → 不公平
-- 锁上 → 解锁
-
-但英语 un- 的具体意义仍需要结合基础词判断。
-
-### 5. 家庭练习
-
-**词形转换**
-
-- happy → unhappy
-- fair → unfair
-- lock → unlock
-- tie → untie
-
-**句子**
-
-- The boy is unhappy.
-- This game is unfair.
-- Please unlock the door.
-
-### 6. 家长常见错误
-
-- 认为所有单词都能直接添加 un-。
-- 认为 un- 只能表示“不”。
-- 忽略 un- 与基础词之间的意义联系。
-
----
-
-## Lesson 104 — Prefixes pre-、re-
-
-### 1. 学习目标
-
-学习：
-
-- pre-：之前、预先。
-- re-：再次、重新。
-
-### 2. pre- 示例
-
-| 单词 | 结构 | 中文 |
-|---|---|---|
-| preview | pre + view | 预览 |
-| preheat | pre + heat | 预热 |
-| preschool | pre + school | 学前教育 |
-| prepay | pre + pay | 预付 |
-| pretest | pre + test | 预先测试 |
-
-### 3. re- 示例
-
-| 单词 | 结构 | 中文 |
-|---|---|---|
-| reread | re + read | 重新阅读 |
-| rewrite | re + write | 重写 |
-| replay | re + play | 重放 |
-| redo | re + do | 重做 |
-| rebuild | re + build | 重建 |
-| repaint | re + paint | 重新粉刷 |
-
-### 4. 与中文比较
-
-- pre-：类似“预先”“事先”。
-- re-：类似“重新”“再次”。
-
-例如：
-
-`read → reread`
-
-阅读 → 重新阅读。
-
-### 5. 家庭练习
-
-**词形转换**
-
-- read → reread
-- write → rewrite
-- heat → preheat
-- view → preview
-
-**句子**
-
-- Please reread the story.
-- We need to preheat the oven.
-- I will rewrite my sentence.
-
-### 6. 家长常见错误
-
-- 认为所有 re 开头的单词都有“再次”的意思，例如 red、real 并不能按 re- 前缀分析。
-- 认为 pre- 可以添加到任意单词前。
-- 忽略词缀与基础词的意义联系。
-
----
-
-## Lesson 105 — Prefix dis-
-
-### 1. 学习目标
-
-学习 dis- 表示否定、相反或分离的常见情况。
-
-### 2. 示例单词
-
-| 基础词 | 添加 dis- | 中文 |
-|---|---|---|
-| agree | disagree | 不同意 |
-| like | dislike | 不喜欢 |
-| obey | disobey | 不服从 |
-| appear | disappear | 消失 |
-| connect | disconnect | 断开连接 |
-| honest | dishonest | 不诚实的 |
-| respect | disrespect | 不尊重 |
-
-### 3. 与 un- 的区别
-
-un- 和 dis- 都可能表示否定，但不能随意替换。
-
-例如：
-
-- unhappy：正确。
-- disagree：正确。
-
-不能简单地把它们替换成不符合常见英语用法的形式。
-
-### 4. 与中文比较
-
-dis- 可以与中文的“不”“非”“反”“断开”等意义联系起来。
-
-但不同单词的实际意义需要结合语境理解。
-
-### 5. 家庭练习
-
-**词形转换**
-
-- agree → disagree
-- like → dislike
-- appear → disappear
-
-**句子**
-
-- I disagree.
-- I dislike loud noise.
-- The rabbit disappeared.
-
-### 6. 家长常见错误
-
-- 认为 dis- 永远表示“不”。
-- 将所有 dis 开头的单词都拆成前缀和基础词。
-- 将 dis- 与 un- 随意替换。
-
----
-
-## Lesson 106 — Affixes Review 1
-
-### 1. 学习目标
-
-综合复习 Lessons 99–105 的前缀和后缀。
-
-### 2. 综合知识表
-
-| 词缀 | 常见意义或功能 | 示例 |
-|---|---|---|
-| -s、-es | 复数或动词形式 | cats, boxes, runs |
-| -er | 比较级 | taller |
-| -est | 最高级 | tallest |
-| -ly | 常见副词后缀 | slowly |
-| -less | 缺少 | careless |
-| -ful | 具有某种性质 | helpful |
-| un- | 否定、相反 | unhappy, unlock |
-| pre- | 预先 | preview |
-| re- | 再次 | reread |
-| dis- | 否定、相反 | disagree |
-
-### 3. 词素分割
-
-- unhappy → un + happy
-- helpful → help + ful
-- reread → re + read
-- careless → care + less
-- slowly → slow + ly
-
-### 4. 家庭练习
-
-让孩子根据意义选择合适词缀。
-
-例如：
-
-- not happy → unhappy
-- read again → reread
-- without care → careless
-- full of hope → hopeful
-
-### 5. 综合听写
-
-- unhappy
-- helpful
-- slowly
-- reread
-- disagree
-
----
-
-# Part 5. Suffix Spelling Changes（后缀拼写变化）
-
-## 5.1 为什么添加后缀时需要改变拼写？
-
-英语单词添加后缀时，有时可以直接添加：
-
-`jump + ing → jumping`
-
-但有时需要改变基础词的拼写：
-
-`run + ing → running`
-
-`make + ing → making`
-
-`happy + er → happier`
-
-这些变化通常与英语的拼写规律有关。
-
-### 与中文比较
-
-中文构词时通常不会改变原有汉字的书写形式。
-
-例如：
-
-- 快
-- 快乐
-- 不快乐
-
-但英语为了维持常见的拼写与发音关系，添加后缀时可能需要双写、删除或替换字母。
-
----
-
-## Lesson 107 — Doubling Rule: -ed、-ing
-
-### 1. 学习目标
-
-学习添加 -ed、-ing 时的常见辅音双写规则。
-
-### 2. 核心规律
-
-对于许多以**单个短元音字母＋单个辅音字母**结尾的重读单音节基础词，添加以元音字母开头的后缀时，需要双写末尾辅音。
-
-例如：
-
-`run + ing → running`
-
-`stop + ed → stopped`
-
-### 3. 示例单词
-
-| 基础词 | -ed | -ing |
-|---|---|---|
-| stop | stopped | stopping |
-| plan | planned | planning |
-| hop | hopped | hopping |
-| rub | rubbed | rubbing |
-| clap | clapped | clapping |
-| slip | slipped | slipping |
-
-### 4. 为什么需要双写？
-
-比较：
-
-- hop → hopping
-- hope → hoping
-
-两个单词的元音不同：
-
-- hopping：短 o /ɑ/。
-- hoping：长 o /oʊ/。
-
-双写 p 有助于保持 hopping 中的短元音拼写模式。
-
-### 5. 家庭练习
-
-**分类**
-
-将以下单词分成直接加后缀与需要双写两组：
-
-jumping, running, helping, stopping, playing, hopping
-
-**听写**
-
-- running
-- stopped
-- planning
-- hopping
-- clapping
-
-### 6. 家长常见错误
-
-- 认为所有 CVC 单词都必须双写。
-- 认为只要添加 -ing 就一定双写。
-- 忽略单词重音和末尾字母的限制。
-
-例如：
-
-- rain → raining，不双写。
-- help → helping，不双写。
-- fix → fixing，不双写 x。
-
----
-
-## Lesson 108 — Doubling Rule: -er、-est
-
-### 1. 学习目标
-
-学习添加 -er、-est 时的辅音双写规律。
-
-### 2. 示例单词
-
-| 原级 | 比较级 | 最高级 |
-|---|---|---|
-| big | bigger | biggest |
-| hot | hotter | hottest |
-| sad | sadder | saddest |
-| thin | thinner | thinnest |
-| wet | wetter | wettest |
-| flat | flatter | flattest |
-
-### 3. 为什么 big 要双写 g？
-
-因为 big 是以单个短元音字母加单个辅音字母结尾的重读单音节词。
-
-添加 -er 时：
-
-`big + er → bigger`
-
-### 4. 与中文比较
-
-中文：
-
-- 大
-- 更大
-- 最大
-
-英语：
-
-- big
-- bigger
-- biggest
-
-除了添加后缀，英语还需要遵循拼写变化规则。
-
-### 5. 家庭练习
-
-**词形转换**
-
-- big → bigger → biggest
-- hot → hotter → hottest
-- thin → thinner → thinnest
-
-**听写**
-
-- bigger
-- biggest
-- hotter
-- thinner
-- saddest
-
-### 6. 家长常见错误
-
-- 写成 biger。
-- 写成 hotest。
-- 认为所有形容词都必须双写末尾辅音。
-
-例如 tall → taller，不需要双写，因为基础词已经以两个 l 结尾。
-
----
-
-## Lesson 109 — Drop-e Rule
-
-### 1. 学习目标
-
-学习添加某些以元音字母开头的后缀时，去掉基础词末尾不发音的 e。
-
-### 2. 示例单词
-
-| 基础词 | 添加后缀 | 新单词 |
-|---|---|---|
-| make | -ing | making |
-| ride | -ing | riding |
-| hope | -ing | hoping |
-| bake | -ed | baked |
-| smile | -ing | smiling |
-| nice | -er | nicer |
-| large | -est | largest |
-
-### 3. 为什么 make → making？
-
-因为 make 以不发音的 e 结尾。
-
-添加 -ing 时，通常先删除 e：
-
-`make → mak + ing → making`
-
-### 4. 与 Doubling Rule 对比
-
-| 基础词 | 新单词 | 规则 |
-|---|---|---|
-| hop | hopping | 双写 p |
-| hope | hoping | 去掉 e |
-| sit | sitting | 双写 t |
-| ride | riding | 去掉 e |
-| plan | planning | 双写 n |
-| make | making | 去掉 e |
-
-### 5. 家庭练习
-
-**Word Work**
-
-- make → making
-- hope → hoping
-- ride → riding
-- smile → smiling
-
-**听写**
-
-- making
-- riding
-- hoping
-- baked
-- smiling
-
-### 6. 家长常见错误
-
-- 写成 makeing。
-- 写成 hopeing。
-- 认为所有以 e 结尾的词添加任何后缀都必须去掉 e。
-
-例如：
-
-- hope + ful → hopeful
-- care + less → careless
-
-这里通常保留 e。
-
----
-
-## Lesson 110 — y-to-i Rule
-
-### 1. 学习目标
-
-学习添加某些后缀时，将词尾 y 改为 i 的常见规律。
-
-### 2. 核心规律
-
-当基础词以**辅音字母＋y**结尾时，添加某些后缀通常需要将 y 改为 i。
-
-例如：
-
-`happy + er → happier`
-
-`baby + es → babies`
-
-### 3. 示例单词
-
-| 基础词 | 新单词 | 变化 |
-|---|---|---|
-| happy | happier | y → i |
-| happy | happiest | y → i |
-| baby | babies | y → i |
-| cry | cried | y → i |
-| try | tried | y → i |
-| easy | easier | y → i |
-| funny | funniest | y → i |
-
-### 4. 为什么 play 不改成 plaies？
-
-因为 play 中 y 前面是元音字母 a。
-
-因此：
-
-- play → played
-- play → plays
-
-通常直接添加后缀。
-
-比较：
-
-| 基础词 | 词尾结构 | 新单词 |
-|---|---|---|
-| baby | 辅音＋y | babies |
-| cry | 辅音＋y | cried |
-| play | 元音＋y | played |
-| enjoy | 元音＋y | enjoyed |
-
-### 5. 特别注意 -ing
-
-即使基础词以辅音＋y 结尾，添加 -ing 时通常也保留 y。
-
-例如：
-
-- cry → crying
-- try → trying
-- study → studying
-
-不能写成 criing 或 triing。
-
-### 6. 家庭练习
-
-**词形转换**
-
-- happy → happier
-- baby → babies
-- cry → cried
-- try → trying
-- play → played
-
-**听写**
-
-- happier
-- babies
-- cried
-- tried
-- crying
-
-### 7. 家长常见错误
-
-- 认为所有 y 都必须改为 i。
-- 忽略 y 前面的字母是元音还是辅音。
-- 将 crying 写成 criing。
-- 将 played 写成 plaied。
-
----
-
-# Part 6. 三种拼写变化综合比较
-
-## 6.1 核心规则表
-
-| 规则 | 基础词 | 新单词 | 关键变化 |
-|---|---|---|---|
-| Doubling | run | running | 双写 n |
-| Doubling | big | bigger | 双写 g |
-| Drop-e | make | making | 删除 e |
-| Drop-e | hope | hoping | 删除 e |
-| y-to-i | happy | happier | y → i |
-| y-to-i | baby | babies | y → i |
-| No Change | jump | jumping | 直接添加 |
-| No Change | play | played | 直接添加 |
-
-## 6.2 家长可以这样引导孩子判断
-
-**第一步：找到基础词。**
-
-例如：
-
-`running → run + ing`
-
-**第二步：观察基础词结尾。**
-
-run 以单个短元音字母＋单个辅音字母结尾。
-
-**第三步：观察后缀。**
-
--ing 以元音字母开头。
-
-**第四步：应用规则。**
-
-双写 n：
-
-`run + ing → running`
-
-**第五步：读出完整单词，并理解意义。**
-
----
-
-# Part 7. UFLI 教学方法与家庭练习
-
-## 7.1 八个教学环节
-
-| UFLI 环节 | 学习目标 | 家庭练习 |
-|---|---|---|
-| Phonemic Awareness | 听辨词形变化中的声音 | hop / hopping |
-| Visual Drill | 识别词缀 | un-、re-、-ful、-less |
-| Auditory Drill | 听词并分析拼写 | running、making |
-| Blending Drill | 合成词素和声音 | re + read → reread |
-| New Concept | 学习新规则 | Doubling、Drop-e |
-| Word Work | 构词与拼写变化 | run → running |
-| Irregular Words | 特殊高频词 | 复习学校当周 Heart Words |
-| Connected Text | 阅读应用 | 阅读包含词缀的短文 |
-
-## 7.2 每天15分钟家庭练习
-
-### Step 1：词素识别（3分钟）
-
-家长展示：
-
-- unhappy
-- helpful
-- reread
-
-孩子指出基础词与词缀。
-
-### Step 2：词义理解（3分钟）
-
-家长问：
-
-- What does unhappy mean?
-- What does reread mean?
-- What does careless mean?
-
-### Step 3：Word Work（5分钟）
-
-让孩子完成：
-
-- run + ing
-- make + ing
-- happy + er
-- baby + es
-
-并解释为什么需要改变拼写。
-
-### Step 4：句子阅读（4分钟）
-
-- The boy is running.
-- She is happier today.
-- Please reread the story.
-- My friend is helpful.
-
----
-
-# Part 8. 阅读与写作练习
-
-## 8.1 阅读短文：The Helpful Friend
-
-**The Helpful Friend**
-
-Tom was unhappy.
-
-He lost his favorite toy.
-
-His friend Ben wanted to help.
-
-Ben looked under the table.
-
-He found the toy.
-
-Tom was happier.
-
-He thanked Ben for being helpful.
-
-> 本文用于家庭阅读理解练习，并非严格限定 Lessons 1–110 已学规则的官方 Decodable Text。
-
-### 阅读理解问题
-
-1. Why was Tom unhappy?
-2. Who helped Tom?
-3. Where did Ben look?
-4. How did Tom feel at the end?
-5. Why do you think Ben was a helpful friend?
-6. Can you retell the story in your own words?
-
-这些问题分别练习事实理解、因果关系、人物情绪和故事复述。
-
-## 8.2 写作练习
-
-### Level 1：听写单词
-
-- unhappy
-- helpful
-- running
-- making
-- happier
-
-### Level 2：完成句子
-
-1. My friend is ______.
-2. The boy is ______.
-3. I am ______ today.
-4. Please ______ the story.
-
-### Level 3：自主造句
-
-从简单句开始：
-
-`My friend is helpful.`
-
-增加细节：
-
-`My friend is very helpful.`
-
-进一步解释原因：
-
-`My friend is very helpful because she helps me with my homework.`
-
-### 与中文写作比较
-
-中国小学写话训练会鼓励孩子写清楚人物、事件和原因。
-
-英语写作也可以通过增加细节、原因和结果来扩展句子。
-
-在本单元，家长还可以鼓励孩子有意识地使用词缀，例如：
-
-- helpful
-- unhappy
-- quickly
-- reread
-
----
-
-# Part 9. 中国家长常见问题
-
-### Q1：为什么 running 要双写 n？
-
-因为 run 是以单个短元音字母＋单个辅音字母结尾的重读单音节词，添加 -ing 时通常需要双写末尾辅音。
-
-### Q2：为什么 making 要去掉 e？
-
-因为 make 以不发音的 e 结尾，添加 -ing 时通常去掉 e。
-
-### Q3：为什么 happier 要把 y 改成 i？
-
-因为 happy 以辅音字母＋y 结尾，添加 -er 时通常将 y 改为 i。
-
-### Q4：为什么 crying 不改成 criing？
-
-因为添加 -ing 时通常保留词尾 y。
-
-### Q5：为什么 helpful 只有一个 l？
-
-因为后缀 -ful 本身只包含一个 l。
-
-### Q6：为什么 un- 和 dis- 都可以表示否定？
-
-因为英语有不同来源和使用范围的否定前缀。
-
-它们不能随意替换，需要结合具体单词学习。
-
-### Q7：孩子需要背诵所有规则吗？
-
-不建议只机械背诵。
-
-更有效的方法是：
-
-1. 识别基础词。
-2. 理解词缀意义。
-3. 观察词尾结构。
-4. 应用拼写变化。
-5. 阅读并理解完整单词。
-
----
-
-# Part 10. 学习进度跟踪
-
-## 10.1 Lesson 进度表
-
-| Lesson | 知识点 | 学习日期 | 掌握情况 | 需要复习 |
-|---|---|---|---|---|
-| 99 | -s、-es | | ☐ 熟练 ☐ 练习中 | |
-| 100 | -er、-est | | ☐ 熟练 ☐ 练习中 | |
-| 101 | -ly | | ☐ 熟练 ☐ 练习中 | |
-| 102 | -less、-ful | | ☐ 熟练 ☐ 练习中 | |
-| 103 | un- | | ☐ 熟练 ☐ 练习中 | |
-| 104 | pre-、re- | | ☐ 熟练 ☐ 练习中 | |
-| 105 | dis- | | ☐ 熟练 ☐ 练习中 | |
-| 106 | Affixes Review 1 | | ☐ 熟练 ☐ 练习中 | |
-| 107 | Doubling: -ed、-ing | | ☐ 熟练 ☐ 练习中 | |
-| 108 | Doubling: -er、-est | | ☐ 熟练 ☐ 练习中 | |
-| 109 | Drop-e Rule | | ☐ 熟练 ☐ 练习中 | |
-| 110 | y-to-i Rule | | ☐ 熟练 ☐ 练习中 | |
-
-## 10.2 单元结束自查
-
-### 词缀与词义
-
-- [ ] 能识别 Prefix 与 Suffix。
-- [ ] 能找到单词的基础词。
-- [ ] 能理解 -er、-est 的比较意义。
-- [ ] 能理解 -ly、-less、-ful。
-- [ ] 能理解 un-、pre-、re-、dis-。
-- [ ] 能通过词缀推测部分陌生单词的意义。
-
-### 拼写变化
-
-- [ ] 能应用 Doubling Rule。
-- [ ] 能应用 Drop-e Rule。
-- [ ] 能应用 y-to-i Rule。
-- [ ] 能区分直接添加后缀与需要改变拼写的情况。
-- [ ] 能正确拼写 running、making、happier 等常见词。
-
-### 阅读与表达
-
-- [ ] 能阅读包含前后缀的单词。
-- [ ] 能理解词缀带来的意义变化。
-- [ ] 能在句子中正确使用常见词缀。
-- [ ] 能回答阅读理解问题。
-- [ ] 能使用本单元词汇进行简单写作。
-
----
-
-# Part 11. 家庭练习记录模板
-
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
-
-### 今日复习
-
-- [ ] -s / -es
-- [ ] -er / -est
-- [ ] -ly
-- [ ] -less / -ful
-- [ ] un-
-- [ ] pre- / re-
-- [ ] dis-
-- [ ] Doubling Rule
-- [ ] Drop-e Rule
-- [ ] y-to-i Rule
-- [ ] Morphology
-- [ ] Decoding
-- [ ] Encoding
-- [ ] Reading
-
-**今天练习的词缀：**
-
-**今天练习的单词：**
-
-**孩子掌握较好的内容：**
-
-**容易混淆的规则：**
-
-**下次需要复习：**
-
----
-
-# Part 12. 本单元总结
-
-## 三个最重要的学习成果
-
-**1. 理解单词可以由基础词和词缀组成。**
-
-例如：
-
-- unhappy = un- + happy
-- helpful = help + -ful
-- reread = re- + read
-
-**2. 理解添加后缀可能需要改变拼写。**
-
-例如：
-
-- run → running
-- make → making
-- happy → happier
-
-**3. 能通过词素结构帮助理解陌生单词。**
-
-例如：
-
-- careless
-- unhelpful
-- rewrite
-- disagree
-
-这意味着孩子开始将自然拼读（Phonics）与词素意识（Morphological Awareness）结合起来。
-
----
-
-## 下一单元预告
-
-**Unit 13 — Low Frequency Spellings（低频拼写模式，Lessons 111–118）**
-
-根据官方 Scope & Sequence，主要学习：
-
-| Lesson | 知识点 |
+| 层级 | 教学材料 |
 |---|---|
-| 111 | -ar、-or /ɚ/ |
-| 112 | air、are、ear /ɛr/ |
-| 113 | ear /ɪr/ |
-| 114 | Alternate /ā/：ei、ey、eigh、aigh、ea |
-| 115 | Alternate Long U：ew、eu、ue |
-| 116 | ough /ɔ/、/oʊ/ 等 |
-| 117 | Signal Vowels（c、g 的不同发音） |
-| 118 | ch /ʃ/、/k/；gn /n/；gh /g/；silent t |
+| Level 1：读词 | unhappy, helpful, slowly, reread, running, making, happier |
+| Level 2：读句 | `The boy is running.` `My friend is helpful.` |
+| Level 3：听写 | `Please reread the story.` `The baby is happier.` |
 
-下一单元的核心概念是：
+## 6.2 🎣家庭补充短文：The Helpful Friend
 
-**英语中一些相对少见的拼写组合，也可能表示已经学过的声音。**
+> Tom was unhappy. He lost his favorite toy. His friend Ben wanted to help. Ben looked under the table and found the toy. Tom was happier. He thanked Ben for being helpful. Then they played together.
 
-例如：
+**阅读理解：** “Why was Tom unhappy?” “Who helped him?” “Where did Ben look?” “How did Tom feel at the end?” “Which words have prefixes or suffixes?”
 
-- eight、they、great
-- air、care、bear
-- ear、dear、near
-- chef、school
-- sign、ghost、listen
+🌟 本文是家庭补充阅读，并非官方严格可解码短文。`favorite, wanted, together` 等词可由家长辅助。读后圈出 `unhappy, happier, helpful, played`，分别找出基础词及词缀。
 
-孩子将进一步理解英语拼写的多样性，并通过已有的自然拼读知识识别更复杂的单词。
+## 6.3 🎣写作与句子扩展
+
+**听写词：** `unhappy, helpful, running, making, happier, babies, reread, slowly`。
+
+**填空：** `My friend is ____.`（helpful）/ `The boy is ____.`（running）/ `Please ____ the story.`（reread）/ `She is ____ today.`（happier）。
+
+**自主造句：** `My friend helps me.` → `My friend is helpful.` → `My friend is very helpful.` → `My friend is very helpful because she helps me with my homework.`
+
+🌟 先鼓励完整表达，再挑选少量本单元目标词纠正拼写。孩子能识别 -ed、-ing 的词形，不等于已经掌握全部时态语法。
+
+---
+
+# Part 7. 家长常见问题与学习记录
+
+## 7.1 家长常见问题
+
+### 🚩Q1：为什么 Unit 12 不再只是自然拼读？
+
+因为孩子开始从字音对应扩展到**词素意识（Morphological Awareness）**。基础词和词缀既帮助读写，也帮助理解词义与语法形式。
+
+### 🚩Q2：为什么 running 双写 n，making 却去掉 e？
+
+`run` 属于典型短元音单音节末尾结构，添加 -ing 双写 n；`make` 以不发音 e 结尾，添加 -ing 通常去掉 e。两条规则分别处理不同的基础词结构。
+
+### 🚩Q3：为什么 happy → happier，cry → crying？
+
+辅音 + y 的基础词添加 -er 等部分后缀时通常 y→i；添加 -ing 时通常保留 y。
+
+### 🚩Q4：-s、-es 是不是总读 /s/、/ɪz/？
+
+不是。词尾可读 /s/、/z/、/ɪz/，要根据基础词末尾的声音判断；例如 cats、dogs、boxes。
+
+### 🚩Q5：-er 是不是永远表示“更”？
+
+不是。`taller` 中 -er 表示比较级，`teacher` 中 -er 可表示从事某种活动的人；具体意义由构词关系决定。
+
+### 🚩Q6：所有 re-、un-、dis- 开头的词都能拆分吗？
+
+不能。只有前缀与基础词形成真实的构词关系时才这样分析，例如 reread、unhappy、dislike；`red` 不能拆成 re + d。
+
+### 🚩Q7：孩子需要一次背下全部拼写规则吗？
+
+不需要。建议每次专注一种规则，用基础词对比、构词卡、听写和阅读反复巩固，逐步形成准确的拼写记忆。
+
+## 7.2 Lesson 进度
+
+| Lesson | 日期 | 掌握情况 | 需要复习的词或规则 |
+|---|---|---|---|
+| 99 -s、-es | | ☐ 熟练 ☐ 练习中 | |
+| 100 -er、-est | | ☐ 熟练 ☐ 练习中 | |
+| 101 -ly | | ☐ 熟练 ☐ 练习中 | |
+| 102 -less、-ful | | ☐ 熟练 ☐ 练习中 | |
+| 103 un- | | ☐ 熟练 ☐ 练习中 | |
+| 104 pre-、re- | | ☐ 熟练 ☐ 练习中 | |
+| 105 dis- | | ☐ 熟练 ☐ 练习中 | |
+| 106 Review | | ☐ 熟练 ☐ 练习中 | |
+| 107 Doubling -ed、-ing | | ☐ 熟练 ☐ 练习中 | |
+| 108 Doubling -er、-est | | ☐ 熟练 ☐ 练习中 | |
+| 109 Drop-e | | ☐ 熟练 ☐ 练习中 | |
+| 110 y-to-i | | ☐ 熟练 ☐ 练习中 | |
+
+## 7.3 🎣单元自查
+
+- [ ] 能识别基础词、前缀与后缀，并解释常见词义变化。
+- [ ] 能区分 -s、-es 的 /s/、/z/、/ɪz/ 发音。
+- [ ] 能理解 -er/-est、-ly、-ful/-less、un-/pre-/re-/dis- 的常见功能。
+- [ ] 能应用 Doubling、Drop-e、y-to-i，并知道规则有条件。
+- [ ] 能区分词素拆分、音节划分和严格音素变化链。
+- [ ] 能完成常见构词听写，阅读并理解含词缀的短句。
+
+### 🚩家庭练习记录（可重复打印）
+
+**日期：** __________　
+**Lesson：** ______　
+**练习时长：** ______ 分钟  
+**今日内容：** ☐ 词素 ☐ 词义 ☐ 构词 ☐ 听写 ☐ 阅读  
+**练习单词：** __________________________________________________  
+**掌握较好：** __________________　
+**需要复习：** __________________
+
+---
+
+# Part 8. 本单元总结
+
+**第一，认识基础词与词缀。** `unhappy = un + happy`、`helpful = help + ful`、`reread = re + read`，让孩子不仅会读，还能推测词义。
+
+**第二，掌握添加后缀时的三类常见拼写变化。** `run → running`（双写）、`make → making`（去 e）、`happy → happier`（y→i），并学会判断何时直接添加。
+
+**第三，把自然拼读与构词、阅读和写作结合起来。** 孩子可以先识别基础词，再理解词缀功能，通过反复读写形成更稳定的词汇记忆。
+
+**下一单元：Unit 13 — Low Frequency Spellings（低频拼写模式，Lessons 111–118）**。将进一步认识 `air/are/ear`、`ei/ey/eigh`、`ough` 等相对少见的拼写，以及 c、g、ch 等不同发音。

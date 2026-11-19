@@ -1,64 +1,43 @@
+---
+layout: default
+title: UFLI｜010
+parent: 家庭教育
+nav_order: 0
+has_children: true
+---
+
+<div style="font-size: 11px; color: #999; text-align: right; margin: 8px 0 16px 0;">
+  2026/11/19 · 海泩整理 ❤️ 抖音同名 · 欢迎交流、指正与反馈
+👉 <a href="assert/UFLI/UFLI010.pdf" target="_blank" rel="noopener noreferrer">PDF下载</a>
+</div>
 
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 10 — Diphthongs（双元音）
 
 **课程范围：** Lessons 95–97  
-**适用阶段：** 一年级后期至二年级，或需要巩固自然拼读的学生  
-**前置知识：** Units 1–9，包括短元音、长元音、VCe、Digraphs、R-Controlled Vowels 和 Vowel Teams。
+**适用阶段：** 一年级后期至二年级；也适合自然拼读复习  
+**前置知识：** Units 1–9，包括短元音、VCe、R-Controlled Vowels、音节划分及 Vowel Teams。
 
-**官方资料：**
+**官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
-- [UFLI Scope & Sequence PDF](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
-- [UFLI Printable Resources](https://ufli.education.ufl.edu/foundations/printable-resources/)
-
-> **本单元核心目标**
->
-> 掌握 `oi/oy → /ɔɪ/` 和 `ou/ow → /aʊ/` 两组常见双元音拼写模式。
->
-> 理解双元音是在同一个音节中发生的元音音质变化，而不是两个独立的音节。
->
-> 同时，进一步认识英语中“同一个声音可以有不同拼写”“同一个字母组合也可能有不同发音”的现象。
-
-**说明：** 本手册中的示例、中文解释及家庭练习为家长辅助学习而设计，不是 UFLI 官方教师手册的逐字翻译。发音主要以常见美式英语为参考。
+> **使用说明：** 本手册面向中国家长，以常见美式英语为参考。例词、Word Chains、短文及家庭练习为自行编写的补充材料，并非 UFLI 官方逐课原文。拓展词可能包含尚未系统学习的拼写模式，可由家长辅助。
 
 ---
 
-# Part 1. 学习目标
+# Part 1. 本单元学什么？
 
-完成本单元后，孩子应逐步能够：
+Unit 9 认识了 `oo` 的不同发音及 `ew, ui, ue` 等元音拼写；Unit 10 学习 **`oi, oy → /ɔɪ/` 与 `ou, ow → /aʊ/`**。孩子还会发现 Unit 8 学过的 `ow → /oʊ/`（snow）在 `cow` 中又有新读音 /aʊ/。
 
-- [ ] 理解 Diphthong（双元音）的基本概念。
-- [ ] 掌握 `oi`、`oy` 的常见发音 /ɔɪ/。
-- [ ] 掌握 `ou`、`ow` 的常见发音 /aʊ/。
-- [ ] 区分 /ɔɪ/ 与 /aʊ/。
-- [ ] 理解 oi、oy 的常见拼写位置。
-- [ ] 理解 ou、ow 的常见拼写位置。
-- [ ] 区分 ow 的 /oʊ/ 和 /aʊ/ 两种发音。
-- [ ] 能拼读包含双元音的陌生单词。
-- [ ] 能根据听到的声音选择常见拼写模式。
-- [ ] 能将双元音作为一个音素进行音素分割。
-- [ ] 能在句子、短文和写作中应用本单元知识。
+| 核心能力 | 单元结束时的表现 |
+|---|---|
+| oi、oy /ɔɪ/ | 拼读 coin、boy、point、toy |
+| ou、ow /aʊ/ | 拼读 cloud、cow、shout、brown |
+| 拼写位置 | 认识 oi/oy 与 ou/ow 的常见位置倾向 |
+| 新旧知识比较 | 区分 snow /oʊ/ 与 cow /aʊ/ |
+| 综合应用 | 音素分割、Word Chains、分类、听写及阅读 |
 
-**与 Unit 9 的主要区别：**
-
-Unit 9 学习了：
-
-- oo → /ʊ/ 或 /u/
-- ew、ui、ue → /u/
-- au、aw、augh → /ɔ/
-- ea → /ɛ/
-
-Unit 10 重点学习：
-
-- oi、oy → /ɔɪ/
-- ou、ow → /aʊ/
-
-并进一步比较：
-
-- snow：ow → /oʊ/
-- cow：ow → /aʊ/
+🌟 **教学重点：** 双元音虽有音质滑动，在本阶段的英语音素分析中仍算**一个元音音素**，不等于两个音节。与 Unit 9 一样，拼写规律是高频线索，不是绝对公式。
 
 ---
 
@@ -66,1060 +45,248 @@ Unit 10 重点学习：
 
 ## 2.1 什么是 Diphthong（双元音）？
 
-Diphthong 指在一个音节内部，发音从一个元音音质滑向另一个元音音质的现象。
+双元音是在**同一个音节内部**从一种元音音质连续滑向另一种音质的发音。此前学过的 /eɪ/（rain）、/aɪ/（light）、/oʊ/（boat）也是常见美式英语双元音；本单元重点增加 /ɔɪ/ 和 /aʊ/。
 
-例如：
-
-`boy → /bɔɪ/`
-
-其中 /ɔɪ/ 是一个双元音。
-
-发音时：
-
-1. 从 /ɔ/ 附近的元音位置开始。
-2. 舌头逐渐向 /ɪ/ 的方向移动。
-3. 整个过程连续完成。
-
-虽然 /ɔɪ/ 的音质发生了变化，但在英语音素分析中通常将它作为一个元音音素。
-
-### 例子一：boy
-
-- b → /b/
-- oy → /ɔɪ/
-
-所以：
-
-- 字母数量：3
-- 音素数量：2
-- 音节数量：1
-
-### 例子二：coin
-
-- c → /k/
-- oi → /ɔɪ/
-- n → /n/
-
-所以：
-
-- 字母数量：4
-- 音素数量：3
-- 音节数量：1
-
-### 例子三：cloud
-
-- c → /k/
-- l → /l/
-- ou → /aʊ/
-- d → /d/
-
-所以：
-
-- 字母数量：5
-- 音素数量：4
-- 音节数量：1
-
-**核心结论：双元音不等于两个音节。**
-
----
-
-## 2.2 与汉语拼音复韵母的比较
-
-汉语拼音也有复韵母，例如：
-
-- ai
-- ei
-- ao
-- ou
-
-这些韵母同样涉及元音音质的变化，因此可以帮助中国家长理解英语双元音的基本概念。
-
-例如：
-
-| 英语双元音 | 示例 | 汉语拼音参考 | 注意 |
+| 单词 | 教学分块 | 音素数 | 音节数 |
 |---|---|---|---|
-| /ɔɪ/ | boy, coin | 没有完全对应的常见复韵母 | 需要单独练习 |
-| /aʊ/ | cow, house | ao 有一定相似性 | 发音起点和滑动方式可能不同 |
-| /aɪ/ | pie, light | ai | 已在前面单元学习 |
-| /eɪ/ | rain, play | ei | 已在前面单元学习 |
-| /oʊ/ | boat, snow | ou | 已在前面单元学习 |
+| boy | b \| oy | 2：/b/ /ɔɪ/ | 1 |
+| coin | c \| oi \| n | 3：/k/ /ɔɪ/ /n/ | 1 |
+| cow | c \| ow | 2：/k/ /aʊ/ | 1 |
+| cloud | c \| l \| ou \| d | 4：/k/ /l/ /aʊ/ /d/ | 1 |
 
-### 为什么不能直接用汉语拼音替代？
+🌟 **Vowel Team 是拼写概念，Diphthong 是发音概念。** `ee` 是元音字母组合，但它通常表示单元音 /i/；`oi` 既是元音拼写组合，又表示双元音 /ɔɪ/。
 
-虽然部分声音听起来相似，但两种语言的元音音质、滑动方向和发音习惯可能不同。
+## 2.2 两组双元音怎么发？
 
-例如：
-
-- 英语 cow 中的 /aʊ/ 不完全等于拼音 ao。
-- 英语 boy 中的 /ɔɪ/ 没有一个可以直接替代的普通话拼音韵母。
-
-家长可以使用汉语拼音帮助理解概念，但应使用英语音频学习实际发音。
-
----
-
-## 2.3 双元音与 Vowel Team 有什么关系？
-
-在自然拼读教学中，Vowel Team 指多个字母共同表示元音的拼写模式。
-
-例如：
-
-- ai → /eɪ/
-- ee → /i/
-- oa → /oʊ/
-- oi → /ɔɪ/
-- ou → /aʊ/
-
-但需要区分：
-
-**Vowel Team 是拼写概念。**
-
-**Diphthong 是语音概念。**
-
-例如：
-
-`ee → /i/`
-
-ee 是 Vowel Team，但 /i/ 通常是单元音（Monophthong）。
-
-`oi → /ɔɪ/`
-
-oi 是 Vowel Team，而 /ɔɪ/ 是双元音。
-
-### 为什么 UFLI 单独安排 Diphthongs 单元？
-
-因为 oi、oy、ou、ow 等组合具有相对独立的拼写规律。
-
-将它们单独学习，有助于孩子进行分类、比较和拼写练习。
-
----
-
-## 2.4 为什么同一个双元音有不同拼写？
-
-例如：
-
-- coin
-- boy
-
-两者都包含 /ɔɪ/，但拼写不同。
-
-再例如：
-
-- cloud
-- cow
-
-两者都包含 /aʊ/，但拼写不同。
-
-| 发音 | 拼写 | 示例 |
-|---|---|---|
-| /ɔɪ/ | oi | coin, soil |
-| /ɔɪ/ | oy | boy, toy |
-| /aʊ/ | ou | cloud, house |
-| /aʊ/ | ow | cow, brown |
-
-这与之前学习的 ai/ay、oa/ow 很相似。
-
-### 常见位置规律
-
-| 拼写 | 常见位置 |
-|---|---|
-| oi | 单词或音节内部 |
-| oy | 单词或音节末尾 |
-| ou | 单词内部 |
-| ow | 单词或音节末尾，也可出现在词中 |
-
-这些是常见倾向，不是绝对规则。
-
----
-
-# Part 3. 官方课程进度（Lessons 95–97）
-
-| Lesson | 官方知识点 | 中文解释 | 完成 |
+| 发音 | 发音提示 | 例词 | 拼音比较 |
 |---|---|---|---|
-| 95 | oi、oy /ɔɪ/ | /ɔɪ/ 双元音的常见拼写 | ☐ |
-| 96 | ou、ow /aʊ/ | /aʊ/ 双元音的常见拼写 | ☐ |
-| 97 | Vowel Teams & Diphthongs Review | 元音字母组合与双元音综合复习 | ☐ |
+| /ɔɪ/ | 从圆唇、较开的元音向 /ɪ/ 滑动 | boy, coin, toy | 普通话没有完全对应的常见复韵母 |
+| /aʊ/ | 从较开的元音向 /ʊ/ 方向滑动 | cow, cloud, now | 与拼音 ao 有相似性，但不完全相同 |
 
----
+🌟不要把 `boy` 读成两个音节，也不要把英语字母组合 `ou` 当成汉语拼音 ou。让孩子先听标准英语示范，再模仿连续的滑动过程。
 
-# Part 4. 逐课知识点与家庭练习
+## 2.3 拼写位置：oi/oy 与 ou/ow
 
-## Lesson 95 — oi、oy /ɔɪ/
+| 发音 | 拼写 | 常见位置 | 例词 |
+|---|---|---|---|
+| /ɔɪ/ | oi | 单词或音节内部 | coin, soil, point |
+| /ɔɪ/ | oy | 词尾或音节末尾 | boy, toy, enjoy |
+| /aʊ/ | ou | 常见于词中 | cloud, round, shout |
+| /aʊ/ | ow | 词尾或词中 | cow, now, brown, town |
 
-### 1. 学习目标
+`oi/oy` 的位置规律较实用；`ou/ow` 的位置规律相对弱，尤其 `ow` 在词中、词尾都常见。听到 /aʊ/ 时，仍需要结合具体单词记忆拼写。
 
-学习 `oi` 和 `oy` 通常表示双元音 /ɔɪ/。
+## 2.4 同样的 ow，为什么有两种读音？
 
-**核心规律：**
+Unit 8 学过 `snow, grow, slow` 中 `ow → /oʊ/`；本单元 `cow, now, brown` 中 `ow → /aʊ/`。两者都是常见模式，不能简单断言所有 `ow` 只有一个发音。
 
-- oi 经常出现在单词内部。
-- oy 经常出现在单词末尾或音节末尾。
-
-### 2. 示例单词
-
-**oi**
-
-| 单词 | 中文 |
-|---|---|
-| coin | 硬币 |
-| soil | 土壤 |
-| oil | 油 |
-| boil | 煮沸 |
-| join | 加入 |
-| point | 点；指向 |
-| noise | 噪声 |
-| voice | 声音 |
-| choice | 选择 |
-| spoil | 破坏；宠坏 |
-| avoid | 避免 |
-| toilet | 厕所 |
-
-**oy**
-
-| 单词 | 中文 |
-|---|---|
-| boy | 男孩 |
-| toy | 玩具 |
-| joy | 快乐 |
-| soy | 大豆 |
-| enjoy | 享受 |
-| annoy | 使烦恼 |
-| destroy | 破坏 |
-| cowboy | 牛仔 |
-| royal | 皇家的 |
-| oyster | 牡蛎 |
-
-部分较长单词包含后续才系统学习的拼写或音节模式，适合作为扩展词汇。
-
-### 3. 发音解释
-
-**coin**
-
-`/k/ + /ɔɪ/ + /n/ → coin`
-
-**boy**
-
-`/b/ + /ɔɪ/ → boy`
-
-**point**
-
-`/p/ + /ɔɪ/ + /n/ + /t/ → point`
-
-注意：
-
-- oi、oy 都表示一个双元音。
-- 不需要把 o 和 i、o 和 y 分别读成两个音节。
-
-### 4. oi 与 oy 的拼写位置
-
-| 拼写 | 常见位置 | 示例 |
+| ow /oʊ/ | ow /aʊ/ | 说明 |
 |---|---|---|
-| oi | 词中 | coin, point, soil |
-| oy | 词尾 | boy, toy, joy |
-| oy | 音节末尾 | enjoy, cowboy |
+| snow, grow | cow, now | 同样在词尾，发音也可能不同 |
+| slow, show | brown, down | 需要结合词汇经验辨认 |
 
-例如：
-
-- coin 通常不写成 coyn。
-- boy 通常不写成 boi。
-- point 通常不写成 poynt。
-
-这些错误拼写仅用于说明位置规律，不应作为孩子的正式练习词。
-
-### 5. 与汉语拼音比较
-
-/ɔɪ/ 没有完全对应的常见普通话复韵母。
-
-发音时可以先从接近 /ɔ/ 的位置开始，再滑向 /ɪ/。
-
-不要把 boy 读成两个独立的元音音节。
-
-### 6. 家庭练习
-
-**音素分割**
-
-- boy → /b/ /ɔɪ/
-- coin → /k/ /ɔɪ/ /n/
-- soil → /s/ /ɔɪ/ /l/
-- point → /p/ /ɔɪ/ /n/ /t/
-- spoil → /s/ /p/ /ɔɪ/ /l/
-
-**Word Chains**
-
-Chain A：
-
-`boy → toy → joy → soy`
-
-每一步改变首辅音。
-
-Chain B：
-
-`coin → join → joint → point`
-
-其中：
-
-- coin → join：替换首辅音。
-- join → joint：增加末辅音 /t/。
-- joint → point：替换首辅音。
-
-Chain C：
-
-`soil → boil → foil → toil`
-
-每一步改变首辅音。
-
-**拼写分类**
-
-将以下单词分成 oi、oy 两组：
-
-coin, boy, soil, toy, point, joy, join, enjoy, oil, cowboy
-
-**听写**
-
-基础组：
-
-- boy
-- toy
-- coin
-- oil
-- soil
-
-进阶组：
-
-- point
-- join
-- spoil
-- enjoy
-- choice
-
-### 7. 家长常见错误
-
-- 将 oi 按汉语拼音 oi 猜测发音。
-- 将 oi、oy 拆成两个音节。
-- 认为 oi、oy 可以在任何位置随意替换。
-- 认为所有包含 oy 的单词都只有一个音节。
-
-例如 cowboy 有两个音节：cow-boy。
+`ou` 也不总读 /aʊ/，如 `soup` /u/、`young` /ʌ/。这些可作为拓展，不要求孩子在 Lesson 96 一次掌握全部例外。
 
 ---
 
-## Lesson 96 — ou、ow /aʊ/
+# Part 3. UFLI Lessons 95–97 课程进度与练习
 
-### 1. 学习目标
+## 3.1 课程目录
 
-学习 `ou` 和 `ow` 表示双元音 /aʊ/ 的常见规律。
+| Lesson | 课程内容 | 练习重点 | 完成 |
+|---|---|---|---|
+| 95 | oi、oy /ɔɪ/ | coin、boy；词中与词尾 | ☐ |
+| 96 | ou、ow /aʊ/ | cloud、cow；ow 两种读音 | ☐ |
+| 97 | Vowel Teams & Diphthongs Review | 综合分类、听写与阅读 | ☐ |
 
-### 2. 示例单词
+## 3.2 🚩Lesson 95 — oi、oy /ɔɪ/
 
-**ou**
+`oi` 常见于单词内部，`oy` 常见于单词或音节末尾。`boy` 的 /ɔɪ/ 是一个音素；`point` 中 `oi` 也不需要分成两个声音。
 
-| 单词 | 中文 |
+| oi 基础词 | oi 进阶词 | oy 基础词 | oy 多音节拓展 |
+|---|---|---|---|
+| oil, boil, coin, soil | join, point, spoil, foil | boy, toy, joy, soy | enjoy, cowboy |
+| toil, coil, void | voice, choice, noise | coy | annoy, destroy, royal |
+
+**🎣 Word Chains（每步只改一个音素）：** `boy → toy → joy → soy`；`soil → boil → foil → toil`；`coin → join → joint → point`（先替换首音、再增加末音 /t/、最后替换首音）。
+
+**🎣 分块：** `boy = b | oy`；`coin = c | oi | n`；`point = p | oi | n | t`；`spoil = s | p | oi | l`。**分类：** `coin, boy, soil, toy, point, joy, join, enjoy, oil, cowboy` 分为 oi、oy。**听写：** `boy, toy, coin, soil, point, join`。**读句：** `The boy has a toy.` `I found a coin in the soil.`
+
+🌟 `cowboy = cow-boy` 有两个音节，第二个音节含 oy；“oy 是一个元音拼写单位”不代表整个单词只能有一个音节。
+
+## 3.3 🚩Lesson 96 — ou、ow /aʊ/
+
+`ou, ow` 在本课例词中表示 /aʊ/。`ou` 多见于词中；`ow` 既可以在词尾，也可以在词中。与 `snow` 的 /oʊ/ 对比，提醒孩子先看完整单词再判断。
+
+| ou 基础词 | ou 进阶词 | ow 基础词 | ow 进阶词 |
+|---|---|---|---|
+| out, loud, cloud, house | round, sound, count, shout | cow, now, how, bow（鞠躬） | down, town, brown, crown |
+| mouse, mouth, found | ground, proud, sprout | owl | clown, frown, flower（拓展） |
+
+**🎣 Word Chains：** `cow → how → now → bow`（此处 bow 指“鞠躬”，读 /baʊ/）；`down → town → gown`；`brown → frown → crown`；`loud → cloud → clout`（依次增加 /k/、替换末音 /d/ 为 /t/）。
+
+**🎣 分块：** `cow = c | ow`；`cloud = c | l | ou | d`；`shout = sh | ou | t`；`brown = b | r | ow | n`。**分类：** `cow, cloud, now, house, brown, round, shout, down, mouse, town` 分为 ou、ow。**听写：** `cow, now, out, loud, cloud, house, brown, shout`。**读句：** `The cow is brown.` `We can shout out loud.`
+
+🌟 `bow` 是同形异音词：蝴蝶结、弓通常读 /boʊ/；鞠躬读 /baʊ/。两种读音分别符合已经学过的 `ow` 模式，适合作为拓展辨音，而不必简单归为 Heart Word。`house` 末尾 e 不发音，但不是本课的典型 VCe 长元音模式。
+
+## 3.4 🚩Lesson 97 — Vowel Teams & Diphthongs Review
+
+| 发音 | 拼写 | 例词 | 发音 | 拼写 | 例词 |
+|---|---|---|---|---|---|
+| /eɪ/ | ai、ay | rain, play | /i/ | ee、ea、ey | see, team, key |
+| /oʊ/ | oa、ow、oe | boat, snow, toe | /aɪ/ | ie、igh | pie, light |
+| /ʊ/ | oo、u | book, put | /u/ | oo、ew、ui、ue | moon, grew, fruit, blue |
+| /ɔ/ | au、aw、augh | sauce, saw, caught | /ɔɪ/ | oi、oy | coin, boy |
+| /aʊ/ | ou、ow | cloud, cow | | | |
+
+**🎣 双重分类：** `coin, boy, cloud, cow, snow, boat, moon, book, rain, light, toy, brown`。先按元音发音分类，再圈出对应拼写组合。
+
+**🎣 Word Chains：** `boy → toy → joy`；`coin → join → joint → point`；`cow → how → now`；`down → town → gown`。**三级听写：** 基础 `boy, coin, cow, now, cloud`；进阶 `point, join, brown, shout, round`；挑战 `choice, spoil, cowboy, ground, flower`。**读句：** `The boy found a coin.` `The brown cow is in the town.`
+
+🌟 复习时特别比较 `snow/cow`（同拼写、不同发音）和 `coin/boy`（同发音、不同拼写），也可回顾 `book/moon`、`team/bread`，帮助孩子理解拼写与发音的多对多关系。
+
+---
+
+# Part 4. 在家模仿 UFLI 的练习方法
+
+## 4.1 八个教学环节
+
+| 环节 | 家庭简化操作 |
 |---|---|
-| out | 外面 |
-| loud | 大声的 |
-| cloud | 云 |
-| house | 房子 |
-| mouse | 老鼠 |
-| round | 圆的 |
-| sound | 声音 |
-| found | 找到（过去式） |
-| count | 数数 |
-| shout | 大喊 |
-| mouth | 嘴巴 |
-| ground | 地面 |
-| proud | 骄傲的 |
+| Phonemic Awareness | 不看字，听辨 coin/cow、snow/cow |
+| Visual Drill | 看 oi、oy、ou、ow，说已学的常见发音 |
+| Auditory Drill | 听 /ɔɪ/、/aʊ/，说出可能的拼写 |
+| Blending Drill | `c \| oi \| n → coin`；`c \| l \| ou \| d → cloud` |
+| New Concept | 介绍本课新模式及位置倾向 |
+| Word Work | 用字母卡替换、增加或删除一个音素 |
+| Irregular Words | 复习学校当周 Heart Words，关注特殊拼写部分 |
+| Connected Text | 读含目标双元音的短句与短文 |
 
-**ow**
+## 4.2 🎣可直接使用的英文指令
 
-| 单词 | 中文 |
+| 家长指令 | 中文说明 | 示例 |
+|---|---|---|
+| “Read the word.” | 读出单词 | coin |
+| “Underline the vowel team.” | 标出元音拼写组合 | oi in coin |
+| “What sound does ow make here?” | 这里的 ow 读什么？ | snow /oʊ/；cow /aʊ/ |
+| “Change /b/ to /t/.” | 替换首音 | boy → toy |
+| “Add /t/ at the end.” | 增加末音 | join → joint |
+| “Sort by vowel sound.” | 按元音分类 | /ɔɪ/、/aʊ/ |
+| “Sort by spelling.” | 按拼写分类 | oi/oy；ou/ow |
+| “Spell the word you hear.” | 听写完整单词 | cloud |
+
+## 4.3 🎣每天15分钟家庭练习
+
+| 时间 | 活动 | 示例 |
+|---|---|---|
+| 3分钟 | 听音辨别 | coin/cow、snow/cow |
+| 3分钟 | 拼写卡 | oi、oy、ou、ow |
+| 5分钟 | Word Chains | `boy → toy → joy`；`down → town → gown` |
+| 4分钟 | 读句与理解 | `The cow is brown.` |
+
+🌟 每次选择 1–2 种模式即可。听到 /ɔɪ/ 或 /aʊ/ 并不能仅凭声音确定拼写，家长应结合词义、位置和词汇经验帮助孩子记忆。
+
+---
+
+# Part 5. 阅读与写作练习
+
+## 5.1 🎣从单词到短句
+
+| 层级 | 教学材料 |
 |---|---|
-| cow | 奶牛 |
-| now | 现在 |
-| how | 怎样 |
-| brown | 棕色 |
-| down | 向下 |
-| town | 城镇 |
-| clown | 小丑 |
-| crown | 王冠 |
-| owl | 猫头鹰 |
-| flower | 花 |
-| power | 力量 |
-| towel | 毛巾 |
+| Level 1：读词 | boy, toy, coin, point, cow, cloud, brown, shout |
+| Level 2：读句 | `The boy has a toy.` `The cow is brown.` |
+| Level 3：听写 | `I found a coin.` `We can shout out loud.` |
 
-### 3. 发音解释
+## 5.2 🎣家庭补充短文：The Boy and the Brown Cow
 
-**cow**
+> A boy had a toy. He went to a farm. He saw a brown cow. The cow was loud. The boy found a coin on the ground. He put the coin in his pocket. Then he went home.
 
-`/k/ + /aʊ/ → cow`
+**阅读理解：** “What did the boy have?” “Where did he go?” “What color was the cow?” “What did he find?” “Why did he put the coin in his pocket?”
 
-**cloud**
+🌟 这是家庭补充阅读，不是官方严格可解码短文。`went, pocket, home` 等词可能需要家长辅助；可以先圈出 `oy, ow, ou, oi` 再读全文。
 
-`/k/ + /l/ + /aʊ/ + /d/ → cloud`
+## 5.3 🎣写作与句子扩展
 
-**house**
+**听写词：** `boy, toy, coin, point, cow, cloud, brown, shout`。
 
-`/h/ + /aʊ/ + /s/ → house`
+**填空：** `The boy has a ____.`（toy）/ `I found a ____.`（coin）/ `The ____ is brown.`（cow）/ `I see a big ____.`（cloud）。
 
-注意：
+**自主造句：** `I see a cow.` → `I see a brown cow.` → `I see a brown cow on the farm.` → `I see a brown cow eating grass on the farm.`（后两句的词汇可由家长辅助）。
 
-- ou 在 cloud 中表示一个双元音。
-- ow 在 cow 中表示一个双元音。
-- house 的末尾 e 不单独发音。
-
-### 4. ou 与 ow 的常见位置规律
-
-| 拼写 | 常见位置 | 示例 |
-|---|---|---|
-| ou | 词中 | cloud, round, shout |
-| ow | 词尾 | cow, now, how |
-| ow | 词中 | brown, down, town |
-
-与 ai/ay、oi/oy 相比，ou/ow 的位置规律没有那么简单。
-
-例如：
-
-- brown 的 ow 位于词中。
-- cloud 的 ou 位于词中。
-- cow 的 ow 位于词尾。
-
-因此，家长应把位置规律作为辅助，而不是绝对拼写规则。
-
-### 5. 与汉语拼音比较
-
-英语 /aʊ/ 与汉语拼音 ao 有一定听觉相似性。
-
-但二者的发音起点和滑动方式可能不同。
-
-例如：
-
-- cow
-- now
-- house
-
-都应作为一个音节或单词中的一个元音核心来发音，不要将 /aʊ/ 拆成两个独立音节。
-
-### 6. 特别重要：ow 的两种发音
-
-在 Unit 8 中，孩子已经学习：
-
-`ow → /oʊ/`
-
-例如：
-
-- snow
-- grow
-- slow
-- show
-
-现在学习：
-
-`ow → /aʊ/`
-
-例如：
-
-- cow
-- now
-- brown
-- down
-
-### 综合比较
-
-| ow /oʊ/ | ow /aʊ/ |
-|---|---|
-| snow | cow |
-| grow | now |
-| slow | how |
-| show | brown |
-| blow | down |
-
-**家长需要强调：同一个字母组合 ow 可以有两种常见发音。**
-
-遇到陌生单词时，可以根据已学词汇、拼写模式和上下文尝试判断。
-
-### 7. ou 的其他发音
-
-ou 也不总是表示 /aʊ/。
-
-例如：
-
-| 单词 | ou 的发音 |
-|---|---|
-| out | /aʊ/ |
-| cloud | /aʊ/ |
-| soup | /u/ |
-| group | /u/ |
-| young | /ʌ/ |
-| touch | /ʌ/ |
-| four | /ɔr/（常见美式英语） |
-
-本课先学习 ou /aʊ/，其他情况作为扩展知识。
-
-### 8. 家庭练习
-
-**音素分割**
-
-- cow → /k/ /aʊ/
-- now → /n/ /aʊ/
-- cloud → /k/ /l/ /aʊ/ /d/
-- shout → /ʃ/ /aʊ/ /t/
-- brown → /b/ /r/ /aʊ/ /n/
-
-**Word Chains**
-
-Chain A：
-
-`cow → how → now → bow`
-
-这里 bow 应明确指“鞠躬”，读 /baʊ/；作为“蝴蝶结”时读 /boʊ/。
-
-Chain B：
-
-`down → town → gown → frown`
-
-其中 gown → frown 同时增加并改变辅音，不属于严格单步变化。
-
-推荐拆成：
-
-`down → town → gown`
-
-以及：
-
-`brown → frown → crown`
-
-Chain C：
-
-`loud → cloud → clout → shout`
-
-其中 cloud → clout 改变末辅音，clout → shout 同时改变多个辅音，因此适合作为综合拼读比较，而非完整的单步链。
-
-**拼写分类**
-
-将以下单词分成 ou、ow：
-
-cow, cloud, now, house, brown, round, shout, down, mouse, town
-
-**听写**
-
-基础组：
-
-- cow
-- now
-- out
-- loud
-- down
-
-进阶组：
-
-- cloud
-- house
-- brown
-- shout
-- round
-
-### 9. 家长常见错误
-
-- 将 ou、ow 拆成两个独立元音。
-- 将 cow 读成 snow 中的 /oʊ/。
-- 认为 ow 只有一种发音。
-- 认为 ou 在所有单词中都表示 /aʊ/。
-- 将 house 末尾 e 单独读出来。
+🌟 先鼓励完整表达，再重点纠正少量本单元目标拼写，不必一次纠正所有语法和词汇错误。
 
 ---
 
-## Lesson 97 — Vowel Teams & Diphthongs Review
+# Part 6. 家长常见问题
 
-### 1. 学习目标
+### 🚩Q1：为什么 boy 只有一个音节、两个音素？
 
-综合复习之前学习的 Vowel Teams 与本单元的 Diphthongs。
+`oy` 表示一个双元音 /ɔɪ/，所以 `boy = /b/ + /ɔɪ/`，共有两个音素、一个音节。
 
-重点包括：
+### 🚩Q2：为什么 coin 和 boy 拼写不同，元音却一样？
 
-- ai、ay → /eɪ/
-- ee、ea、ey → /i/
-- oa、ow、oe → /oʊ/
-- ie、igh → /aɪ/
-- oo → /ʊ/ 或 /u/
-- ew、ui、ue → /u/
-- au、aw、augh → /ɔ/
-- oi、oy → /ɔɪ/
-- ou、ow → /aʊ/
+`oi` 和 `oy` 都常表示 /ɔɪ/；oi 常在词中，oy 常在词尾或音节末尾，但并非没有例外。
 
-### 2. 综合知识表
+### 🚩Q3：为什么 snow 和 cow 的 ow 发音不同？
 
-| 发音 | 常见拼写 | 示例 |
-|---|---|---|
-| /eɪ/ | ai、ay | rain, play |
-| /i/ | ee、ea、ey | see, team, key |
-| /oʊ/ | oa、ow、oe | boat, snow, toe |
-| /aɪ/ | ie、igh | pie, light |
-| /ʊ/ | oo、u | book, put |
-| /u/ | oo、ew、ui、ue | moon, grew, fruit, blue |
-| /ɔ/ | au、aw、augh | August, saw, caught |
-| /ɔɪ/ | oi、oy | coin, boy |
-| /aʊ/ | ou、ow | cloud, cow |
+`ow` 可以读 /oʊ/（snow），也可以读 /aʊ/（cow）。需要通过常见词族、阅读和语境积累。
 
-### 3. 重点对比：ow 的两种发音
+### 🚩Q4：为什么 cloud 和 cow 都读 /aʊ/，却写成 ou、ow？
 
-**/oʊ/**
+一个元音音素可以有不同拼写。`ou` 常见于词中；`ow` 既可以在词尾，也可以在词中，位置线索并不完全可靠。
 
-- snow
-- grow
-- slow
-- show
+### 🚩Q5：双元音是不是两个音素？
 
-**/aʊ/**
+在本单元的英语音素教学中，/ɔɪ/ 和 /aʊ/ 各作为**一个元音音素**。发音时的滑动不意味着要拆成两个音节。
 
-- cow
-- now
-- brown
-- down
+### 🚩Q6：bow 应该读 /boʊ/ 还是 /baʊ/？
 
-### 4. 重点对比：ou 与 oo
+两种读法都存在，取决于词义：蝴蝶结、弓通常读 /boʊ/，鞠躬读 /baʊ/。这是很好的同形异音词示例。
 
-| 单词 | 拼写 | 发音 |
-|---|---|---|
-| moon | oo | /u/ |
-| book | oo | /ʊ/ |
-| soup | ou | /u/ |
-| cloud | ou | /aʊ/ |
+### 🚩Q7：孩子需要背诵所有例外吗？
 
-这说明英语拼写与发音存在多对多的对应关系。
-
-### 5. 综合听音分类
-
-家长读：
-
-coin, boy, cloud, cow, snow, boat, moon, book, rain, light
-
-孩子将单词按主要元音分类：
-
-- /ɔɪ/
-- /aʊ/
-- /oʊ/
-- /u/
-- /ʊ/
-- /eɪ/
-- /aɪ/
-
-### 6. 综合 Word Chains
-
-**Chain A — /ɔɪ/**
-
-`boy → toy → joy → soy`
-
-**Chain B — /ɔɪ/**
-
-`coin → join → joint → point`
-
-**Chain C — /aʊ/**
-
-`cow → how → now`
-
-**Chain D — /aʊ/**
-
-`down → town → gown`
-
-**Chain E — /oʊ/**
-
-`boat → coat → goat → moat`
-
-### 7. 综合听写
-
-**基础组**
-
-- boy
-- coin
-- cow
-- now
-- cloud
-
-**进阶组**
-
-- point
-- join
-- brown
-- shout
-- round
-
-**挑战组**
-
-- choice
-- spoil
-- cowboy
-- ground
-- flower
-
-### 8. 家庭自查
-
-- [ ] 能识别 oi、oy。
-- [ ] 能识别 ou、ow。
-- [ ] 能区分 /ɔɪ/ 与 /aʊ/。
-- [ ] 能区分 ow 的 /oʊ/ 与 /aʊ/。
-- [ ] 能拼读包含双元音的陌生单词。
-- [ ] 能听写常见目标单词。
-- [ ] 能将双元音作为一个音素进行分割。
-- [ ] 能结合已学 Vowel Teams 进行综合阅读。
+不需要。先掌握高频模式，练习类比拼读与分类，再通过阅读和听写逐步积累具体词汇的发音与拼写。
 
 ---
 
-# Part 5. UFLI 教学方法与家庭练习
+# Part 7. 学习进度与家庭记录
 
-## 5.1 八个教学环节
+## 7.1 Lesson 进度
 
-| UFLI 环节 | 学习目标 | 家庭练习 |
-|---|---|---|
-| Phonemic Awareness | 听辨双元音 | coin / cow |
-| Visual Drill | 看字母组合说发音 | oi、oy、ou、ow |
-| Auditory Drill | 听音选择拼写 | 听 /ɔɪ/，讨论 oi、oy |
-| Blending Drill | 合成声音 | /k/ /ɔɪ/ /n/ → coin |
-| New Concept | 学习新规则 | 解释 oi 与 oy 的位置规律 |
-| Word Work | 拼读、拼写和变换 | coin → join → joint |
-| Irregular Words | 学习特殊高频词 | 复习学校当周 Heart Words |
-| Connected Text | 阅读应用 | 阅读包含双元音的句子与短文 |
+| Lesson | 日期 | 掌握情况 | 需要复习的词或发音 |
+|---|---|---|---|
+| 95 oi、oy /ɔɪ/ | | ☐ 熟练 ☐ 练习中 | |
+| 96 ou、ow /aʊ/ | | ☐ 熟练 ☐ 练习中 | |
+| 97 Review | | ☐ 熟练 ☐ 练习中 | |
 
-### 特别提醒：Auditory Drill
+## 7.2 🎣单元自查
 
-听到 /ɔɪ/ 时，孩子不能仅凭声音确定应该写 oi 还是 oy。
+- [ ] 能识别 oi、oy /ɔɪ/ 和 ou、ow /aʊ/。
+- [ ] 知道双元音通常作为一个元音音素，而不是两个音节。
+- [ ] 能比较 oi/oy 与 ou/ow 的常见拼写位置。
+- [ ] 能区分 ow /oʊ/ 与 ow /aʊ/。
+- [ ] 能完成至少两组严格单步 Word Chains。
+- [ ] 能听写常见目标词，并阅读含双元音的短句。
 
-可以结合单词位置：
+### 🚩家庭练习记录（可重复打印）
 
-- coin：oi 位于词中。
-- boy：oy 位于词尾。
-
-同样，听到 /aʊ/ 时，也不能仅凭声音确定 ou 或 ow。
-
-因此，**拼读规律与词汇拼写记忆需要共同发展。**
-
----
-
-## 5.2 每天15分钟家庭练习
-
-### Step 1：听音辨别（3分钟）
-
-家长读：
-
-- boy
-- coin
-- cow
-- cloud
-- snow
-
-孩子判断包含：
-
-- /ɔɪ/
-- /aʊ/
-- /oʊ/
-
-### Step 2：拼写模式卡片（3分钟）
-
-展示：
-
-- oi
-- oy
-- ou
-- ow
-
-孩子说出常见发音，并举出一个单词。
-
-对于 ow，应允许孩子回答 /oʊ/ 和 /aʊ/ 两种已学发音。
-
-### Step 3：Word Chains（5分钟）
-
-例如：
-
-`coin → join → joint → point`
-
-让孩子指出每一步变化的声音。
-
-### Step 4：句子阅读（4分钟）
-
-- The boy has a toy.
-- I found a coin.
-- The cow is brown.
-- The cloud is big.
-- We can shout out loud.
-
-这些句子包含部分其他拼写模式或高频词，可以由家长辅助阅读。
+**日期：** __________　
+**Lesson：** ______　
+**练习时长：** ______ 分钟  
+**今日内容：** ☐ 听辨 ☐ 拼写卡 ☐ Word Chains ☐ 听写 ☐ 阅读  
+**练习单词：** __________________________________________________  
+**掌握较好：** __________________　
+**需要复习：** __________________
 
 ---
 
-# Part 6. 阅读与写作练习
+# Part 8. 本单元总结
 
-## 6.1 阅读短文：The Boy and the Brown Cow
+**第一，认识两个新的双元音拼写家族。** `oi, oy` 常表示 /ɔɪ/；`ou, ow` 常表示 /aʊ/。每个双元音在本单元的音素教学中作为一个元音音素。
 
-**The Boy and the Brown Cow**
+**第二，进一步理解拼写与发音的多对多关系。** `coin, boy` 的拼写不同但元音相同；`snow, cow` 的 ow 相同但读音不同。
 
-A boy had a toy.
+**第三，把拼读迁移到真实阅读。** 从 `boy → toy → joy`、`down → town → gown` 的类比练习，过渡到短句、短文和听写，逐步形成自动识词能力。
 
-He went to a farm.
-
-He saw a brown cow.
-
-The cow was loud.
-
-The boy found a coin on the ground.
-
-He put the coin in his pocket.
-
-Then he went home.
-
-> 本文用于家庭阅读理解练习，并非严格限定 Lessons 1–97 已学规则的官方 Decodable Text。went、saw、pocket 等词可能需要家长辅助。
-
-### 阅读理解问题
-
-1. What did the boy have?
-2. Where did the boy go?
-3. What color was the cow?
-4. What did the boy find?
-5. Why do you think the boy put the coin in his pocket?
-6. Can you retell the story in your own words?
-
-前4个问题侧重事实理解，第5个问题引导推理，第6个问题练习故事复述。
-
----
-
-## 6.2 写作练习
-
-### Level 1：听写单词
-
-- boy
-- toy
-- coin
-- cow
-- cloud
-- brown
-
-### Level 2：完成句子
-
-1. The boy has a ______.
-2. I found a ______.
-3. The ______ is brown.
-4. The sky has a big ______.
-5. I can ______ out loud.
-
-### Level 3：自主造句
-
-从简单句开始：
-
-`I see a cow.`
-
-增加细节：
-
-`I see a brown cow.`
-
-进一步增加地点：
-
-`I see a brown cow on the farm.`
-
-再增加动作：
-
-`I see a brown cow eating grass on the farm.`
-
-### 与中文写作比较
-
-中国小学的看图写话经常鼓励孩子增加：
-
-- 人物
-- 时间
-- 地点
-- 动作
-- 原因
-
-英语写作也可以通过类似方法逐步扩展。
-
-家长可以使用以下问题：
-
-- Who?
-- Where?
-- What happened?
-- What did the character do?
-- Why?
-
-**建议：先鼓励孩子完整表达，再选择少量本单元目标词进行拼写纠正。**
-
----
-
-# Part 7. 中国家长常见问题
-
-### Q1：为什么 boy 只有一个音节？
-
-因为 oy 表示一个双元音 /ɔɪ/。
-
-boy 的音素是 /b/ 和 /ɔɪ/，一共两个音素，但只有一个音节。
-
-### Q2：为什么 coin 有4个字母，却只有3个音素？
-
-因为 oi 共同表示一个双元音 /ɔɪ/。
-
-coin 的音素是 /k/、/ɔɪ/、/n/。
-
-### Q3：为什么 cow 和 snow 中的 ow 发音不同？
-
-因为 ow 有两种常见发音：
-
-- cow：/aʊ/
-- snow：/oʊ/
-
-需要结合拼写模式、词汇和上下文判断。
-
-### Q4：为什么 coin 使用 oi，而 boy 使用 oy？
-
-因为 oi 经常出现在单词内部，oy 经常出现在词尾。
-
-但这只是常见拼写规律，不是绝对规则。
-
-### Q5：为什么 cloud 和 cow 的元音相同，拼写却不同？
-
-因为 ou 和 ow 都可以表示 /aʊ/。
-
-英语同一个音素可能有不同拼写。
-
-### Q6：双元音是不是两个元音音素？
-
-在本单元的英语音素教学中，/ɔɪ/ 和 /aʊ/ 各作为一个元音音素。
-
-它们虽然包含元音音质的变化，但并不是两个独立音节。
-
-### Q7：家长可以直接用汉语拼音 ao 教 /aʊ/ 吗？
-
-不建议直接替代。
-
-可以借助复韵母的概念帮助理解，但实际发音应以英语示范为准。
-
-### Q8：孩子需要背诵所有 oi、oy、ou、ow 单词吗？
-
-不需要。
-
-建议：
-
-1. 先掌握常见发音。
-2. 理解拼写位置规律。
-3. 练习拼读陌生单词。
-4. 通过阅读积累准确拼写。
-5. 对容易混淆的词进行分类练习。
-
----
-
-# Part 8. 学习进度跟踪
-
-## 8.1 Lesson 进度表
-
-| Lesson | 知识点 | 学习日期 | 掌握情况 | 需要复习 |
-|---|---|---|---|---|
-| 95 | oi、oy /ɔɪ/ | | ☐ 熟练 ☐ 练习中 | |
-| 96 | ou、ow /aʊ/ | | ☐ 熟练 ☐ 练习中 | |
-| 97 | Vowel Teams & Diphthongs Review | | ☐ 熟练 ☐ 练习中 | |
-
-## 8.2 单元结束自查
-
-### 发音与拼写
-
-- [ ] 能识别 oi、oy。
-- [ ] 能识别 ou、ow。
-- [ ] 能区分 /ɔɪ/ 与 /aʊ/。
-- [ ] 能区分 ow 的两种常见发音。
-- [ ] 能理解双元音属于一个音节中的元音核心。
-- [ ] 能理解不同拼写可以表示相同双元音。
-- [ ] 能根据位置规律选择常见拼写。
-
-### 拼读与听写
-
-- [ ] 能拼读包含双元音的陌生单词。
-- [ ] 能将双元音作为一个音素进行分割。
-- [ ] 能听写常见 oi、oy、ou、ow 单词。
-- [ ] 能完成 Word Chains。
-- [ ] 能综合应用之前学习的 Vowel Teams。
-
-### 阅读与表达
-
-- [ ] 能阅读包含双元音的句子。
-- [ ] 能理解常见目标单词的意思。
-- [ ] 能回答简单的阅读理解问题。
-- [ ] 能复述简单故事。
-- [ ] 能尝试使用本单元单词造句。
-
----
-
-# Part 9. 家庭练习记录模板
-
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
-
-### 今日复习
-
-- [ ] oi / oy
-- [ ] ou / ow
-- [ ] ow /oʊ/ vs. /aʊ/
-- [ ] Vowel Teams Review
-- [ ] Phoneme Segmenting
-- [ ] Word Chains
-- [ ] Decoding
-- [ ] Encoding
-- [ ] Reading
-- [ ] Story Retelling
-
-**今天练习的字母组合：**
-
-**今天练习的单词：**
-
-**孩子掌握较好的内容：**
-
-**容易混淆的发音或拼写：**
-
-**下次需要复习：**
-
----
-
-# Part 10. 本单元总结
-
-## 三个最重要的学习成果
-
-**1. 理解双元音是一个音节中的元音音质变化。**
-
-例如：
-
-- boy → /bɔɪ/
-- cow → /kaʊ/
-
-**2. 掌握同一个双元音的不同拼写。**
-
-例如：
-
-- /ɔɪ/：coin、boy
-- /aʊ/：cloud、cow
-
-**3. 理解同一个字母组合可能有不同发音。**
-
-例如：
-
-- snow：ow → /oʊ/
-- cow：ow → /aʊ/
-
----
-
-## 下一单元预告
-
-**Unit 11 — Silent Letters（不发音的字母，Lesson 98）**
-
-官方 Lesson 98 主要学习：
-
-- kn → /n/
-- wr → /r/
-- mb → /m/
-
-例如：
-
-- knee、knife、know
-- write、wrong、wrist
-- lamb、comb、thumb
-
-下一单元的核心概念是：
-
-**英语单词中有些字母虽然保留在拼写中，但在现代英语发音中不再单独发音。**
-
-例如：
-
-- knee 中的 k 不发音。
-- write 中的 w 不发音。
-- lamb 中的 b 不发音。
-
-这也是英语拼写历史与现代发音之间差异的一个典型体现。
+**下一单元：Unit 11 — Silent Letters（不发音的字母）**。将认识 `kn → /n/`、`wr → /r/`、`mb → /m/` 等模式，例如 `knee, write, lamb`。

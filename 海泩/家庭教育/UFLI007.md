@@ -1,1134 +1,352 @@
+---
+layout: default
+title: UFLI｜007
+parent: 家庭教育
+nav_order: 0
+has_children: true
+---
+
+
+<div style="font-size: 11px; color: #999; text-align: right; margin: 8px 0 16px 0;">
+  2026/11/19 · 海泩整理 ❤️ 抖音同名 · 欢迎交流、指正与反馈
+👉 <a href="assert/UFLI/UFLI007.pdf" target="_blank" rel="noopener noreferrer">PDF下载</a>
+</div>
 
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 7 — R-Controlled Vowels（R 控制元音）
 
 **课程范围：** Lessons 77–83  
-**适用阶段：** 一年级后期至二年级，或需要巩固自然拼读的学生  
-**前置知识：** Units 1–6，包括短元音、长元音、Digraphs、VCe、音节划分及词尾拼写模式。
+**适用阶段：** 一年级后期至二年级；也适合自然拼读复习  
+**前置知识：** Units 1–6，包括短元音、VCe、辅音组合、音节划分及词尾拼写模式。
 
-**官方资料：**
+**官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
-- [UFLI Scope & Sequence PDF](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
-- [UFLI Printable Resources](https://ufli.education.ufl.edu/foundations/printable-resources/)
-
-> **本单元核心目标**
->
-> 理解 R-Controlled Vowels（R 控制元音）的发音规律，掌握 ar、or、ore、er、ir、ur，以及 w + or 等常见拼写模式。
->
-> 本单元最重要的概念是：**元音字母后面出现 r 时，元音的发音往往会发生变化。不同的字母组合也可能表示相同的声音。**
-
-本手册中的示例、中文解释及家庭练习为家长辅助学习而设计，不是 UFLI 官方教师手册的逐字翻译。发音主要以常见美式英语为参考。
+> **使用说明：** 本手册面向中国家长，以常见美式英语为参考。例词、Word Chains、短文及家庭练习为补充教学材料，并非 UFLI 官方逐课原文。本文将 /ɑr/、/ɔr/ 作为方便家长辨认的美式音标写法；部分词典采用不同标音体系。涉及尚未学习的拼写模式时由家长辅助。
 
 ---
 
-# Part 1. 学习目标
+# Part 1. 本单元学什么？
 
-完成本单元后，孩子应逐步能够：
+Unit 6 主要学习单词结尾的拼写规律；Unit 7 进一步认识 **元音字母与 r 组成的常见拼写模式**。例如 `car` 的 `ar` 不能按 `cat` 的短元音 /æ/ 机械拼读；`her, bird, turn` 虽然拼写不同，却具有相同的重读 r 色彩元音 /ɝ/。
 
-- [ ] 理解什么是 R-Controlled Vowel。
-- [ ] 掌握 ar 的常见发音 /ɑr/。
-- [ ] 掌握 or、ore 的常见发音 /ɔr/。
-- [ ] 掌握 er、ir、ur 的常见发音 /ɝ/。
-- [ ] 理解 w + or 的特殊发音模式。
-- [ ] 区分 /ɑr/、/ɔr/ 和 /ɝ/。
-- [ ] 能够拼读包含 R-Controlled Vowels 的陌生单词。
-- [ ] 能根据听到的声音选择常见拼写。
-- [ ] 能阅读包含 R-Controlled Vowels 的简单句子。
-- [ ] 能将本单元知识应用到较长的单词中。
+| 核心能力 | 单元结束时的表现 |
+|---|---|
+| ar | 拼读 car、star、farm 等 /ɑr/ 单词 |
+| or、ore | 拼读 corn、fork、more 等 /ɔr/ 单词 |
+| er、ir、ur | 识别 /ɝ/ 的三种常见拼写 |
+| w + or | 认识 word、work 等 /wɝ/ 模式 |
+| 听辨与拼写 | 区分 /ɑr/、/ɔr/、/ɝ/，选择合适拼写 |
+| 阅读与表达 | 读词、Word Chains、听写及短文理解 |
 
-**与 Unit 6 的主要区别：**
-
-Unit 6 主要研究单词结尾的拼写规律。
-
-Unit 7 开始研究：
-
-**元音与后面的 r 如何共同影响单词的发音。**
-
-例如：
-
-- cat → car
-- hot → horn
-- her → bird → turn
-
-注意：这些例子用于比较拼写和发音，不一定都是严格的一步 Word Chain。
+🌟 **教学重点：** 看见拼写模式能尝试读音（Decoding），但听到 /ɝ/ 不能仅凭声音确定是 er、ir 还是 ur（Encoding）。
 
 ---
 
 # Part 2. 中国家长需要理解的基础概念
 
-## 2.1 什么是 R-Controlled Vowel？
+## 2.1 🚩什么是 R-Controlled Vowel？
 
-R-Controlled Vowel 指元音字母与后面的 r 组成的常见拼写模式。
+R-Controlled Vowel 是元音字母与后面的 r 共同形成的常见拼写模式。英语中的 `ar, or, er, ir, ur` 通常不能直接拆成“短元音 + 普通 r”来读；在常见美式英语中，它们常出现以下三组发音：
 
-例如：
+| 发音 | 常见拼写 | 示例 | 发音 | 常见拼写 | 示例 |
+|---|---|---|---|---|---|
+| /ɑr/ | ar | car, star, farm | /ɔr/ | or | corn, fork, horn |
+| /ɔr/ | ore | more, store, shore | /ɝ/ | er | her, fern, term |
+| /ɝ/ | ir | bird, girl, shirt | /ɝ/ | ur | turn, burn, hurt |
 
-- ar
-- or
-- er
-- ir
-- ur
+🌟 英语 /r/ 与普通话儿化音存在某些听觉相似性，但并不相同；不要把 `car` 读成两个音节，也不要直接用拼音 er 替代 /ɝ/。不同英语口音对词尾 r 的处理也不同，本手册以常见美式英语为准。
 
-在美式英语中，这些组合经常产生与普通短元音或长元音不同的发音。
+## 2.2 🚩字素、音素与教学分块
 
-### 示例
+`car` 可以按 `c | ar` 分块；`bird` 可以按 `b | ir | d` 分块。自然拼读课堂常把 `ar`、`ir` 当作一个拼读单位，但**拼写单位的数量不一定等于严格语音学中的音素数量**，尤其是 /ɑr/、/ɔr/ 在不同音标体系下可能被进一步分析。家庭练习优先关注“看组合、读整体”，不必强迫孩子背诵有争议的音素计数。
 
-| 普通元音单词 | R-Controlled 单词 | 发音变化 |
+| 单词 | 教学分块 | 拼读提示 | 单词 | 教学分块 | 拼读提示 |
+|---|---|---|---|---|---|
+| car | c-ar | /k/ + /ɑr/ | farm | f-ar-m | /f/ + /ɑr/ + /m/ |
+| corn | c-or-n | /k/ + /ɔr/ + /n/ | more | m-ore | /m/ + /ɔr/ |
+| bird | b-ir-d | /b/ + /ɝ/ + /d/ | turn | t-ur-n | /t/ + /ɝ/ + /n/ |
+
+## 2.3 🚩重读 /ɝ/ 与非重读 /ɚ/
+
+Unit 5 已经介绍过重音与元音弱化的基本现象。这里再认识一种与 r 有关的区别：`her`（单独重读时）与 `bird` 中的 r 色彩元音通常记作 **/ɝ/**；`teacher`、`farmer` 等词末尾非重读的 `-er` 通常记作 **/ɚ/**。
+
+| 单词 | 常见美式发音 | 教学说明 |
 |---|---|---|
-| cat | car | /æ/ → /ɑr/ |
-| hat | hard | /æ/ → /ɑr/ |
-| hot | horn | /ɑ/ → /ɔr/ |
-| bed | her | /ɛ/ → /ɝ/ |
-| sit | bird | /ɪ/ → /ɝ/ |
-| sun | turn | /ʌ/ → /ɝ/ |
+| bird | /bɝd/ | 重读 /ɝ/ |
+| turn | /tɝn/ | 重读 /ɝ/ |
+| teacher | /ˈtiːtʃɚ/ | 词尾非重读 /ɚ/ |
+| farmer | /ˈfɑrmɚ/ | 词尾非重读 /ɚ/ |
 
-这些是用于说明元音差异的对照，不代表只添加 r 就一定能从左侧单词变成右侧单词。
+🌟 本单元的 er 教学以 `her, fern, term` 等**重读 /ɝ/** 例词为主；`teacher` 等属于延伸辨音，不要求孩子此时掌握所有非重读 -er 的拼写和重音规则。
 
-### 为什么叫 R-Controlled？
+## 2.4 🚩规律不是百分之百的
 
-可以把 r 理解为一个会影响前面元音发音的字母。
-
-例如：
-
-`car`
-
-不能简单按照：
-
-c → /k/
-
-a → /æ/
-
-r → /r/
-
-逐个拼成 /kær/。
-
-在常见美式英语中，car 通常读 /kɑr/。
-
-这里的 ar 是一个需要整体识别的拼写模式。
+`word, work` 中的 `or` 通常读 /ɝ/，不是 /ɔr/；`worn, wore` 却仍通常含 /ɔr/。同样，`care, share` 的 `ar` 也不是本单元 `car` 中的 /ɑr/。先学习高频模式，再逐步认识其他读音，避免“看到 ar 就一定读 /ɑr/”的机械判断。
 
 ---
 
-## 2.2 与汉语拼音的比较
+# Part 3. UFLI Lessons 77–83 课程进度与练习
 
-### 相似之处：元音可以受到相邻声音影响
+## 3.1 课程目录
 
-普通话中存在儿化现象，例如：
-
-- 花儿
-- 玩儿
-- 一点儿
-
-儿化会影响前面韵母的发音。
-
-美式英语中的部分 R-Controlled Vowels 也具有明显的 r 色彩。
-
-例如：
-
-- her
-- bird
-- turn
-
-### 不同之处
-
-**1. 英语 R-Controlled Vowels 不是简单地在普通元音后面加一个汉语“儿”。**
-
-例如 bird 的 /ɝ/ 是一个带 r 色彩的元音，不应读成两个清晰分开的音节。
-
-**2. 汉语拼音 er 与英语 er 并不完全相同。**
-
-例如：
-
-- 普通话“儿”：ér
-- 英语 her：/hɝ/
-
-虽然可能有一定听觉相似性，但舌位、重音和音质并不完全相同。
-
-**3. 英语 r 在不同口音中的表现不同。**
-
-在许多美式英语口音中，car、bird、turn 中的 r 色彩比较明显。
-
-在某些英式英语口音中，元音后的 r 不一定发出来。
-
-本手册以常见美式英语为主要参考。
-
----
-
-## 2.3 R-Controlled Vowels 的三组主要声音
-
-本单元可以先把知识整理成三组。
-
-| 发音 | 常见拼写 | 示例 |
-|---|---|---|
-| /ɑr/ | ar | car, star, farm |
-| /ɔr/ | or, ore | corn, fork, more |
-| /ɝ/ | er, ir, ur | her, bird, turn |
-
-另外：
-
-`wor` 在 word、work、world 等单词中通常包含 /ɝ/ 或其非重读变体。
-
-### 为什么 er、ir、ur 可以发同一个音？
-
-英语的拼写保留了历史变化。
-
-在现代常见美式英语中：
-
-- her
-- bird
-- turn
-
-三个单词的重读元音通常都可以用 /ɝ/ 表示。
-
-因此：
-
-**看到 er、ir、ur，可以尝试读出相同的 R-Controlled 元音；但听到 /ɝ/ 时，不能仅凭声音确定应该写 er、ir 还是 ur。**
-
-这就是 Decoding 与 Encoding 的区别。
-
----
-
-## 2.4 /ɝ/ 和 /ɚ/ 有什么区别？
-
-这是中国家长经常遇到的一个问题。
-
-在美式英语音标中：
-
-- /ɝ/：通常表示重读的 r 色彩元音。
-- /ɚ/：通常表示非重读的 r 色彩元音。
-
-例如：
-
-| 单词 | 发音 | 说明 |
-|---|---|---|
-| bird | /bɝd/ | 重读 |
-| her | /hɝ/ | 单独重读时 |
-| teacher | /ˈtitʃɚ/ | 词尾非重读 |
-| better | /ˈbɛtɚ/ | 词尾非重读 |
-
-初学阶段不需要孩子记住这两个音标的区别。
-
-家长只需知道：**英语的 r 色彩元音会受到重音和单词位置影响。**
-
----
-
-# Part 3. 课程进度（Lessons 77–83）
-
-| Lesson | 知识点 | 中文解释 | 完成 |
+| Lesson | 课程内容 | 练习重点 | 完成 |
 |---|---|---|---|
-| 77 | ar /ɑr/ | ar 的常见发音 | ☐ |
-| 78 | or、ore /ɔr/ | or、ore 的常见发音 | ☐ |
-| 79 | ar、or、ore Review | 第一轮综合复习 | ☐ |
-| 80 | er /ɝ/ | er 的常见发音 | ☐ |
-| 81 | ir、ur /ɝ/ | ir、ur 的常见发音 | ☐ |
-| 82 | er、ir、ur、w + or | /ɝ/ 的不同拼写及特殊模式 | ☐ |
-| 83 | R-Controlled Vowels Review | 全部 R 控制元音综合复习 | ☐ |
+| 77 | ar /ɑr/ | car、star、farm | ☐ |
+| 78 | or、ore /ɔr/ | corn / more | ☐ |
+| 79 | ar、or、ore Review | /ɑr/ 与 /ɔr/ 对比 | ☐ |
+| 80 | er /ɝ/ | her、fern、term | ☐ |
+| 81 | ir、ur /ɝ/ | bird、turn | ☐ |
+| 82 | er、ir、ur、w + or | word、work | ☐ |
+| 83 | R-Controlled Review | 综合辨音、拼写与阅读 | ☐ |
+
+## 3.2 🚩Lesson 77 — ar /ɑr/
+
+`ar` 在很多单词中表示 /ɑr/。先读熟 `car, far, bar`，再过渡到 `farm, park, sharp` 等含词尾辅音或辅音连缀的单词。
+
+| 基础词 | 带词尾辅音 | 辅音连缀 | 较长词（拓展） |
+|---|---|---|---|
+| car, bar, far, jar | farm, harm, hard, card | star, scar, spark, sharp | garden, market, carpet |
+| tar, mar, par | park, bark, dark, mark | start, smart, charm, march | artist, harvest, starfish |
+
+**🎣 Word Chains（每步只改一个音素）：** `car → bar → far → jar`（替换首音）；`park → bark → dark → mark`（替换首音）；`farm → harm → hard → card`（最后两步依次替换末音、首音）。
+
+**🎣 听音分块：** `car = c | ar`；`star = s | t | ar`；`farm = f | ar | m`；`sharp = sh | ar | p`。**听写：** `car, star, farm, park, sharp, dark`。**读句：** `The car is in the park.` `A star is far away.`（away 由家长辅助。）
+
+🌟 注意 `ar` 不是普通短元音 /æ/；`care`、`share` 等不是本课 ar /ɑr/ 的典型例词。
+
+## 3.3 🚩Lesson 78 — or、ore /ɔr/
+
+`or` 与 `ore` 在本课例词中通常表示 /ɔr/。`ore` 常出现在单词末尾，e 不单独发音；`or` 常出现在后接辅音的位置。
+
+| or | ore | or | ore |
+|---|---|---|---|
+| corn, horn, born | more, core, bore | fork, pork, cork | store, score, shore |
+| sort, port, fort | sore, wore, tore | short, sport, storm | snore, chore, before |
+
+**🎣 Word Chains：** `corn → horn → born → torn`；`more → sore → core → bore`；`fork → pork → port → sort`（每步替换一个辅音音素）。
+
+**🎣 分类：** 将 `corn, more, fork, store, horn, shore, storm, score, pork, snore` 分为 or 与 ore。**听写：** `corn, fork, horn, more, store, shore`。**读句：** `The corn is on the farm.` `I want more.`（want 由家长辅助。）
+
+🌟 不要把 `more` 的 e 单独读出来；`word`、`work` 的特殊发音将在 Lesson 82 学习。
+
+## 3.4 🚩Lesson 79 — ar、or、ore Review
+
+| 拼写 | 常见发音 | 例词 | 拼写 | 常见发音 | 例词 |
+|---|---|---|---|---|---|
+| ar | /ɑr/ | car, farm, dark | or | /ɔr/ | corn, fork, storm |
+| ore | /ɔr/ | more, store, shore | ar | /ɑr/ | star, park, sharp |
+
+**🎣 听音辨别：** `car / core`、`far / for`、`bar / bore`（听元音是否相同）。**拼写分类：** `car, corn, star, store, farm, fork, park, more, storm, shore, sharp, short`，分为 ar、or、ore 三组。
+
+**🎣 Word Chains：** `car → bar → far`；`corn → horn → torn`；`more → sore → core`。**分层听写：** 基础 `car, corn, more, farm`；进阶 `sharp, short, storm, shore`。**读句：** `The horse is in the barn.`（horse 中含已学 or，barn 含 ar。）
+
+🌟 /ɑr/ 与 /ɔr/ 在常见美式英语中有区别；听辨时先让孩子模仿真实英语读音，不必依赖中文近似音。
+
+## 3.5 🚩Lesson 80 — er /ɝ/
+
+在本课的重读音节中，`er` 通常表示 /ɝ/，例如 `her, fern, term`。它不是把短 e /ɛ/ 和 r 机械相加。
+
+| 基础词 | 增加辅音或辅音连缀 | 拓展词 |
+|---|---|---|
+| her, fern, term, germ | herd, verb, stern, perch | person, perfect, perhaps |
+| perm, jerk, perk | serve, nerve, stern | teacher, farmer, winter（非重读 -er） |
+
+**🎣 Word Chains：** `term → germ → perm`；`her → herd → herb`（每步替换或增加一个辅音音素）。**分块：** `her = h | er`；`fern = f | er | n`；`term = t | er | m`；`stern = s | t | er | n`。
+
+**🎣 听写：** `her, fern, term, germ, herd, verb`。**读句：** `Her fern is green.`（green 由家长辅助。）`The germ is on the desk.`
+
+🌟 `teacher` 的词尾 -er 常读非重读 /ɚ/，可让孩子听一听，但不要与本课重读 /ɝ/ 的基础例词混为一谈。
+
+## 3.6 🚩Lesson 81 — ir、ur /ɝ/
+
+`ir`、`ur` 在本课的重读音节中常与 `er` 一样读 /ɝ/。**看到拼写能尝试读音，听到声音却不一定能判断拼写。**
+
+| ir | ur | ir | ur |
+|---|---|---|---|
+| bird, girl, dirt | turn, burn, hurt | shirt, skirt, first | fur, curl, surf |
+| third, stir, firm | nurse, purse, burst | birth, chirp, whirl | curb, turnip, purple |
+
+**🎣 Word Chains：** `turn → burn → urn`（替换首音，再删除首音）；`hurt → curt → curl`（替换首音，再替换末音；curt 为拓展词）；`dirt → dirk`（替换末音；dirk 为拓展词）。**拼写分类：** `bird, turn, girl, burn, shirt, hurt, first, curl, dirt, nurse` 分为 ir、ur 两组。
+
+**🎣 听写：** `bird, girl, turn, burn, hurt, shirt`。**读句：** `The bird is on the curb.` `The girl has a purple shirt.`
+
+🌟 `girl`、`bird`、`turn` 中的元音不是普通短 i 或短 u；家长要示范英语 /ɝ/，而不是用汉语拼音 i、u 逐字母拼读。
+
+## 3.7 🚩Lesson 82 — er、ir、ur、w + or
+
+复习 `er, ir, ur → /ɝ/`，并认识部分 `w + or` 单词中 `or` 也读 /ɝ/，例如 `word, work, worm`。注意这里的 w 仍读 /w/，不能把整个 `wor` 当成一个独立元音音素。
+
+| er /ɝ/ | ir /ɝ/ | ur /ɝ/ | wor /wɝ/ |
+|---|---|---|---|
+| her, fern, term | bird, girl, shirt | turn, burn, hurt | word, work, worm |
+| germ, herd, verb | first, dirt, stir | fur, curl, nurse | world, worse, worth |
+
+**🎣 Word Chains：** `word → work → worm`（每步替换末音）；`term → germ → perm`；`turn → burn → urn`。**分类：** `her, bird, turn, word, fern, girl, burn, work, term, shirt, hurt, worm`，按 er、ir、ur、wor 分组。
+
+**🎣 对比读：** `fork / work`、`corn / worm`、`wore / word`（对比 /ɔr/ 与 /ɝ/，不要求它们构成 Word Chain）。**听写：** `her, bird, turn, word, work, worm`。**读句：** `The girl can work.` `The worm is in the dirt.`
+
+🌟 `worn, wore` 仍常读 /ɔr/，所以不是所有 w 后面的 or 都读 /ɝ/。
+
+## 3.8 🚩Lesson 83 — R-Controlled Vowels Review
+
+| 拼写 | 发音 | 例词 | 拼写 | 发音 | 例词 |
+|---|---|---|---|---|---|
+| ar | /ɑr/ | car, star, farm | or | /ɔr/ | corn, fork, storm |
+| ore | /ɔr/ | more, store, shore | er | /ɝ/ | her, fern, term |
+| ir | /ɝ/ | bird, girl, shirt | ur | /ɝ/ | turn, burn, hurt |
+| wor | /wɝ/ | word, work, worm | | | |
+
+**🎣 七组分类：** `car, fork, more, bird, turn, her, work, star, store, girl, burn, word, corn, fern, shirt, farm, worm, shore, nurse, term, storm`。让孩子先读词，再圈出目标拼写，最后分类。
+
+**🎣 三级听写：** 基础 `car, corn, her, bird, turn`；进阶 `farm, storm, fern, shirt, work`；挑战 `garden, market, purple, perfect, world`（挑战组含多音节词，家长可帮助划分音节）。
+
+**🎣 听音辨别：** `car/core`、`far/for`、`fork/work`、`wore/word`。**句子：** `The bird is on the farm.` `The girl has a red shirt.` `The worm is in the dirt.`
 
 ---
 
-# Part 4. 逐课知识点与家庭练习
+# Part 4. 在家模仿 UFLI 的练习方法
 
-## Lesson 77 — ar /ɑr/
+## 4.1 八个教学环节
 
-### 1. 学习目标
-
-学习 ar 的常见发音 /ɑr/。
-
-**核心规律：在许多单词中，ar 表示 /ɑr/。**
-
-### 2. 示例单词
-
-| 类型 | 示例 |
+| 环节 | 家庭简化操作 |
 |---|---|
-| 基础单词 | car, far, bar, jar |
-| 辅音连缀 | star, scar |
-| 辅音结尾 | farm, hard, park, dark |
-| 较长单词 | garden, market, carpet |
+| Phonemic Awareness | 不看文字，听辨 car/core、fork/work |
+| Visual Drill | 看 ar、or、ore、er、ir、ur 说常见发音 |
+| Auditory Drill | 听 /ɑr/、/ɔr/、/ɝ/，从卡片中选择可能的拼写 |
+| Blending Drill | `c \| ar → car ；b \| ir \| d → bird` |
+| New Concept | 解释本课拼写模式及常见例外 |
+| Word Work | 字母卡替换首音或末音，逐步读出新词 |
+| Irregular Words | 复习学校当周 Heart Words |
+| Connected Text | 阅读含目标模式的短句与短文 |
 
-### 3. 发音解释
+## 4.2 🎣可直接使用的英文指令
 
-例如：
-
-`car → /kɑr/`
-
-其中：
-
-- c → /k/
-- ar → /ɑr/
-
-再看：
-
-`farm → /fɑrm/`
-
-其中：
-
-- f → /f/
-- ar → /ɑr/
-- m → /m/
-
-### 4. 与汉语拼音比较
-
-英语 /ɑr/ 不能简单读成拼音 a 加“儿”。
-
-例如 car：
-
-- 不要把它读成两个音节。
-- 不要在 a 和 r 之间加入额外元音。
-- 应模仿美式英语中连续的 /ɑr/ 发音。
-
-### 5. 家庭练习
-
-**音素分割**
-
-- car → /k/ /ɑr/
-- star → /s/ /t/ /ɑr/
-- farm → /f/ /ɑr/ /m/
-- park → /p/ /ɑr/ /k/
-
-这里将 /ɑr/ 作为自然拼读教学中的一个组合单位。严格的语音学音素分析可能进一步区分元音与 /r/；家长练习时应优先采用学校使用的计数方式。
-
-**Word Chain**
-
-`car → far → bar → jar`
-
-`park → dark → bark → barn`
-
-第二条中 bark → barn 只改变末辅音。
-
-**听写**
-
-- car
-- star
-- farm
-- park
-- dark
-
-### 6. 家长常见错误
-
-- 把 ar 读成普通短 a /æ/。
-- 把 ar 读成两个音节。
-- 认为所有包含 ar 的单词都发 /ɑr/。
-
-例如 care、share 中的 ar 发音不同，属于后续学习的拼写模式。
-
----
-
-## Lesson 78 — or、ore /ɔr/
-
-### 1. 学习目标
-
-掌握 or、ore 的常见发音 /ɔr/。
-
-### 2. 示例单词
-
-**or**
-
-- corn
-- fork
-- horn
-- short
-- sport
-- storm
-- north
-
-**ore**
-
-- more
-- store
-- shore
-- score
-- core
-- before
-
-### 3. 发音解释
-
-例如：
-
-`corn → /kɔrn/`
-
-`more → /mɔr/`
-
-or 和 ore 在这些单词中通常表示相同或非常接近的声音。
-
-### 4. or 与 ore 的区别
-
-| 拼写 | 示例 | 常见位置 |
+| 家长指令 | 中文说明 | 示例 |
 |---|---|---|
-| or | corn, fork, storm | 可以出现在辅音前 |
-| ore | more, store, shore | 经常出现在词尾 |
+| “Read the word.” | 读出单词 | car |
+| “Underline the r-controlled spelling pattern.” | 标出 r 控制元音组合 | ar in farm |
+| “What sound does ar make?” | ar 常发什么音？ | /ɑr/ |
+| “Change /k/ to /f/.” | 替换首音 | car → far |
+| “Change the ending sound.” | 替换末音 | word → work |
+| “Sort the words by spelling.” | 按拼写分类 | er / ir / ur |
+| “Read both words. Are the vowel sounds the same?” | 比较元音 | car / core |
+| “Spell the word you hear.” | 听写 | bird |
 
-但这不是绝对规则。
+🌟 教学时使用 “r-controlled spelling pattern” 比笼统称为 vowel team 更准确。
 
-### 5. 与汉语拼音比较
+## 4.3 🎣每天15分钟家庭练习
 
-英语 /ɔr/ 不等于汉语拼音 o 加“儿”。
-
-尤其要注意：
-
-- corn 不是两个音节。
-- more 的末尾 e 通常不单独发音。
-- or、ore 在这些词中需要作为常见拼写模式识别。
-
-### 6. 家庭练习
-
-**Word Chain**
-
-`corn → horn → torn → born`
-
-`more → sore → core → bore`
-
-每一步替换首音。
-
-**分类**
-
-将以下单词按 or、ore 分类：
-
-corn, more, fork, store, horn, shore, storm, score
-
-**听写**
-
-- corn
-- fork
-- horn
-- more
-- store
-
-### 7. 家长常见错误
-
-- 将 or 读成普通短 o /ɑ/。
-- 将 ore 的 e 读出来。
-- 认为 or 和 ore 在所有单词中都必须读 /ɔr/。
-
-例如 word、work 中的 or 通常不发 /ɔr/。
-
----
-
-## Lesson 79 — ar、or、ore Review
-
-### 1. 学习目标
-
-综合复习：
-
-- ar /ɑr/
-- or /ɔr/
-- ore /ɔr/
-
-### 2. 发音对比
-
-| 拼写 | 发音 | 示例 |
+| 时间 | 活动 | 示例 |
 |---|---|---|
-| ar | /ɑr/ | car, star, farm |
-| or | /ɔr/ | corn, fork, storm |
-| ore | /ɔr/ | more, store, shore |
+| 3分钟 | 听音辨别 | car/core、fork/work |
+| 3分钟 | 拼写卡 | ar、or、ore、er、ir、ur |
+| 5分钟 | Word Chains | `car → bar → far`；`word → work → worm` |
+| 4分钟 | 读句与理解 | `The bird is on the farm.` |
 
-### 3. 为什么要特别区分 ar 和 or？
-
-因为中国学习者可能把 /ɑr/ 和 /ɔr/ 都读成类似“啊儿”的声音。
-
-但在常见美式英语中：
-
-- car：/kɑr/
-- core：/kɔr/
-
-这两个词的元音不同。
-
-### 4. 家庭练习
-
-**听音分类**
-
-家长随机读：
-
-car, corn, star, store, farm, fork, park, more
-
-孩子将单词分成三组：
-
-- ar
-- or
-- ore
-
-**拼读**
-
-- star
-- storm
-- shore
-- farm
-- fork
-
-**听写**
-
-- car
-- corn
-- more
-- park
-- store
-
-### 5. 家庭自查
-
-- [ ] 能识别 ar、or、ore。
-- [ ] 能区分 /ɑr/ 与 /ɔr/。
-- [ ] 能拼读包含这些组合的陌生单词。
-- [ ] 能听写常见 ar、or、ore 单词。
+🌟 初学阶段每天选 1–2 种目标模式即可，不必一次把所有 er、ir、ur 词都要求听写正确。
 
 ---
 
-## Lesson 80 — er /ɝ/
+# Part 5. 阅读与写作练习
 
-### 1. 学习目标
+## 5.1 🎣从单词到短句
 
-学习 er 的常见 R-Controlled 发音 /ɝ/。
+| 层级 | 教学材料 |
+|---|---|
+| Level 1：读词 | car, park, corn, fork, her, bird, turn, work |
+| Level 2：读句 | `The car is in the park.` `The bird is on the farm.` |
+| Level 3：听写 | `The girl has a red shirt.` `The worm is in the dirt.` |
 
-### 2. 示例单词
+## 5.2 🎣家庭补充短文：The Bird and the Worm
 
-**基础单词**
+> A bird sat on a branch. The bird saw a worm in the dirt. The worm went under a rock. The bird went to the farm. A girl saw the bird. She put corn on the ground. The bird ate the corn.
 
-- her
-- fern
-- term
-- germ
-- verb
-- herd
+**阅读理解：** “What did the bird see?” “Where did the worm go?” “Who put corn on the ground?” “Why do you think the girl put corn there?”
 
-**较长单词**
+🌟 这是家庭补充阅读，不是官方严格可解码短文。`branch, saw, went, under, ground, ate` 等词可能涉及未学规则或高频不规则拼写，可由家长示范。
 
-- person
-- perfect
-- perhaps
+## 5.3 🎣写作与句子扩展
 
-**非重读词尾 er（扩展知识）**
+**听写词：** `star, park, corn, more, bird, shirt, turn, work`。
 
-- teacher
-- farmer
-- better
-- sister
-- winter
+**填空：** `The ____ is on the farm.`（bird）/ `I can see a ____.`（star）/ `The girl has a red ____.`（shirt）/ `The ____ is in the dirt.`（worm）。
 
-### 3. 发音解释
+**自主造句：** `The bird is on the farm.` → `The small bird is on the farm.` → `The small bird is on the farm with a girl.`（with 由家长辅助）。
 
-例如：
-
-`her → /hɝ/`
-
-`fern → /fɝn/`
-
-`term → /tɝm/`
-
-在这些词中，er 表示带 r 色彩的重读元音。
-
-### 4. 为什么 teacher 中的 er 不完全一样？
-
-teacher 通常读：
-
-`/ˈtitʃɚ/`
-
-词尾 er 是非重读音节，通常使用 /ɚ/ 表示。
-
-因此：
-
-- her：重读时常用 /ɝ/。
-- teacher：词尾非重读时常用 /ɚ/。
-
-### 5. 与汉语拼音比较
-
-英语 er 的发音与汉语拼音 er 有一定听觉相似性。
-
-但不能直接把 her 读成“喝儿”。
-
-英语 /h/ 和汉语拼音 h 的发音也不同。
-
-### 6. 家庭练习
-
-**音素分割**
-
-- her → /h/ /ɝ/
-- fern → /f/ /ɝ/ /n/
-- term → /t/ /ɝ/ /m/
-
-**Word Chain**
-
-`her → herd`
-
-`fern → germ → term`
-
-注意 fern → germ 同时改变首辅音和末辅音，因此应作为单词比较，不是严格单步链。
-
-推荐单步练习：
-
-`fern → fern`（先读写）
-
-`term → germ → perm`
-
-其中 perm 可作为扩展词。
-
-**听写**
-
-- her
-- fern
-- term
-- germ
-- verb
-
-### 7. 家长常见错误
-
-- 将 er 拆成 /ɛ/ + /r/，机械地逐字母发音。
-- 将 her 读成两个音节。
-- 认为 er 在所有单词中都发重读 /ɝ/。
+🌟 句子扩写时先关注意思完整，再选择少量本单元的目标拼写进行纠正，不必一次纠正所有语法和拼写。
 
 ---
 
-## Lesson 81 — ir、ur /ɝ/
+# Part 6. 家长常见问题
 
-### 1. 学习目标
+### 🚩Q1：为什么 car 的 a 不读 /æ/？
 
-学习 ir、ur 的常见发音 /ɝ/。
+因为 `ar` 在这个词中形成常见的 r-controlled 拼写模式，读 /ɑr/；不应把 `car` 按 `cat` 的短元音规则机械拼读。
 
-### 2. 示例单词
+### 🚩Q2：or 和 ore 都读 /ɔr/，怎么知道写哪个？
 
-**ir**
+`ore` 常出现在单词末尾，例如 `more, store`；`or` 常出现在辅音前，例如 `corn, fork`。这是有帮助的拼写线索，但并非无例外的规则。
 
-- bird
-- girl
-- first
-- shirt
-- dirt
-- third
-- stir
+### 🚩Q3：为什么 her、bird、turn 的元音相同？
 
-**ur**
+重读的 `er, ir, ur` 在常见美式英语中经常都读 /ɝ/。听到 /ɝ/ 后仍需结合词汇经验判断具体拼写。
 
-- turn
-- burn
-- hurt
-- curl
-- fur
-- nurse
-- purple
+### 🚩Q4：为什么 word 不读成与 cord 押韵？
 
-### 3. 为什么 ir 和 ur 发音相同？
+因为 `word, work, worm` 属于常见的 `w + or` 特殊模式，其中 or 读 /ɝ/；但 `wore, worn` 不遵循这一模式。
 
-在常见美式英语中：
+### 🚩Q5：/ɝ/ 和 /ɚ/ 是同一个声音吗？
 
-- bird → /bɝd/
-- turn → /tɝn/
-- her → /hɝ/
+两者都是带 r 色彩的元音，主要区别是重音：`bird` 的重读元音通常写 /ɝ/，`teacher` 的非重读词尾通常写 /ɚ/。初学阶段先听辨，不必机械背音标。
 
-虽然拼写不同，但重读元音通常相同。
+### 🚩Q6：孩子需要背诵所有规则名称吗？
 
-### 4. 与汉语拼音比较
-
-中国家长容易认为：
-
-- ir 应该包含拼音 i 的声音。
-- ur 应该包含拼音 u 的声音。
-
-但英语 ir、ur 在这些单词中通常都表示 /ɝ/。
-
-不能把 bird 读成“bi-r-d”，也不能把 turn 读成“tu-r-n”。
-
-### 5. 家庭练习
-
-**分类**
-
-将以下单词分成 ir、ur 两组：
-
-bird, turn, girl, burn, shirt, hurt, first, curl
-
-**Word Chain**
-
-`bird → third`
-
-这里增加 /θ/ 并改变首辅音，不属于严格单步链。
-
-推荐：
-
-`bird → bir d`（音素分割）
-
-以及：
-
-`turn → burn → urn`
-
-其中 burn → urn 删除首音。
-
-**音素分割**
-
-- bird → /b/ /ɝ/ /d/
-- girl → /g/ /ɝ/ /l/
-- turn → /t/ /ɝ/ /n/
-- hurt → /h/ /ɝ/ /t/
-
-**听写**
-
-- bird
-- girl
-- turn
-- burn
-- hurt
-
-### 6. 家长常见错误
-
-- 将 ir 读成 /ɪr/。
-- 将 ur 读成 /ʌr/。
-- 认为听到 /ɝ/ 就一定能确定使用哪个元音字母。
+不需要。更重要的是能够听辨、识别拼写、拼读、听写和在句子中理解目标词。规则名称主要帮助家长组织教学。
 
 ---
 
-## Lesson 82 — er、ir、ur、w + or
+# Part 7. 学习进度与家庭记录
 
-### 1. 学习目标
+## 7.1 Lesson 进度
 
-综合学习 /ɝ/ 的不同拼写方式，并认识 w + or 的特殊发音。
+| Lesson | 日期 | 掌握情况 | 需要复习的词或发音 |
+|---|---|---|---|
+| 77 ar | | ☐ 熟练 ☐ 练习中 | |
+| 78 or、ore | | ☐ 熟练 ☐ 练习中 | |
+| 79 Review 1 | | ☐ 熟练 ☐ 练习中 | |
+| 80 er | | ☐ 熟练 ☐ 练习中 | |
+| 81 ir、ur | | ☐ 熟练 ☐ 练习中 | |
+| 82 er、ir、ur、wor | | ☐ 熟练 ☐ 练习中 | |
+| 83 Review 2 | | ☐ 熟练 ☐ 练习中 | |
 
-### 2. 为什么 w + or 特别？
+## 7.2 🎣单元自查
 
-在许多单词中：
+- [ ] 能识别 ar、or、ore，并区分 /ɑr/ 与 /ɔr/。
+- [ ] 能识别 er、ir、ur，知道它们常表示同一个重读元音 /ɝ/。
+- [ ] 能读出 word、work、worm 等 w + or 特殊词。
+- [ ] 能完成至少两组严格单步 Word Chains。
+- [ ] 能听写常见 R-Controlled 单词，并阅读简单短句。
+- [ ] 知道重读 /ɝ/ 与非重读 /ɚ/ 的基本区别。
 
-`or → /ɔr/`
+### 🚩家庭练习记录（可重复打印）
 
-例如：
-
-- corn
-- fork
-- storm
-
-但在部分 w + or 的单词中：
-
-`wor → /wɝ/`
-
-例如：
-
-- word
-- work
-- worm
-- world
-- worse
-- worth
-
-### 3. 示例对比
-
-| 单词 | 拼写模式 | 发音 |
-|---|---|---|
-| corn | or | /kɔrn/ |
-| word | wor | /wɝd/ |
-| fork | or | /fɔrk/ |
-| work | wor | /wɝk/ |
-| storm | or | /stɔrm/ |
-| worm | wor | /wɝm/ |
-
-### 4. 与汉语拼音比较
-
-英语 wor 不能简单按照 w + o + r 的字母顺序拼读。
-
-例如：
-
-`work → /wɝk/`
-
-而不是把 w、短 o 和 r 的基础发音机械拼在一起。
-
-### 5. 家庭练习
-
-**分类**
-
-将以下单词按 er、ir、ur、wor 分类：
-
-her, bird, turn, word, fern, girl, burn, work
-
-**Word Chain**
-
-`word → work → worm`
-
-每一步改变最后一个辅音音素。
-
-**听写**
-
-- her
-- bird
-- turn
-- word
-- work
-
-### 6. 家长常见错误
-
-- 将 word 中的 or 读成 /ɔr/。
-- 将 work 读成与 fork 押韵。
-- 认为所有 w 后面的 or 都必须读 /ɝ/。
-
-例如 wore、worn 等单词并不遵循这个模式。
+**日期：** __________　
+**Lesson：** ______　
+**练习时长：** ______ 分钟  
+**今日内容：** ☐ 听辨 ☐ 拼写卡 ☐ Word Chains ☐ 听写 ☐ 阅读  
+**练习单词：** __________________________________________________  
+**掌握较好：** __________________　
+**需要复习：** __________________
 
 ---
 
-## Lesson 83 — R-Controlled Vowels Review
+# Part 8. 本单元总结
 
-### 1. 学习目标
+**第一，理解元音与 r 的组合会影响发音。** `car` 的 ar、`corn` 的 or、`bird` 的 ir 都需要作为常见拼写模式整体识别。
 
-综合复习本单元所有 R-Controlled Vowel 模式。
+**第二，认识相同声音的不同拼写。** `her, bird, turn` 的重读元音通常都读 /ɝ/，但分别写成 er、ir、ur；`word, work` 进一步展示了 w + or 的特殊模式。
 
-### 2. 综合知识表
+**第三，将拼读规律迁移到阅读与写作。** 不只记住 `car`，还可以尝试 `far, bar, star, farm`；不只会读 `bird`，还要在短句中认出并听写目标词。
 
-| 拼写 | 常见发音 | 示例 |
-|---|---|---|
-| ar | /ɑr/ | car, star, farm |
-| or | /ɔr/ | corn, fork, storm |
-| ore | /ɔr/ | more, store, shore |
-| er | /ɝ/ | her, fern, term |
-| ir | /ɝ/ | bird, girl, shirt |
-| ur | /ɝ/ | turn, burn, hurt |
-| wor | /wɝ/ | word, work, worm |
-
-### 3. 综合听写
-
-**基础组**
-
-- car
-- corn
-- her
-- bird
-- turn
-
-**进阶组**
-
-- farm
-- storm
-- fern
-- shirt
-- work
-
-**挑战组**
-
-- garden
-- market
-- purple
-- perfect
-- world
-
-### 4. 综合分类活动
-
-将以下单词按拼写模式分类：
-
-car, fork, more, bird, turn, her, work, star, store, girl, burn, word
-
-类别：
-
-- ar
-- or
-- ore
-- er
-- ir
-- ur
-- wor
-
-### 5. 综合发音对比
-
-重点练习：
-
-- car / core
-- far / for
-- bird / beard（后者为后续扩展知识）
-- work / fork
-
-家长不必要求孩子一次掌握所有对比词，可以根据学校当周的教学内容逐步练习。
-
----
-
-# Part 5. UFLI 教学方法与家庭练习
-
-## 5.1 八个教学环节
-
-| UFLI 环节 | 学习目标 | 家庭练习 |
-|---|---|---|
-| Phonemic Awareness | 听辨 R-Controlled 元音 | car / core 对比 |
-| Visual Drill | 看拼写说发音 | ar、or、er、ir、ur |
-| Auditory Drill | 听音选择拼写 | 听 /ɝ/，讨论可能的拼写 |
-| Blending Drill | 合成声音 | /k/ /ɑr/ → car |
-| New Concept | 学习新规律 | 解释元音后 r 的影响 |
-| Word Work | 拼读与拼写 | car → far → bar |
-| Irregular Words | 特殊高频词 | 复习学校当周 Heart Words |
-| Connected Text | 阅读应用 | 阅读含 R-Controlled 元音的短文 |
-
-## 5.2 每天15分钟家庭练习
-
-### Step 1：听音辨别（3分钟）
-
-家长读：
-
-- car
-- corn
-- her
-- bird
-- turn
-
-孩子判断属于哪一组发音。
-
-### Step 2：拼写模式卡片（3分钟）
-
-展示：
-
-- ar
-- or
-- ore
-- er
-- ir
-- ur
-
-让孩子说出常见发音，并举出一个单词。
-
-### Step 3：Word Work（5分钟）
-
-例如：
-
-`car → far → bar → jar`
-
-或者：
-
-`word → work → worm`
-
-每一步改变一个音素。
-
-### Step 4：句子阅读（4分钟）
-
-- The car is in the park.
-- The bird is on the farm.
-- The girl has a red shirt.
-- We work in the garden.
-
-这些句子包含部分其他拼写模式或高频词，家长可以辅助阅读。
-
----
-
-# Part 6. 阅读与写作练习
-
-## 6.1 阅读短文：The Bird on the Farm
-
-**The Bird on the Farm**
-
-A girl went to the farm.
-
-She saw a bird on a tree.
-
-The bird had a red mark.
-
-The girl ran to the barn.
-
-She told her dad about the bird.
-
-Her dad smiled.
-
-> 这是家庭阅读理解练习，并非严格限定 Lessons 1–83 已学规则的官方 Decodable Text。went、saw、tree、smiled 等词可能需要家长辅助。
-
-### 阅读理解问题
-
-1. Where did the girl go?
-2. What did she see?
-3. What color was the mark?
-4. Why do you think she told her dad about the bird?
-5. Can you retell the story in your own words?
-
-前3个问题主要考察事实理解，第4个问题引导推理，第5个问题练习复述。
-
-## 6.2 写作练习
-
-### Level 1：听写单词
-
-- car
-- farm
-- bird
-- girl
-- turn
-
-### Level 2：完成句子
-
-1. The bird is on the ______.
-2. I can see a ______.
-3. The girl has a red ______.
-
-### Level 3：自主造句
-
-从简单句开始：
-
-`The bird is on the farm.`
-
-逐步增加细节：
-
-`The little bird is on the farm.`
-
-再增加动作：
-
-`The little bird is on the farm, and it is singing.`
-
-### 与中文写作比较
-
-中国小学的看图写话会鼓励孩子增加：
-
-- 人物
-- 地点
-- 动作
-- 时间
-- 原因
-
-英语写作同样可以通过这些方面逐步扩展句子。
-
-对于一年级孩子，家长可以优先鼓励表达完整，再选择少量本单元的目标词进行拼写纠正。
-
----
-
-# Part 7. 中国家长常见问题
-
-### Q1：为什么 car 中的 a 不发短元音 /æ/？
-
-因为 ar 是常见的 R-Controlled Vowel 模式，在美式英语中通常表示 /ɑr/。
-
-### Q2：为什么 her、bird、turn 的元音听起来一样？
-
-因为 er、ir、ur 在这些单词中通常都表示重读的 r 色彩元音 /ɝ/。
-
-### Q3：为什么 word 不按照 or 的普通规律发音？
-
-因为 word 属于 w + or 的特殊拼写模式，通常读 /wɝd/。
-
-### Q4：为什么英语有时用 /ɝ/，有时用 /ɚ/？
-
-两者主要区别在于重音。
-
-- /ɝ/：通常表示重读。
-- /ɚ/：通常表示非重读。
-
-例如 bird 与 teacher 的词尾 er。
-
-### Q5：家长可以直接用汉语拼音 er 教英语吗？
-
-不建议。
-
-可以借助汉语儿化的概念理解 r 色彩，但实际发音应以英语示范为准。
-
-### Q6：听到 /ɝ/ 时，孩子如何知道写 er、ir 还是 ur？
-
-不能只靠声音完全确定。
-
-孩子需要结合：
-
-- 常见拼写模式。
-- 已学单词。
-- 词汇记忆。
-- 阅读积累。
-
-这也是英语拼写学习比单纯掌握字母发音更复杂的原因。
-
----
-
-# Part 8. 学习进度跟踪
-
-## 8.1 Lesson 进度表
-
-| Lesson | 知识点 | 学习日期 | 掌握情况 | 需要复习 |
-|---|---|---|---|---|
-| 77 | ar | | ☐ 熟练 ☐ 练习中 | |
-| 78 | or、ore | | ☐ 熟练 ☐ 练习中 | |
-| 79 | ar/or/ore Review | | ☐ 熟练 ☐ 练习中 | |
-| 80 | er | | ☐ 熟练 ☐ 练习中 | |
-| 81 | ir、ur | | ☐ 熟练 ☐ 练习中 | |
-| 82 | er/ir/ur/wor | | ☐ 熟练 ☐ 练习中 | |
-| 83 | R-Controlled Review | | ☐ 熟练 ☐ 练习中 | |
-
-## 8.2 单元结束自查
-
-### 发音与拼写
-
-- [ ] 能识别 ar、or、ore。
-- [ ] 能区分 /ɑr/ 与 /ɔr/。
-- [ ] 能识别 er、ir、ur。
-- [ ] 知道 er、ir、ur 经常表示相同的声音。
-- [ ] 能识别 wor 的特殊发音。
-- [ ] 能拼读包含 R-Controlled Vowels 的陌生单词。
-- [ ] 能听写常见 R-Controlled 单词。
-
-### 阅读与表达
-
-- [ ] 能阅读包含本单元拼写模式的句子。
-- [ ] 能理解常见 R-Controlled 单词的意思。
-- [ ] 能回答简单的阅读理解问题。
-- [ ] 能尝试使用本单元单词造句。
-
----
-
-# Part 9. 家庭练习记录模板
-
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
-
-### 今日复习
-
-- [ ] ar
-- [ ] or / ore
-- [ ] er
-- [ ] ir / ur
-- [ ] wor
-- [ ] Phoneme Segmenting
-- [ ] Word Chains
-- [ ] Decoding
-- [ ] Encoding
-- [ ] Reading
-
-**今天练习的单词：**
-
-**孩子掌握较好的内容：**
-
-**容易混淆的发音或拼写：**
-
-**下次需要复习：**
-
----
-
-# Part 10. 本单元总结
-
-## 三个最重要的学习成果
-
-**1. 理解 r 会影响前面元音的发音。**
-
-例如：
-
-- car
-- corn
-- bird
-- turn
-
-**2. 理解不同拼写可以表示相同的 R-Controlled 元音。**
-
-例如：
-
-- her
-- bird
-- turn
-
-它们的重读元音通常都表示 /ɝ/。
-
-**3. 能利用 R-Controlled Vowel 规律拼读陌生单词。**
-
-例如：
-
-- farm
-- storm
-- shirt
-- purple
-- work
-
----
-
-## 下一单元预告
-
-**Unit 8 — Vowel Teams（元音字母组合）**
-
-主要学习：
-
-- ai、ay
-- ee、ea
-- oa、ow
-- 其他常见长元音拼写模式
-
-例如：
-
-- rain、play
-- see、team
-- boat、snow
-
-下一单元的核心概念是：
-
-**两个元音字母可以共同表示一个元音音素，而且同一个元音音素可能有多种不同的拼写方式。**
+**下一单元：Unit 8 — Vowel Teams（元音字母组合）**。将进一步学习 ai、ay、ee、ea、oa、ow 等常见长元音拼写模式。

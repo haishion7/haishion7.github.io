@@ -1,683 +1,176 @@
+---
+layout: default
+title: UFLI｜014
+parent: 家庭教育
+nav_order: 0
+has_children: true
+---
 
-# UFLI Foundations 家长辅助学习手册
+<div style="font-size: 11px; color: #999; text-align: right; margin: 8px 0 16px 0;">
+  2026/11/20 · 海泩整理 ❤️ 抖音同名 · 欢迎交流、指正与反馈
+👉 <a href="assert/UFLI/UFLI014.pdf" target="_blank" rel="noopener noreferrer">PDF下载</a>
+</div>
 
-## Unit 14 — Additional Affixes（更多前后缀与构词法）
+
+# 📘 UFLI Foundations 家长辅助学习手册
+
+# Unit 14 — Additional Affixes（更多前后缀与构词法）
 
 **课程范围：** Lessons 119–128  
-**适用阶段：** 二年级及需要巩固复杂词汇、拼写和阅读能力的学生  
-**前置知识：** Units 1–13，包括自然拼读、音节划分、前后缀、拼写变化和低频拼写模式。
+**适用阶段：** 二年级及需要巩固多音节词、拼写和阅读的学生  
+**前置知识：** Units 1–13，尤其是音节划分、Schwa、词缀及拼写变化。
 
-**官方资料：**
+**官方资料：** [Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [Printable Resources](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
-- [UFLI Scope & Sequence PDF](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
-- [UFLI Printable Resources](https://ufli.education.ufl.edu/foundations/printable-resources/)
+🌟 **本单元重点：** 从“看到拼写、读出声音”进一步发展到“观察词的结构、推测意义”。学习 `-tion, -sion, -ture, -er, -or, -ist, -ish, -y, -ness, -ment, -able, -ible` 以及 `uni-, bi-, tri-`。不仅要认出词缀，还要注意弱读音节、词性变化和拼写规则。
 
-> **本单元核心目标**
->
-> 学习更多常见的英语前缀与后缀，包括 `-sion`、`-tion`、`-ture`、`-er`、`-or`、`-ist`、`-ish`、`-y`、`-ness`、`-ment`、`-able`、`-ible`、`uni-`、`bi-` 和 `tri-`。
->
-> 进一步发展 Morphological Awareness（词素意识），帮助孩子通过分析单词的结构，理解词义、词性以及拼写和发音的变化。
-
-**说明：** 本手册根据 UFLI 官方课程目录组织，中文解释、示例及家庭练习为自行编写的辅助内容，并非官方教师手册的逐字翻译。部分词汇难度较高，家长可以优先选择孩子已经熟悉的词。
+> 本手册依照 UFLI 课程顺序编写；中文讲解、补充词汇和家庭练习为辅助内容，并非官方教师手册的逐字翻译。音标以常见美式英语为主；个别读音存在地区差异。
 
 ---
 
-# Part 1. 学习目标
+# Part 1. 🚩家长需要理解的基础概念
 
-完成本单元后，孩子应逐步能够：
+## 1.1 Phonics 与 Morphology：从拼读到构词
 
-- [ ] 理解基础词、词根、前缀和后缀之间的关系。
-- [ ] 认识 `-sion`、`-tion` 的常见发音和构词作用。
-- [ ] 认识 `-ture` 的常见发音。
-- [ ] 掌握 `-er`、`-or`、`-ist` 表示人物或职业的常见情况。
-- [ ] 理解 `-ish`、`-y` 的常见意义。
-- [ ] 理解 `-ness` 可以将部分形容词变成名词。
-- [ ] 理解 `-ment` 的常见构词作用。
-- [ ] 掌握 `-able`、`-ible` 的常见意义。
-- [ ] 认识 `uni-`、`bi-`、`tri-` 表示数量的情况。
-- [ ] 能将较长单词拆分为有意义的组成部分。
-- [ ] 能利用词素结构推测陌生词的意义。
-- [ ] 能在阅读和写作中运用所学词缀。
+**Phonics（自然拼读）**研究拼写与声音的关系，例如 `ship → sh + i + p`；**Morphology（词素学）**研究有意义的构词部分，例如 `unhelpful → un- + help + -ful`。**Morphological Awareness（词素意识）**就是识别这些部分，并利用它们理解、拼写单词的能力。
 
----
+| 概念 | 解释 | 示例 |
+|---|---|---|
+| Base Word（基础词） | 能作为添加词缀的基础，通常本身可以独立使用 | help → helpful |
+| Root（词根） | 承载核心意义，不一定能独立成词 | spect（与“看”有关）：inspect, spectator |
+| Prefix（前缀） | 加在基础部分之前 | un- + happy → unhappy |
+| Suffix（后缀） | 加在基础部分之后 | kind + -ness → kindness |
+| Derivational Affix（派生词缀） | 改变意义，有时改变词性 | happy（形容词）→ happiness（名词） |
+| Inflectional Suffix（屈折后缀） | 主要表示语法变化，不创造新的词类 | walk → walked；cat → cats |
 
-# Part 2. 中国家长需要理解的基础概念
+🌟 `-tion`、`-sion` 常见于名词，但不是所有包含这些字母的词都能简单地去掉后缀得到一个现代英语单词。`-ture` 在本单元主要作为**词尾拼写与发音模式**学习；picture、nature 等不宜机械拆成“基础词 + -ture”。
 
-## 2.1 什么是 Morphological Awareness（词素意识）？
+## 1.2 为什么多音节词需要同时看重音和词素？
 
-Morphological Awareness 指识别和理解单词中有意义的组成部分的能力。
+英语的非重读音节常出现 **Schwa /ə/**，因此不能按每个字母的字母名称读单词。例如 `action /ˈækʃən/` 中的 `-tion` 通常读 /ʃən/；`teacher /ˈtitʃɚ/` 的 `-er` 在常见美音中读 /ɚ/。词素有助于理解词义，但**词素边界不一定等于音节边界**。
 
-例如：
-
-`unhappiness`
-
-可以拆成：
-
-`un- + happy + -ness`
-
-其中：
-
-- happy：快乐的。
-- un-：表示否定。
-- -ness：将形容词转变为表示状态或性质的名词。
-
-因此：
-
-`unhappiness = 不快乐的状态`
-
-### 与 Phonics 的区别
-
-**Phonics：** 关注字母与声音的对应关系。
-
-例如：
-
-`ship → sh + i + p`
-
-**Morphology：** 关注单词的意义结构。
-
-例如：
-
-`helpful → help + ful`
-
-两种能力可以相互配合。
-
-例如：
-
-`unhelpful`
-
-孩子既可以通过自然拼读读出单词，也可以通过词素理解意义。
+🎣 比较 `happy → happiness`、`teach → teacher`、`read → readable`：请孩子指出基础词、后缀、词性和意义发生了什么变化。
 
 ---
 
-## 2.2 Base Word 与 Root 有什么区别？
+# Part 2. 🚩Lessons 119–128 课程总览
 
-这两个概念在日常教学中有时会被混用，但严格来说并不完全相同。
-
-### Base Word（基础词）
-
-可以作为添加词缀基础的词。
-
-例如：
-
-`help → helpful`
-
-help 本身就是一个完整单词。
-
-### Root（词根）
-
-承载核心意义的组成部分，不一定能独立成为英语单词。
-
-例如：
-
-`spect`
-
-来自表示“看”的拉丁语词根。
-
-相关单词包括：
-
-- inspect
-- respect
-- spectator
-
-spect 本身通常不能作为现代英语中的独立普通单词使用。
-
-### 与中文构词比较
-
-中文可以通过组合具有意义的汉字形成词语。
-
-例如：
-
-- 学
-- 学习
-- 学生
-- 学校
-
-英语也可以通过词根和词缀构词。
-
-但需要注意，**英语词根不一定是一个可以独立使用的单词**。
-
-对于小学阶段的孩子，建议先学习容易理解的基础词与词缀，再逐步接触拉丁语、希腊语词根。
-
----
-
-## 2.3 什么是 Derivational Affix（派生词缀）？
-
-派生词缀可以改变单词的意义，有时也会改变词性。
-
-例如：
-
-`happy → happiness`
-
-- happy：形容词。
-- happiness：名词。
-
-`teach → teacher`
-
-- teach：动词。
-- teacher：名词。
-
-`comfort → comfortable`
-
-- comfort：名词或动词。
-- comfortable：形容词。
-
-### 与中文比较
-
-中文也可以通过添加有意义的成分形成新词。
-
-例如：
-
-- 教 → 教师
-- 工作 → 工作者
-- 快乐 → 快乐感
-
-英语则经常通过特定后缀表达这些变化。
-
-例如：
-
-- teach → teacher
-- work → worker
-- happy → happiness
-
----
-
-## 2.4 为什么词缀学习能帮助阅读？
-
-假设孩子第一次看到：
-
-`disagreement`
-
-可以尝试拆分：
-
-`dis- + agree + -ment`
-
-其中：
-
-- dis-：表示否定或相反。
-- agree：同意。
-- -ment：形成名词。
-
-因此 disagreement 表示“不同意；分歧”。
-
-孩子不需要把每个较长的单词都当作完全陌生的整体来记忆。
-
-### 家长需要理解
-
-词素分析可以帮助孩子：
-
-1. 识别熟悉的组成部分。
-2. 推测单词意义。
-3. 理解词性变化。
-4. 改进拼写。
-5. 扩展词汇量。
-
-但并非所有单词都能通过简单拆分准确推测意义。
-
----
-
-# Part 3. 官方课程进度（Lessons 119–128）
-
-| Lesson | 官方知识点 | 中文解释 | 完成 |
+| Lesson | 知识点 | 核心目标 | 完成 |
 |---|---|---|---|
-| 119 | -sion、-tion | 常见名词后缀及发音 | ☐ |
-| 120 | -ture | 常见词尾拼写模式 | ☐ |
-| 121 | -er、-or、-ist | 表示人物、职业或相关身份 | ☐ |
-| 122 | -ish | 表示具有某种性质、近似等 | ☐ |
-| 123 | -y | 表示具有某种性质 | ☐ |
-| 124 | -ness | 表示状态、性质的名词后缀 | ☐ |
-| 125 | -ment | 常见名词后缀 | ☐ |
-| 126 | -able、-ible | 表示能够、适合或具有某种性质 | ☐ |
-| 127 | uni-、bi-、tri- | 表示一、二、三 | ☐ |
-| 128 | Affixes Review 2 | 词缀综合复习 | ☐ |
+| 119 | -tion, -sion | 常见发音与名词构词 | ☐ |
+| 120 | -ture | 常见词尾读音 | ☐ |
+| 121 | -er, -or, -ist | 人物、职业、身份 | ☐ |
+| 122 | -ish | 性质、近似、程度 | ☐ |
+| 123 | -y | “具有……性质” | ☐ |
+| 124 | -ness | 形容词变名词 | ☐ |
+| 125 | -ment | 常见名词构词 | ☐ |
+| 126 | -able, -ible | 能够、适合、具有某种性质 | ☐ |
+| 127 | uni-, bi-, tri- | 一、二、三 | ☐ |
+| 128 | Affixes Review 2 | 综合拼读、构词与拼写 | ☐ |
 
 ---
 
-# Part 4. 逐课知识点与家庭练习
+# Part 3. 逐课知识点与家庭练习
 
-## Lesson 119 — Suffixes -sion、-tion
+## 3.1 🚩Lesson 119 — -tion、-sion
 
-### 1. 学习目标
+`-tion` 通常读 **/ʃən/**；`-sion` 常读 **/ʒən/** 或 **/ʃən/**。两个词尾的元音都常弱化为 /ə/，但辅音不同：/ʃ/ 是清辅音，/ʒ/ 是浊辅音。
 
-学习 `-sion` 和 `-tion` 的常见发音及构词作用。
-
-### 2. 示例单词
-
-**-tion**
-
-| 单词 | 中文 |
-|---|---|
-| action | 行动 |
-| station | 车站 |
-| nation | 国家 |
-| motion | 运动 |
-| direction | 方向 |
-| invention | 发明 |
-| education | 教育 |
-| information | 信息 |
-
-**-sion**
-
-| 单词 | 中文 |
-|---|---|
-| vision | 视觉；愿景 |
-| decision | 决定 |
-| television | 电视 |
-| explosion | 爆炸 |
-| confusion | 困惑 |
-| permission | 许可 |
-| discussion | 讨论 |
-
-### 3. 发音解释
-
-`-tion` 通常发 /ʃən/。
-
-例如：
-
-`action → /ˈækʃən/`
-
-`station → /ˈsteɪʃən/`
-
-`-sion` 可以有不同发音。
-
-例如：
-
-- vision：/ˈvɪʒən/
-- decision：/dɪˈsɪʒən/
-- discussion：/dɪˈskʌʃən/
-
-因此，不能认为 -sion 永远只有一种发音。
-
-### 4. 与汉语拼音比较
-
-英语 /ʃ/ 和 /ʒ/ 与汉语拼音 sh、r 等声音并不完全相同。
-
-另外，-tion 中的字母并不是逐个发音。
-
-例如 action 不应读成 act-i-on 三个独立部分。
-
-### 5. 构词与词义
-
-例如：
-
-`act → action`
-
-- act：行动。
-- action：行动；行为。
-
-`invent → invention`
-
-- invent：发明。
-- invention：发明物；发明行为。
-
-### 6. 家庭练习
-
-**分类**
-
-action, vision, station, decision, motion, discussion
-
-按照 -tion、-sion 分类。
-
-**音节划分**
-
-- action → ac-tion
-- station → sta-tion
-- decision → de-ci-sion
-- invention → in-ven-tion
-
-**听写**
-
-- action
-- station
-- motion
-- vision
-- decision
-
-### 7. 家长常见错误
-
-- 将 -tion 逐字母发音。
-- 认为 -sion 永远发 /ʒən/。
-- 认为所有以 -tion 结尾的词都能通过简单删除 -tion 得到一个基础词。
-
----
-
-## Lesson 120 — Suffix -ture
-
-### 1. 学习目标
-
-认识 `-ture` 的常见发音及其在单词中的使用。
-
-### 2. 示例单词
-
-| 单词 | 中文 |
-|---|---|
-| picture | 图片 |
-| nature | 自然 |
-| future | 未来 |
-| capture | 捕获 |
-| mixture | 混合物 |
-| adventure | 冒险 |
-| creature | 生物 |
-| furniture | 家具 |
-| temperature | 温度 |
-
-### 3. 发音解释
-
-在许多常见美式英语单词中，-ture 发 /tʃɚ/。
-
-例如：
-
-`picture → /ˈpɪktʃɚ/`
-
-`nature → /ˈneɪtʃɚ/`
-
-`future → /ˈfjutʃɚ/`
-
-### 4. 为什么 -ture 不按普通 VCe 规则发音？
-
-因为 -ture 是一种需要整体学习的词尾模式。
-
-例如 picture 不能简单按照 pic-tu-re 三个部分逐字母拼读。
-
-### 5. 与中文比较
-
-中文中，“图画”“自然”“未来”等词通常通过汉字组合表示意义。
-
-英语中的 picture、nature、future 则包含具有历史来源的拼写模式。
-
-并不是所有包含 -ture 的单词都能简单拆分为现代英语基础词加后缀。
-
-### 6. 家庭练习
-
-**音节划分**
-
-- picture → pic-ture
-- nature → na-ture
-- future → fu-ture
-- capture → cap-ture
-
-**分类阅读**
-
-picture, nature, future, capture, mixture
-
-让孩子找出共同的 -ture。
-
-**听写**
-
-- picture
-- nature
-- future
-- capture
-
-### 7. 家长常见错误
-
-- 将 -ture 读成 /t/ + /u/ + /r/ + /e/。
-- 认为所有 -ture 单词都有完全相同的重音。
-- 认为 -ture 在每个单词中都一定是可以独立分析的派生后缀。
-
----
-
-## Lesson 121 — Suffixes -er、-or、-ist
-
-### 1. 学习目标
-
-学习表示人物、职业、身份或从事某种活动的常见后缀。
-
-### 2. -er 示例
-
-| 基础词 | 新单词 | 中文 |
+| 拼写与发音 | 单词 | 美式音标 |
 |---|---|---|
-| teach | teacher | 教师 |
-| work | worker | 工作者 |
-| paint | painter | 画家；油漆工 |
-| farm | farmer | 农民 |
-| sing | singer | 歌手 |
-| drive | driver | 司机 |
+| -tion /ʃən/ | action, station, nation | /ˈækʃən/, /ˈsteɪʃən/, /ˈneɪʃən/ |
+| -tion /ʃən/ | motion, invention, education | /ˈmoʊʃən/, /ɪnˈvɛnʃən/, /ˌɛdʒəˈkeɪʃən/ |
+| -sion /ʒən/ | vision, decision, explosion | /ˈvɪʒən/, /dɪˈsɪʒən/, /ɪkˈsploʊʒən/ |
+| -sion /ʃən/ | discussion, permission, tension | /dɪˈskʌʃən/, /pɚˈmɪʃən/, /ˈtɛnʃən/ |
 
-### 3. -or 示例
+**构词观察：** `act → action`、`invent → invention`、`decide → decision`、`discuss → discussion`。有些派生词不仅添加后缀，还改变基础词的拼写；例如 `decide → decision` 不能写成 *decidesion*。
 
-| 单词 | 中文 |
-|---|---|
-| actor | 演员 |
-| inventor | 发明家 |
-| director | 导演；主管 |
-| visitor | 访客 |
-| editor | 编辑 |
-| conductor | 指挥；售票员 |
+🌟 `-tion`、`-sion` 是需要整体识别的常见词尾模式，不应逐字母发音。不要认为 `-sion` 一定读 /ʒən/，也不要认为所有词都可以直接删掉词尾还原基础词。
 
-### 4. -ist 示例
+🎣 **分类朗读：** action, vision, station, decision, motion, discussion, permission。先按拼写分组，再按 /ʃən/ 与 /ʒən/ 分组。**听写：** action, station, vision, decision, invention。
 
-| 单词 | 中文 |
-|---|---|
-| artist | 艺术家 |
-| scientist | 科学家 |
-| pianist | 钢琴家 |
-| dentist | 牙医 |
-| cyclist | 骑自行车的人 |
-| violinist | 小提琴演奏者 |
+## 3.2 🚩Lesson 120 — -ture
 
-### 5. 与中文比较
+在 picture、nature、future 等常见单词中，词尾 `-ture` 通常读 **/tʃɚ/**（常见美音），其中 /tʃ/ 是一个辅音音素，/ɚ/ 是带 r 色彩的元音。
 
-中文常通过“者”“家”“员”“师”等表示职业或身份。
-
-例如：
-
-- 教 → 教师
-- 科学 → 科学家
-- 艺术 → 艺术家
-
-英语则可以通过 -er、-or、-ist 等构词。
-
-### 6. 家长需要注意
-
-不是所有 -er 都表示人物。
-
-例如：
-
-- taller：比较级。
-- teacher：教师。
-
-两者虽然都包含 -er，但功能不同。
-
-### 7. 家庭练习
-
-**分类**
-
-teacher, actor, artist, farmer, inventor, scientist
-
-按照 -er、-or、-ist 分类。
-
-**词义推测**
-
-- teach → teacher
-- invent → inventor
-- art → artist
-
-**听写**
-
-- teacher
-- farmer
-- actor
-- artist
-- scientist
-
-### 8. 家长常见错误
-
-- 认为 -er 永远表示人物。
-- 认为所有职业名称都可以直接通过添加 -er 构成。
-- 将 -or、-er、-ist 随意替换。
-
----
-
-## Lesson 122 — Suffix -ish
-
-### 1. 学习目标
-
-学习 -ish 的常见意义，包括“具有某种性质”“有点像”“大约”等。
-
-### 2. 示例单词
-
-| 基础词 | 新单词 | 中文 |
+| 单词 | 美式音标 | 中文 |
 |---|---|---|
-| child | childish | 孩子气的 |
-| fool | foolish | 愚蠢的 |
-| self | selfish | 自私的 |
-| green | greenish | 带点绿色的 |
+| picture | /ˈpɪktʃɚ/ | 图片 |
+| nature | /ˈneɪtʃɚ/ | 自然 |
+| future | /ˈfjutʃɚ/ | 未来 |
+| capture | /ˈkæptʃɚ/ | 捕获 |
+| mixture | /ˈmɪkstʃɚ/ | 混合物 |
+| adventure | /ədˈvɛntʃɚ/ | 冒险 |
+| creature | /ˈkritʃɚ/ | 生物 |
+| furniture | /ˈfɚnɪtʃɚ/ | 家具 |
+
+🌟 `-ture` **不是普通的 VCe（元音 + 辅音 + silent e）规则**，也不能一概视为可独立添加的派生后缀。单词的重音和前面元音仍需分别学习，例如 picture 的 i 读 /ɪ/，nature 的 a 读 /eɪ/。
+
+🎣 **找共同词尾：** picture, nature, future, capture, mixture。**分块朗读：** pic-ture, na-ture, fu-ture, cap-ture（分块用于帮助识别拼写，不代表每个字母单独发音）。**听写：** picture, nature, future, capture。
+
+## 3.3 🚩Lesson 121 — -er、-or、-ist
+
+三个后缀都可能表示“从事某事的人、职业或相关身份”，但**不能自由互换**。在常见美音中，非重读的 `-er`、`-or` 往往都读 /ɚ/；`-ist` 通常读 /ɪst/，有些单词中元音可能弱化。
+
+| 后缀 | 基础词 → 新词 | 中文 |
+|---|---|---|
+| -er | teach → teacher；work → worker | 教师；工作者 |
+| -er | paint → painter；farm → farmer | 画家/油漆工；农民 |
+| -er | sing → singer；drive → driver | 歌手；司机 |
+| -or | act → actor；invent → inventor | 演员；发明家 |
+| -or | direct → director；visit → visitor | 导演/主管；访客 |
+| -or | edit → editor；conduct → conductor | 编辑；指挥等 |
+| -ist | art → artist；science → scientist | 艺术家；科学家 |
+| -ist | piano → pianist；cycle → cyclist | 钢琴家；骑自行车的人 |
+| -ist | violin → violinist；dentist | 小提琴演奏者；牙医 |
+
+**拼写联系：** `drive + -er → driver`：添加元音开头的后缀时，去掉词尾 silent e；`teach + -er → teacher`：直接添加。`science → scientist` 有词形变化，不是简单把 -ist 接到完整单词后面。
+
+🌟 `teacher` 中的 -er 表示人物，而 `taller` 中的 -er 表示比较级；看到相同拼写，要结合基础词和上下文判断功能。
+
+🎣 **分类：** teacher, actor, artist, farmer, inventor, scientist。**词义推测：** teach → teacher, invent → inventor, art → artist。**听写：** teacher, farmer, actor, artist, scientist。
+
+## 3.4 🚩Lesson 122 — -ish
+
+`-ish` 通常读 **/ɪʃ/**，可以表示“有点……”“像……一样”“具有某种性质”，在口语中也可表达大约的时间或数量，如 `sixish`（六点左右，非正式用法）。
+
+| 基础词 | 添加 -ish | 常见意义 |
+|---|---|---|
+| green | greenish | 略带绿色的 |
 | red | reddish | 微红的 |
 | small | smallish | 有点小的 |
+| child | childish | 孩子气的（有时带贬义） |
+| fool | foolish | 愚蠢的 |
+| self | selfish | 自私的 |
 
-### 3. 意义解释
+**拼写：** `green + ish → greenish` 直接添加；`red + ish → reddish` 双写 d。后者符合单音节、短元音、末尾单辅音的常见双写模式，但并非所有加 -ish 的词都双写。
 
-**green → greenish**
+🌟 `childish` 不一定是中性的“像孩子一样”，常带有“不成熟”的含义；`greenish` 则通常只是表示颜色近似。
 
-绿色 → 带点绿色的。
+🎣 **比较：** green / greenish，red / reddish，childlike / childish。**听写：** greenish, reddish, childish, foolish, selfish。
 
-**child → childish**
+## 3.5 🚩Lesson 123 — -y
 
-孩子 → 孩子气的。
+后缀 `-y` 常读 **/i/**，可以把名词变成形容词，表示“有……的”“充满……的”或“具有某种性质”。
 
-但 childish 在某些语境中具有负面含义，不只是“像孩子一样”。
+| 基础词 | 新单词 | 中文 | 拼写观察 |
+|---|---|---|---|
+| rain | rainy | 下雨的 | 直接加 y |
+| cloud | cloudy | 多云的 | 直接加 y |
+| wind | windy | 有风的 | 直接加 y |
+| snow | snowy | 下雪的 | 直接加 y |
+| sun | sunny | 阳光充足的 | 双写 n |
+| mess | messy | 凌乱的 | 直接加 y |
+| dirt | dirty | 脏的 | 直接加 y |
+| luck | lucky | 幸运的 | 直接加 y |
 
-### 4. 与中文比较
+🌟 `sun → sunny` 双写 n，但 `rain → rainy` 不双写；判断时要观察基础词末尾的元音和辅音结构。并不是所有以 y 结尾的词都有这个派生后缀，也不是所有 y 结尾的词都是形容词。
 
-中文可以使用：
+🎣 **天气描述：** It is sunny today. / The sky is cloudy. / It is windy outside. 让孩子观察天气，选择合适的词，再听写 rainy, sunny, cloudy, windy, snowy。
 
-- 有点……
-- ……似的
-- 略带……
+## 3.6 🚩Lesson 124 — -ness
 
-例如：
-
-- greenish：有点绿的。
-- reddish：微红的。
-
-### 5. 拼写变化
-
-例如：
-
-`red + ish → reddish`
-
-这里双写 d。
-
-但：
-
-`green + ish → greenish`
-
-直接添加后缀。
-
-### 6. 家庭练习
-
-**词义配对**
-
-- greenish → a little green
-- reddish → a little red
-- childish → behaving like a child
-
-**听写**
-
-- childish
-- foolish
-- selfish
-- greenish
-- reddish
-
-### 7. 家长常见错误
-
-- 认为 -ish 永远表示“有点”。
-- 认为所有 -ish 单词都具有负面意义。
-- 忽略部分单词添加 -ish 时的拼写变化。
-
----
-
-## Lesson 123 — Suffix -y
-
-### 1. 学习目标
-
-学习 -y 表示“具有某种性质”“充满某种事物”等常见意义。
-
-### 2. 示例单词
-
-| 基础词 | 新单词 | 中文 |
-|---|---|---|
-| rain | rainy | 下雨的 |
-| sun | sunny | 阳光充足的 |
-| cloud | cloudy | 多云的 |
-| wind | windy | 有风的 |
-| snow | snowy | 下雪的 |
-| dirt | dirty | 脏的 |
-| luck | lucky | 幸运的 |
-| mess | messy | 凌乱的 |
-
-### 3. 意义解释
-
-例如：
-
-`rain → rainy`
-
-雨 → 下雨的。
-
-`cloud → cloudy`
-
-云 → 多云的。
-
-### 4. 与中文比较
-
-中文可以通过“有……的”“……的”表达类似意义。
-
-例如：
-
-- wind → windy：风 → 有风的。
-- cloud → cloudy：云 → 多云的。
-
-### 5. 拼写变化
-
-有些词直接加 -y：
-
-`rain + y → rainy`
-
-有些词需要双写末尾辅音：
-
-`sun + y → sunny`
-
-还有些词存在其他拼写变化。
-
-### 6. 家庭练习
-
-**天气词汇分类**
-
-rainy, sunny, cloudy, windy, snowy
-
-让孩子描述当天的天气。
-
-**句子**
-
-- It is sunny today.
-- It is windy outside.
-- The sky is cloudy.
-
-**听写**
-
-- rainy
-- sunny
-- cloudy
-- windy
-- snowy
-
-### 7. 家长常见错误
-
-- 认为所有 -y 单词都是形容词。
-- 认为所有基础词添加 -y 都不需要拼写变化。
-- 忽略 -y 在不同单词中的其他功能。
-
----
-
-## Lesson 124 — Suffix -ness
-
-### 1. 学习目标
-
-学习 -ness 将部分形容词转变为表示状态或性质的名词。
-
-### 2. 示例单词
+`-ness` 通常读 **/nəs/**，经常把形容词变为表示“性质、状态”的名词。
 
 | 形容词 | 名词 | 中文 |
 |---|---|---|
@@ -687,782 +180,164 @@ rainy, sunny, cloudy, windy, snowy
 | dark | darkness | 黑暗 |
 | weak | weakness | 虚弱 |
 | fair | fairness | 公平 |
-| sick | sickness | 疾病；生病状态 |
+| sick | sickness | 生病状态；疾病 |
 
-### 3. 词性变化
+**拼写联系：** `happy + ness → happiness`：辅音字母 + y 结尾，加 -ness 时把 y 改成 i；`kind + ness → kindness`：直接添加。注意这是拼写变化，分析词素时仍写作 `happy + -ness`。
 
-例如：
+**词性比较：** She is **happy**.（形容词）/ Her **happiness** is important.（名词）。英语常通过后缀明确词性，而中文的“快乐”在不同句子中不一定改变字形。
 
-**happy**
+🎣 **Word Work：** happy → happiness；sad → sadness；kind → kindness；dark → darkness。请孩子解释每组词的词性和意义。**听写：** happiness, sadness, kindness, darkness。
 
-形容词：快乐的。
+## 3.7 🚩Lesson 125 — -ment
 
-**happiness**
-
-名词：快乐。
-
-句子对比：
-
-- She is happy.
-- Her happiness is important.
-
-### 4. 与中文比较
-
-中文：
-
-- 快乐的
-- 快乐
-
-英语：
-
-- happy
-- happiness
-
-英语常通过后缀改变词性，而中文可能不需要改变词形。
-
-### 5. 拼写变化
-
-例如：
-
-`happy + ness → happiness`
-
-需要将 y 改为 i。
-
-但：
-
-`kind + ness → kindness`
-
-直接添加。
-
-### 6. 家庭练习
-
-**词形转换**
-
-- happy → happiness
-- sad → sadness
-- kind → kindness
-- dark → darkness
-
-**听写**
-
-- happiness
-- sadness
-- kindness
-- darkness
-
-### 7. 家长常见错误
-
-- 写成 happyness。
-- 认为所有形容词都可以直接加 -ness。
-- 忽略词性变化。
-
----
-
-## Lesson 125 — Suffix -ment
-
-### 1. 学习目标
-
-学习 -ment 的常见名词构词功能。
-
-### 2. 示例单词
+`-ment` 通常读 **/mənt/**，常将动词构成名词，表示某种行为、过程、结果或状态。
 
 | 基础词 | 新单词 | 中文 |
 |---|---|---|
 | enjoy | enjoyment | 享受；乐趣 |
-| agree | agreement | 协议；同意 |
-| move | movement | 运动 |
+| agree | agreement | 同意；协议 |
+| move | movement | 运动；移动 |
 | improve | improvement | 改进 |
 | develop | development | 发展 |
 | excite | excitement | 兴奋 |
 | pay | payment | 付款 |
 
-### 3. 意义解释
+🌟 **与 Unit 12 的 Drop-e Rule 联系：** `move + ment → movement`、`agree + ment → agreement`、`excite + ment → excitement` 都保留词尾 e。`-ment` 以辅音 m 开头，通常直接添加；不要把“加后缀就去 e”当作通用规则。`enjoy → enjoyment` 中 y 也保留。
 
-例如：
+🎣 **构词链：** agree → agreement → disagreement；move → movement；improve → improvement。请孩子解释 `dis-` 和 `-ment` 各自的作用。**听写：** enjoyment, agreement, movement, improvement。
 
-`improve → improvement`
+## 3.8 🚩Lesson 126 — -able、-ible
 
-改进（动词）→ 改进、改善（名词）。
+两个后缀都常构成形容词，表示“能够……的”“适合……的”或“具有某种性质”。在常见美音中，词尾通常读 **/əbəl/**，含弱读 /ə/；不能只靠发音决定拼写用 `-able` 还是 `-ible`。
 
-`agree → agreement`
+| -able 单词 | 中文 | -ible 单词 | 中文 |
+|---|---|---|---|
+| readable | 可读的 | possible | 可能的 |
+| washable | 可洗的 | visible | 可见的 |
+| enjoyable | 令人愉快的 | flexible | 灵活的 |
+| comfortable | 舒适的 | terrible | 糟糕的 |
+| predictable | 可预测的 | responsible | 负责任的 |
+| breakable | 易碎的 | sensible | 明智的 |
 
-同意（动词）→ 同意、协议（名词）。
+**常见倾向：** `-able` 经常可以添加到独立使用的基础词后，如 `read + able → readable`、`wash + able → washable`；`-ible` 经常出现在拉丁语来源的词中，未必能直接拆出一个现代英语独立词。这只是倾向，不能当作绝对规则。
 
-### 4. 与中文比较
+**拼写联系：** `enjoy + able → enjoyable` 保留 y；`predict + able → predictable` 直接添加；`move + able → movable` 通常去掉词尾 e。`comfortable` 的实际读音和音节弱化可能随语速、口音变化，不要机械地每个字母都读出来。
 
-中文可以通过“改进”“发展”等词在不同语境中承担不同语法功能。
+🎣 **分类：** readable, possible, washable, visible, enjoyable, flexible。**构词：** read + able, wash + able, predict + able。**听写：** readable, washable, possible, visible, comfortable。
 
-英语则经常通过 -ment 形成名词。
+## 3.9 🚩Lesson 127 — uni-、bi-、tri-
 
-### 5. 拼写变化
+这些前缀来自拉丁语，分别表示 **一、二、三**，在数学、科学、交通工具等词汇中很常见。
 
-注意：
+| 前缀 | 数量 | 示例 | 中文 |
+|---|---|---|---|
+| uni- | 一 | unicycle, unicorn | 独轮车；独角兽 |
+| uni- | 一 | uniform, unilateral | 制服；单方面的 |
+| bi- | 二 | bicycle, bilingual | 自行车；双语的 |
+| bi- | 二 | binoculars, bilateral | 双筒望远镜；双边的 |
+| tri- | 三 | tricycle, triangle | 三轮车；三角形 |
+| tri- | 三 | tripod, trilogy, trilingual | 三脚架；三部曲；三语的 |
 
-`move + ment → movement`
+**词义比较：** `unicycle`（一个轮子）→ `bicycle`（两个轮子）→ `tricycle`（三个轮子）。`cycle` 与轮子、循环有关。前缀可以帮助推测意义，但 `uniform` 等词的现代含义需要结合完整单词学习。
 
-保留 e。
+🌟 `bimonthly` 有时表示“每两个月一次”，有时表示“每月两次”，实际使用中存在歧义，最好用更明确的说法。`uni-` 不等于 Unit 12 的否定前缀 `un-`：`unhappy` 的 un- 表示“不”，而 `unicycle` 的 uni- 表示“一”。
 
-`agree + ment → agreement`
+🎣 **分类：** unicycle, bicycle, tricycle, bilingual, triangle, unicorn。**词义挑战：** 如果 bilingual 是“双语的”，trilingual 可能是什么意思？**听写：** unicycle, bicycle, tricycle, triangle, bilingual。
 
-也保留 e。
+## 3.10 🚩Lesson 128 — Affixes Review 2（综合复习）
 
-因此，不能把 Unit 12 的 Drop-e Rule 应用于所有后缀。
+| 类型 | 词缀 / 模式 | 常见作用 | 示例 |
+|---|---|---|---|
+| 常见词尾 | -tion, -sion | 常见名词词尾；注意 /ʃən/、/ʒən/ | action, decision |
+| 常见词尾 | -ture | 常见 /tʃɚ/ 拼写模式 | picture, nature |
+| 人物身份 | -er, -or, -ist | 职业、人物、身份 | teacher, actor, artist |
+| 性质形容词 | -ish, -y | 性质、近似、具有某种特征 | greenish, rainy |
+| 名词构词 | -ness, -ment | 状态、性质、过程、结果 | kindness, movement |
+| 形容词构词 | -able, -ible | 能够、适合、具有某种性质 | readable, visible |
+| 数量前缀 | uni-, bi-, tri- | 一、二、三 | unicycle, bicycle, tricycle |
 
-### 6. 家庭练习
+🎣 **综合 Word Work：** `un- + happy → unhappy`；`happy + -ness → happiness`；`teach + -er → teacher`；`enjoy + -ment → enjoyment`；`read + -able → readable`；`tri- + cycle → tricycle`；`dis- + agree + -ment → disagreement`。每次让孩子先找出有意义的部分，再读词、解释词义、观察拼写变化。
 
-**词形转换**
+**分层听写：**
 
-- enjoy → enjoyment
-- agree → agreement
-- move → movement
-- improve → improvement
-
-**听写**
-
-- enjoyment
-- agreement
-- movement
-- improvement
-
-### 7. 家长常见错误
-
-- 认为添加 -ment 必须删除词尾 e。
-- 认为所有动词都可以直接加 -ment。
-- 忽略派生词可能具有比基础词更具体的意义。
-
----
-
-## Lesson 126 — Suffixes -able、-ible
-
-### 1. 学习目标
-
-学习 -able、-ible 表示“能够……的”“适合……的”等常见意义。
-
-### 2. -able 示例
-
-| 基础词 | 新单词 | 中文 |
+| 基础 | 进阶 | 挑战 |
 |---|---|---|
-| read | readable | 可读的 |
-| wash | washable | 可洗的 |
-| enjoy | enjoyable | 令人愉快的 |
-| comfort | comfortable | 舒适的 |
-| predict | predictable | 可预测的 |
-| break | breakable | 易碎的 |
-
-### 3. -ible 示例
-
-| 单词 | 中文 |
-|---|---|
-| possible | 可能的 |
-| visible | 可见的 |
-| flexible | 灵活的 |
-| terrible | 糟糕的 |
-| responsible | 负责任的 |
-| sensible | 明智的 |
-
-### 4. -able 与 -ible 的区别
-
-两者都可以形成形容词，但拼写选择不能只根据发音确定。
-
-一般来说：
-
-- -able 常与可以独立使用的基础词结合。
-- -ible 常出现在某些拉丁语来源的词中。
-
-但这只是常见倾向，不是绝对规则。
-
-### 5. 与中文比较
-
-中文可以使用：
-
-- 可……
-- 能够……
-- 适合……
-
-例如：
-
-- readable：可读的。
-- washable：可洗的。
-- predictable：可预测的。
-
-### 6. 发音说明
-
--able 和 -ible 通常包含弱读元音。
-
-例如：
-
-- readable：/ˈridəbəl/
-- possible：/ˈpɑsəbəl/
-
-孩子需要注意非重读音节中的 /ə/。
-
-### 7. 家庭练习
-
-**分类**
-
-readable, possible, washable, visible, enjoyable, flexible
-
-按照 -able、-ible 分类。
-
-**词义推测**
-
-- read + able → readable
-- wash + able → washable
-- predict + able → predictable
-
-**听写**
-
-- readable
-- washable
-- possible
-- visible
-- comfortable
-
-### 8. 家长常见错误
-
-- 认为 -able 与 -ible 可以随意替换。
-- 认为所有 -able、-ible 单词都能通过简单拆分推测准确意义。
-- 忽略弱读元音。
+| teacher | action | decision |
+| artist | picture | scientist |
+| rainy | happiness | comfortable |
+| kindness | movement | disagreement |
+| triangle | readable | trilingual |
 
 ---
 
-## Lesson 127 — Prefixes uni-、bi-、tri-
+# Part 4. 🎣家庭练习与阅读应用
 
-### 1. 学习目标
+## 4.1 每天 10–15 分钟练习
 
-学习表示数量的常见前缀：
-
-- uni-：一。
-- bi-：二。
-- tri-：三。
-
-### 2. uni- 示例
-
-| 单词 | 中文 |
-|---|---|
-| unicycle | 独轮车 |
-| unicorn | 独角兽 |
-| uniform | 制服 |
-| unilateral | 单方面的 |
-| unison | 齐声；一致 |
-
-其中部分单词的现代意义不能仅通过 uni- 机械推断。
-
-### 3. bi- 示例
-
-| 单词 | 中文 |
-|---|---|
-| bicycle | 自行车 |
-| bilingual | 双语的 |
-| binoculars | 双筒望远镜 |
-| bimonthly | 每两个月一次或每月两次 |
-| bilateral | 双边的 |
-
-### 4. tri- 示例
-
-| 单词 | 中文 |
-|---|---|
-| tricycle | 三轮车 |
-| triangle | 三角形 |
-| tripod | 三脚架 |
-| trilogy | 三部曲 |
-| trilingual | 使用三种语言的 |
-
-### 5. 与中文比较
-
-中文可以使用“一、二、三”“单、双、三”等构词。
-
-例如：
-
-- 独轮车
-- 自行车
-- 三轮车
-
-英语：
-
-- unicycle
-- bicycle
-- tricycle
-
-其中 cycle 与轮子、循环等概念有关。
-
-### 6. 家庭练习
-
-**词义配对**
-
-- unicycle → one wheel
-- bicycle → two wheels
-- tricycle → three wheels
-
-**分类**
-
-unicycle, bicycle, tricycle, bilingual, triangle, unicorn
-
-按照 uni-、bi-、tri- 分类。
-
-**听写**
-
-- unicycle
-- bicycle
-- tricycle
-- triangle
-- bilingual
-
-### 7. 家长常见错误
-
-- 认为所有 uni、bi、tri 开头的单词都可以简单按数字前缀拆分。
-- 认为 bimonthly 只有一种明确含义。
-- 忽略词根与前缀结合后的实际词义。
-
----
-
-## Lesson 128 — Affixes Review 2
-
-### 1. 学习目标
-
-综合复习 Lessons 119–127 的词缀与拼写模式。
-
-### 2. 综合知识表
-
-| 词缀 | 常见作用 | 示例 |
+| 时间 | 环节 | 示例 |
 |---|---|---|
-| -tion | 名词构词 | action, station |
-| -sion | 名词构词 | vision, decision |
-| -ture | 常见词尾模式 | picture, nature |
-| -er | 人物或比较级 | teacher, taller |
-| -or | 人物、职业 | actor, inventor |
-| -ist | 人物、职业或相关身份 | artist, scientist |
-| -ish | 性质、近似 | childish, greenish |
-| -y | 具有某种性质 | rainy, sunny |
-| -ness | 状态、性质 | happiness, kindness |
-| -ment | 名词构词 | enjoyment, movement |
-| -able | 能够、适合 | readable, washable |
-| -ible | 能够、具有某种性质 | possible, visible |
-| uni- | 一 | unicycle |
-| bi- | 二 | bicycle |
-| tri- | 三 | tricycle |
+| 2 分钟 | 旧知识复习 | 快速读 -tion、-ness、-ment 等词尾 |
+| 3 分钟 | 读词与找词素 | teacher → teach + er；kindness → kind + ness |
+| 4 分钟 | Word Work | happy → happiness；move → movement |
+| 3 分钟 | 听写与检查 | 读词、写词、圈出词缀、检查变化 |
+| 3 分钟 | 句子阅读 | The artist made a picture. |
 
-### 3. 综合词素分割
+🌟 家庭练习可以借鉴 UFLI 的音素意识、字形辨认、听辨、拼读、拼写、特殊词和连贯文本阅读等环节，但这里加入的词义分析活动是**家庭辅助设计**，不应当作官方课堂流程的逐字复刻。
 
-- unhappy → un + happy
-- happiness → happy + ness（拼写发生变化）
-- teacher → teach + er
-- helpful → help + ful
-- enjoyment → enjoy + ment
-- readable → read + able
-- tricycle → tri + cycle
-- disagreement → dis + agree + ment
+## 4.2 阅读短文：The Young Inventor
 
-### 4. 综合词义推测
+Ben was a young inventor. He liked to build things. One day, he made a small tricycle. His sister wanted to try it, but the seat was uncomfortable. Ben made an improvement. He added a soft seat, and his sister smiled. Her happiness made Ben happy, too. He wanted to make more useful inventions.
 
-让孩子尝试解释：
+🎣 **阅读理解：** What did Ben make? Why did he change the seat? How did his sister feel? Find words with `-or`, `-ment`, `-ness`, and `un-` in the story. Can you retell the story in three sentences?
 
-1. What does *unhappy* mean?
-2. What does *readable* mean?
-3. What does *tricycle* mean?
-4. What does *kindness* mean?
-5. What does *disagreement* mean?
+> 本文是辅助阅读材料，并非严格控制全部拼读规则的官方 Decodable Text；部分词汇可能需要家长帮助。
 
-### 5. 综合听写
+## 4.3 从词到句子的写作
 
-**基础组**
+先完成句子，再尝试添加细节：
 
-- teacher
-- artist
-- rainy
-- kindness
-- triangle
+1. The ______ helps students learn.（teacher）
+2. The ______ painted a picture.（artist）
+3. It is a ______ day.（rainy）
+4. ______ means being kind.（kindness）
+5. The ______ made a new machine.（inventor）
 
-**进阶组**
-
-- action
-- picture
-- happiness
-- movement
-- readable
-
-**挑战组**
-
-- decision
-- scientist
-- comfortable
-- disagreement
-- trilingual
+**扩句示例：** `The inventor made a machine.` → `The young inventor made a small machine.` → `The young inventor made a small machine to help his family.`
 
 ---
 
-# Part 5. UFLI 教学方法与家庭练习
+# Part 5. 🌟家长常见问题
 
-## 5.1 八个教学环节
+**Q1：-tion 和 -sion 有什么区别？**  `-tion` 通常读 /ʃən/；`-sion` 常读 /ʃən/ 或 /ʒən/。拼写与发音都要结合具体单词记忆。
 
-| UFLI 环节 | 学习目标 | 家庭练习 |
-|---|---|---|
-| Phonemic Awareness | 听辨单词中的音素 | action、picture |
-| Visual Drill | 识别常见词缀 | -tion、-ness、-ment |
-| Auditory Drill | 听词并分析拼写 | happiness、teacher |
-| Blending Drill | 合成音节与声音 | ac-tion、pic-ture |
-| New Concept | 学习新的词缀 | 解释 -ness、-able |
-| Word Work | 构词与拼写变化 | happy → happiness |
-| Irregular Words | 复习特殊高频词 | 使用学校当周 Heart Words |
-| Connected Text | 阅读应用 | 阅读包含派生词的短文 |
+**Q2：为什么 picture 中的 -ture 不按 VCe 规则读？**  因为它属于另一种常见的词尾拼写模式，通常读 /tʃɚ/；不应机械地把所有词尾 e 都解释为让前面的元音读长音。
 
-**特别提醒：** UFLI 的八步教学流程以结构化读写教学为核心。家庭练习可以在其中增加词素分析和词义讨论，但不必将所有活动都当作官方课堂步骤的原样复制。
+**Q3：为什么 teacher 和 taller 都有 -er？**  前者的 -er 构成人物名词，后者的 -er 表示比较级。拼写相同，语法功能不同。
 
-## 5.2 每天15分钟家庭练习
+**Q4：为什么 happiness 写成 i 而不是 y？**  happy 以辅音字母 + y 结尾，添加 -ness 时通常将 y 改成 i：`happy → happiness`。
 
-### Step 1：词素识别（3分钟）
+**Q5：为什么 movement、agreement 保留 e？**  因为 `-ment` 以辅音开头，通常直接加到基础词后；Unit 12 的 Drop-e Rule 不能无条件应用。
 
-家长展示：
+**Q6：-able 和 -ible 可以互换吗？**  不可以。两者意义、发音接近，但具体拼写与词的历史来源有关，需要积累常见词。
 
-- teacher
-- happiness
-- readable
-
-孩子指出基础词与后缀。
-
-### Step 2：词义推测（3分钟）
-
-家长问：
-
-- What does teacher mean?
-- What does happiness mean?
-- What does readable mean?
-
-### Step 3：Word Work（5分钟）
-
-让孩子完成：
-
-- teach + er
-- happy + ness
-- read + able
-- enjoy + ment
-
-并观察是否需要拼写变化。
-
-### Step 4：句子阅读（4分钟）
-
-- The teacher is kind.
-- The artist made a picture.
-- Reading brings happiness.
-- The book is readable.
-- The child rides a tricycle.
+**Q7：学完全部 128 课就能独立读所有英文书吗？**  不一定。拼读和构词是阅读的重要基础，阅读流利度、词汇、语法、理解能力与背景知识还需要持续发展。
 
 ---
 
-# Part 6. 阅读与写作练习
-
-## 6.1 阅读短文：The Young Inventor
-
-**The Young Inventor**
-
-Ben was a young inventor.
-
-He liked to build things.
-
-One day, he made a small tricycle.
-
-His sister wanted to try it.
-
-Ben made the seat more comfortable.
-
-His sister rode the tricycle and smiled.
-
-Ben felt happiness when he saw her smile.
-
-He wanted to make more useful inventions.
-
-> 本文用于家庭阅读理解练习，并非严格限定 Lessons 1–128 已学规则的官方 Decodable Text。部分单词和句子结构需要家长辅助。
-
-### 阅读理解问题
-
-1. What did Ben like to do?
-2. What did Ben make?
-3. Who wanted to try the tricycle?
-4. What did Ben change to make it more comfortable?
-5. Why do you think Ben felt happy?
-6. What does this story tell us about Ben's character?
-7. Can you retell the story in your own words?
-
-这些问题分别练习事实理解、因果关系、人物性格分析和故事复述。
-
----
-
-## 6.2 写作练习
-
-### Level 1：听写单词
-
-- teacher
-- artist
-- rainy
-- kindness
-- movement
-
-### Level 2：完成句子
-
-1. The ______ helps students learn.
-2. The ______ painted a picture.
-3. Today is a ______ day.
-4. ______ means being kind.
-5. The ______ made a new machine.
-
-### Level 3：自主造句
-
-从简单句开始：
-
-`The inventor made a machine.`
-
-增加细节：
-
-`The young inventor made a small machine.`
-
-增加用途：
-
-`The young inventor made a small machine to help his family.`
-
-进一步增加原因：
-
-`The young inventor made a small machine to help his family because he wanted to make their work easier.`
-
-### 与中文写作比较
-
-中国小学写话训练会鼓励孩子写清楚：
-
-- 谁？
-- 做了什么？
-- 为什么？
-- 结果如何？
-
-英语写作也可以使用相同的思路。
-
-本单元可以进一步鼓励孩子使用新学词汇，例如：
-
-- inventor
-- helpful
-- kindness
-- comfortable
-- improvement
-
-**建议：优先鼓励孩子表达完整的意思，再逐步纠正拼写、词性和语法问题。**
-
----
-
-# Part 7. 中国家长常见问题
-
-### Q1：为什么 action 中的 -tion 不逐字母发音？
-
-因为 -tion 是英语中的常见词尾拼写模式，通常发 /ʃən/。
-
-### Q2：为什么 vision 和 discussion 中的 -sion 发音不同？
-
-因为 -sion 可以表示 /ʒən/ 或 /ʃən/，需要结合具体单词学习。
-
-### Q3：为什么 teacher 和 taller 都有 -er，但意思不同？
-
-因为 -er 可以具有不同功能。
-
-- teacher：表示从事教学的人。
-- taller：表示比较级。
-
-### Q4：为什么 happiness 要把 y 改成 i？
-
-因为 happy 以辅音字母加 y 结尾，添加 -ness 时通常将 y 改为 i。
-
-### Q5：为什么 movement 不删除 e？
-
-因为添加 -ment 时通常保留基础词末尾的 e。
-
-Drop-e Rule 主要适用于特定后缀，不能机械应用到所有后缀。
-
-### Q6：为什么 readable 和 possible 的结尾不同？
-
-因为 -able 和 -ible 是两种相关但不同的拼写形式。
-
-准确选择需要结合词汇、词源和常见构词规律。
-
-### Q7：孩子需要学习拉丁语和希腊语吗？
-
-不需要先系统学习古典语言。
-
-小学阶段可以先理解常见词根和词缀的意义，例如：
-
-- uni-：一
-- bi-：二
-- tri-：三
-
-以后阅读学术词汇时，再逐步扩展词源知识。
-
-### Q8：学完 UFLI 128个 Lesson，是否就掌握英语阅读了？
-
-不是。
-
-完成 UFLI Foundations 的全部课程，意味着孩子已经系统接触了大量基础英语拼读和构词规律。
-
-但成熟的阅读能力还包括：
-
-- 阅读流利度（Reading Fluency）。
-- 词汇理解（Vocabulary）。
-- 语法与句法理解（Syntax）。
-- 文章理解（Reading Comprehension）。
-- 背景知识（Background Knowledge）。
-- 推理与批判性思考（Inference and Critical Thinking）。
-- 写作表达（Writing）。
-
-因此，Phonics 是阅读能力的重要基础，但不是阅读学习的终点。
-
----
-
-# Part 8. 学习进度跟踪
-
-## 8.1 Lesson 进度表
-
-| Lesson | 知识点 | 学习日期 | 掌握情况 | 需要复习 |
-|---|---|---|---|---|
-| 119 | -sion、-tion | | ☐ 熟练 ☐ 练习中 | |
-| 120 | -ture | | ☐ 熟练 ☐ 练习中 | |
-| 121 | -er、-or、-ist | | ☐ 熟练 ☐ 练习中 | |
-| 122 | -ish | | ☐ 熟练 ☐ 练习中 | |
-| 123 | -y | | ☐ 熟练 ☐ 练习中 | |
-| 124 | -ness | | ☐ 熟练 ☐ 练习中 | |
-| 125 | -ment | | ☐ 熟练 ☐ 练习中 | |
-| 126 | -able、-ible | | ☐ 熟练 ☐ 练习中 | |
-| 127 | uni-、bi-、tri- | | ☐ 熟练 ☐ 练习中 | |
-| 128 | Affixes Review 2 | | ☐ 熟练 ☐ 练习中 | |
-
-## 8.2 单元结束自查
-
-### 词缀与词义
-
-- [ ] 能识别 -tion、-sion。
-- [ ] 能识别 -ture。
-- [ ] 能区分 -er、-or、-ist 的常见功能。
-- [ ] 能理解 -ish、-y 的常见意义。
-- [ ] 能理解 -ness、-ment 的名词构词作用。
-- [ ] 能识别 -able、-ible。
-- [ ] 能理解 uni-、bi-、tri- 的数量意义。
-- [ ] 能找到部分复杂单词中的基础词或词根。
-
-### 拼读与拼写
-
-- [ ] 能拼读包含本单元词缀的常见单词。
-- [ ] 能尝试划分较长单词的音节。
-- [ ] 能识别词缀引起的拼写变化。
-- [ ] 能听写常见目标词。
-- [ ] 能利用词素结构辅助理解陌生词。
-
-### 阅读与表达
-
-- [ ] 能阅读包含派生词的句子和短文。
-- [ ] 能通过词缀推测部分词义。
-- [ ] 能回答事实与推理类阅读问题。
-- [ ] 能复述简单故事。
-- [ ] 能在写作中尝试使用新学词汇。
-
----
-
-# Part 9. 家庭练习记录模板
-
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
-
-### 今日复习
-
-- [ ] -tion / -sion
-- [ ] -ture
-- [ ] -er / -or / -ist
-- [ ] -ish
-- [ ] -y
-- [ ] -ness
-- [ ] -ment
-- [ ] -able / -ible
-- [ ] uni- / bi- / tri-
-- [ ] Morphological Analysis
-- [ ] Syllable Division
-- [ ] Decoding
-- [ ] Encoding
-- [ ] Reading
-- [ ] Story Retelling
-
-**今天练习的词缀：**
-
-**今天练习的单词：**
-
-**孩子掌握较好的内容：**
-
-**容易混淆的拼写或意义：**
-
-**下次需要复习：**
-
----
-
-# Part 10. 本单元总结
-
-## 三个最重要的学习成果
-
-**1. 能够通过词缀理解复杂单词的意义。**
-
-例如：
-
-- teach → teacher
-- happy → happiness
-- enjoy → enjoyment
-
-**2. 理解词缀可能改变词性、意义或拼写。**
-
-例如：
-
-- act → action
-- rain → rainy
-- read → readable
-
-**3. 能将 Phonics 与 Morphology 结合起来阅读。**
-
-例如：
-
-`disagreement`
-
-可以通过：
-
-- 拼读字母组合。
-- 划分音节。
-- 识别 dis-、agree、-ment。
-- 结合上下文理解意义。
-
----
-
-# Part 11. UFLI Foundations 全部课程完成后的学习方向
-
-**Lessons 1–128 已全部覆盖。**
-
-孩子已经接触：
-
-1. Alphabet：字母与基础发音。
-2. Alphabet Review & Longer Words：短元音与复杂单音节词。
-3. Digraphs：辅音字母组合。
-4. VCe：Silent e 与长元音。
-5. Reading Longer Words：词尾和音节划分。
-6. Ending Spelling Patterns：词尾拼写模式。
-7. R-Controlled Vowels：R 控制元音。
-8. Long Vowel Teams：长元音字母组合。
-9. Other Vowel Teams：其他元音组合。
-10. Diphthongs：双元音。
-11. Silent Letters：不发音字母。
-12. Suffixes, Prefixes & Spelling Changes：词缀与拼写变化。
-13. Low Frequency Spellings：低频拼写模式。
-14. Additional Affixes：更多构词法。
-
-## 下一阶段：从 Learning to Read 走向 Reading to Learn
-
-后续家庭阅读可以重点关注：
-
-| 能力 | 英文 | 家庭练习 |
-|---|---|---|
-| 阅读准确性 | Reading Accuracy | 独立阅读适合水平的书 |
-| 阅读流利度 | Reading Fluency | 重复朗读、注意停顿和语调 |
-| 词汇 | Vocabulary | 讨论陌生词和词义 |
-| 阅读理解 | Comprehension | 回答 Who、What、Where、Why、How |
-| 推理 | Inference | 解释人物动机和故事原因 |
-| 写作 | Writing | 从句子扩展到段落 |
-| 背景知识 | Background Knowledge | 阅读科学、历史、自然等主题 |
-
-**对家长来说，最重要的变化是：不再只是检查孩子能否读出单词，而是逐步关注孩子是否真正理解、能够解释，并能运用阅读中获得的知识。**
+# Part 6. 🚩单元自查与下一阶段
+
+| 自查项目 | 完成 |
+|---|---|
+| 能辨认 -tion、-sion、-ture 的常见发音 | ☐ |
+| 能区分 -er、-or、-ist 的常见构词功能 | ☐ |
+| 能解释 -ish、-y、-ness、-ment 的基本意义 | ☐ |
+| 能识别 -able、-ible 的常见拼写 | ☐ |
+| 能解释 uni-、bi-、tri- 的数量意义 | ☐ |
+| 能运用 y→i、双写辅音、保留/去掉 e 等拼写规则 | ☐ |
+| 能在多音节词中注意重音与 Schwa 弱读 | ☐ |
+| 能找出基础词、前后缀，并结合上下文推测词义 | ☐ |
+| 能读、写包含本单元词缀的句子与短文 | ☐ |
+
+**完成 Lessons 1–128 之后：** 孩子已经系统接触了基础字母音、辅音组合、VCe、音节划分、r 控制元音、元音组合、双元音、不发音字母、低频拼写及构词法。下一阶段要从 **Learning to Read（学习如何阅读）** 逐渐走向 **Reading to Learn（通过阅读学习）**：继续练习流利朗读、词汇、阅读理解、知识积累和写作表达。
+
+🌟 对家长而言，重点不再只是“孩子能不能读出这个词”，还包括“能否解释词义、理解句子，并把学到的词用于表达”。

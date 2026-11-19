@@ -1,1026 +1,449 @@
+---
+layout: default
+title: UFLI｜006
+parent: 家庭教育
+nav_order: 0
+has_children: true
+---
+
+<div style="font-size: 11px; color: #999; text-align: right; margin: 8px 0 16px 0;">
+  2026/11/18 · 海泩整理 · 抖音同名 · 欢迎交流、指正与反馈
+👉 <a href="assert/UFLI/UFLI006.pdf" target="_blank" rel="noopener noreferrer">PDF下载</a>
+</div>
 
 # UFLI Foundations 家长辅助学习手册
 
 ## Unit 6 — Ending Spelling Patterns（单词结尾拼写规律）
 
 **课程范围：** Lessons 69–76  
-**适用阶段：** 一年级后期至二年级，或需要巩固自然拼读的学生  
-**前置知识：** Units 1–5，包括短元音、长元音、Digraphs、VCe、辅音连缀及音节划分。
+**适用阶段：** 一年级后期至二年级，以及需要巩固拼读的孩子  
+**前置知识：** Units 1–5：短元音、Digraphs、VCe、辅音连缀、基本音节类型
 
-**官方资料：**
+**官方资料：** [UFLI Scope & Sequence](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf) · [Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) · [可打印练习](https://ufli.education.ufl.edu/foundations/printable-resources/)
 
-- [UFLI Scope & Sequence PDF](https://ufli.education.ufl.edu/wp-content/uploads/2022/06/UFLI-Scope2.pdf)
-- [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/)
-- [UFLI Printable Resources](https://ufli.education.ufl.edu/foundations/printable-resources/)
-
-> **本单元核心目标**
->
-> 学习英语单词结尾的常见拼写模式，掌握 `tch`、`dge`、Long VCC、词尾 `y` 和 Consonant-le 的发音与拼写规律。
->
-> 本单元尤其强调：**一个音素可以有不同拼写；一个字母在不同位置也可能有不同发音。**
-
-本手册中的示例词和家庭练习为辅助教学而设计，并非 UFLI 官方教师手册的逐字内容。
+> **使用说明：** 本手册面向中国家长，采用常见美式英语发音。例词、Word Chains、短文和家庭练习为自行设计的辅助材料，并非 UFLI 官方逐课原文。部分拓展词涉及未学拼写模式、弱读或口音差异，已尽量标明；遇到时由家长示范，不作为严格的独立解码测试。
 
 ---
 
-# Part 1. 学习目标
+# Part 1. 本单元学什么？
 
-完成本单元后，孩子应逐步能够：
+Unit 5 让孩子学会观察词尾后缀，并把长词拆成音节。Unit 6 进一步学习**单词结尾的常见拼写模式**：同一个音素可以有不同写法，同一个字母在不同位置也可能有不同读音。例如 `rich/catch` 都以 /tʃ/ 结尾，`cage/badge` 都以 /dʒ/ 结尾；`my` 和 `happy` 末尾的 y 却发不同的音。
 
-- [ ] 掌握 `tch` 通常表示 /tʃ/ 的规律。
-- [ ] 掌握 `dge` 通常表示 /dʒ/ 的规律。
-- [ ] 区分 `ch/tch` 和 `ge/dge` 的常见拼写情况。
-- [ ] 认识 `-ild`、`-old`、`-ind`、`-olt`、`-ost` 等特殊长元音模式。
-- [ ] 理解词尾 `y` 可以表示 /aɪ/ 或 /i/。
-- [ ] 掌握 Consonant-le（辅音加 le）音节。
-- [ ] 能拼读包含这些模式的陌生单词。
-- [ ] 能根据听到的声音选择合适的拼写模式。
-- [ ] 能够在句子、短文和简单写作中应用所学规则。
+| 核心能力 | 单元结束时的表现 |
+|---|---|
+| 词尾辅音组合 | 读写 `tch /tʃ/`、`dge /dʒ/`，与 `ch`、`ge` 比较 |
+| Long VCC | 识别 `-ild, -old, -ind, -olt, -ost` 中常见长元音 |
+| 词尾 y | 区分 `my /aɪ/` 与 `happy /i/` |
+| Consonant-le | 把 `table, little, candle` 分块拼读 |
+| 迁移练习 | 能完成辨音、Word Chains、分类、听写、句子和短文阅读 |
+
+🌟 **家长重点：** 拼读是从字母推测声音（decoding），拼写是从声音选择字母（encoding）。后者通常更难，因为同一个音素可能有多种拼写。
 
 ---
 
 # Part 2. 中国家长需要理解的基础概念
 
-## 2.1 一个声音为什么可以有多种拼写？
+## 2.1 一个音素为什么有多种拼写？
 
-在汉语拼音中，一个音节的标准拼写通常比较稳定。
+英语拼写受到**历史变化和词源**的影响，声音与字母并非一一对应。孩子先学过 `ch /tʃ/`、`j /dʒ/`，现在再认识 `tch`、`dge`，不是推翻旧规则，而是增加常见拼写选择。
 
-英语则不同。同一个音素可能由不同字母或字母组合表示。
-
-例如：
-
-| 音素 | 拼写 | 示例 |
+| 音素 | 常见拼写 | 例词 |
 |---|---|---|
-| /tʃ/ | ch | chin, rich |
-| /tʃ/ | tch | catch, match |
-| /dʒ/ | j | jam, jet |
-| /dʒ/ | ge | cage, huge |
-| /dʒ/ | dge | badge, bridge |
-| /aɪ/ | i_e | kite, ride |
-| /aɪ/ | y | my, cry |
-| /i/ | ee | see, tree |
-| /i/ | y | happy, baby |
+| /tʃ/ | ch、tch | chin, rich；catch, pitch |
+| /dʒ/ | j、ge、dge | jam；cage；badge |
+| /aɪ/ | i_e、词尾 y | kite；my, fly |
+| /i/ | e_e、词尾 y | these；happy, baby |
 
-因此，自然拼读不仅包括：
+**字母数 ≠ 音素数：** `catch`（5字母）→ /k/ /æ/ /tʃ/（3音素）；`badge`（5字母）→ /b/ /æ/ /dʒ/（3音素）；`bridge`（6字母）→ /b/ /r/ /ɪ/ /dʒ/（4音素）。
 
-**Decoding（解码）：看到字母，读出声音。**
+🌟 英语 /tʃ/、/dʒ/ 与汉语拼音 ch、j 不能直接画等号；家长应尽量用英语音频示范，避免用拼音代读。
 
-还包括：
+## 2.2 词尾拼写要看前面的元音
 
-**Encoding（编码）：听到声音，选择合适的拼写。**
+在**许多单音节词**中，短元音后面紧跟 /tʃ/，常写作 `tch`（`catch, pitch`）；短元音后面紧跟 /dʒ/，常写作 `dge`（`badge, edge`）。但 `rich, much, such, which` 仍写 `ch`；`large` 等词也不能机械套用规则。
 
-例如，孩子看到 catch，能够读出 /kætʃ/；听到 /kætʃ/ 时，还需要知道词尾通常写作 `tch`。
+| 观察点 | 例词 | 教学提示 |
+|---|---|---|
+| 短元音 + /tʃ/ | catch, fetch, pitch | 优先尝试 tch |
+| 其他常见 /tʃ/ 词尾 | rich, lunch, bench | 常见 ch，另记例外 |
+| 短元音 + /dʒ/ | badge, edge, ridge | 优先尝试 dge |
+| 长元音 + /dʒ/ | cage, page, huge | 常见 ge |
 
-## 2.2 什么是 Spelling Pattern（拼写模式）？
+🎣 **快速听辨：** 家长读 `rich/catch`、`cage/badge`，孩子先说末音是否相同，再看字母卡圈出不同拼写。
 
-Spelling Pattern 指英语单词中反复出现、具有一定发音或拼写规律的字母排列方式。
+## 2.3 长元音不只出现在 VCe 和开放音节
 
-例如：
+Unit 4 学过 `hope` 的 `o_e /oʊ/`，Unit 5 学过开放音节 `go /goʊ/`。现在还要认识 `cold` 中的 `-old /oʊld/`：虽然元音后有辅音，o 仍读长元音。**Long VCC 是需要专门认识的一组高频模式，并不表示所有 VCC 都读长元音。**
 
-- catch、match、patch 都包含 `-atch`。
-- badge、edge、bridge 都包含 `-dge`。
-- cold、gold、hold 都包含 `-old`。
-- table、little、candle 都包含 Consonant-le 音节。
+| 模式 | 元音 | 例词 |
+|---|---|---|
+| -ild | /aɪ/ | child, wild, mild |
+| -old | /oʊ/ | cold, gold, hold |
+| -ind | /aɪ/ | find, kind, mind |
+| -olt | /oʊ/ | bolt, colt, jolt |
+| -ost | /oʊ/ | most, post, host |
 
-### 与中文识字比较
+🌟 `wind`（风，/wɪnd/）与 `wind`（缠绕，/waɪnd/）同形异音；`lost, cost` 中的 o 通常不是 /oʊ/。不要将这组模式泛化为绝对规则。
 
-中国孩子学习汉字时，会利用偏旁、部首和形声字的规律帮助识字。
+## 2.4 词尾 y 与 Consonant-le
 
-例如：
+字母 y 在 `yes` 中是辅音 /j/，在 `my` 中是元音 /aɪ/，在 `happy` 中通常是 /i/。一个实用的初步观察是：**单音节词末尾 y 常读 /aɪ/，多音节词末尾 y 常读 /i/**，但并非无例外。
 
-- 清、情、晴、请
-
-这些字共享相似的声旁，但读音和声调可能不同。
-
-英语拼写模式也有类似的教学价值：通过观察共同结构，帮助孩子识别和拼写更多单词。
-
-不过，汉字声旁与英语字母组合的语言机制不同，不能完全等同。
-
-## 2.3 字母数量不等于音素数量
-
-例如：
-
-**catch**
-
-- 字母：5个
-- 音素：3个
-- 发音：/k/ /æ/ /tʃ/
-
-**badge**
-
-- 字母：5个
-- 音素：3个
-- 发音：/b/ /æ/ /dʒ/
-
-**bridge**
-
-- 字母：6个
-- 音素：4个
-- 发音：/b/ /r/ /ɪ/ /dʒ/
-
-因此，家长帮助孩子练习 Phoneme Segmenting（音素分割）时，应该按声音计数，而不是按字母计数。
+Consonant-le 是一种常见的**词尾音节**：`table → ta-ble`，`apple → ap-ple`，`little → lit-tle`。其中 `-ble/-ple/-tle` 常发类似 /bəl/、/pəl/、/təl/ 的声音（某些口音中可出现成音节的 /l/），不是把 l 和 e 分别读出来。`smile` 则是 VCe 单音节词，不属于这一类。
 
 ---
 
-# Part 3. 官方课程进度（Lessons 69–76）
+# Part 3. UFLI Lessons 69–76 课程进度与练习
 
-| Lesson | 知识点 | 中文解释 | 完成 |
+## 3.1 课程目录
+
+| Lesson | 课程内容 | 核心例词 | 完成 |
 |---|---|---|---|
-| 69 | tch /tʃ/ | 词尾 tch | ☐ |
-| 70 | dge /dʒ/ | 词尾 dge | ☐ |
-| 71 | tch, ch, dge Review | 相关拼写模式复习 | ☐ |
-| 72 | Long VCC | 特殊长元音＋双辅音模式 | ☐ |
-| 73 | y /aɪ/ | 词尾 y 发长 i | ☐ |
-| 74 | y /i/ | 词尾 y 发长 e | ☐ |
-| 75 | Consonant-le | 辅音加 le 的音节 | ☐ |
-| 76 | Ending Patterns Review | 词尾模式综合复习 | ☐ |
+| 69 | tch /tʃ/ | catch, match, pitch | ☐ |
+| 70 | dge /dʒ/ | badge, edge, bridge | ☐ |
+| 71 | tch / ch / dge Review | rich/catch；cage/badge | ☐ |
+| 72 | Long VCC | child, cold, find, bolt, most | ☐ |
+| 73 | y /aɪ/ | my, cry, fly | ☐ |
+| 74 | y /i/ | happy, baby, puppy | ☐ |
+| 75 | Consonant-le | table, apple, little | ☐ |
+| 76 | Ending Patterns Review | 全部模式综合应用 | ☐ |
 
----
+## 3.2 Lessons 69–71：/tʃ/、/dʒ/ 的词尾拼写
 
-# Part 4. 逐课知识点与家庭练习
+### 🚩Lesson 69 — tch /tʃ/
 
-## Lesson 69 — tch /tʃ/
+**核心规律：** 单音节词中，短元音后直接接 /tʃ/，通常拼作 `tch`。把 `tch` 作为一个字素读 /tʃ/，不把 t 额外读出来。
 
-### 1. 学习目标
+| 模式 | 基础词 | 进阶词 |
+|---|---|---|
+| -atch | catch, match, patch, batch | scratch（复习辅音连缀） |
+| -etch | fetch | sketch, stretch |
+| -itch | pitch, ditch, hitch | stitch, switch |
+| -otch | notch | scotch |
+| -utch | hutch | clutch |
 
-学习词尾 `tch` 通常表示 /tʃ/。
+**🎣 音素分割：** `catch → /k/ /æ/ /tʃ/`（3）；`pitch → /p/ /ɪ/ /tʃ/`（3）；`stitch → /s/ /t/ /ɪ/ /tʃ/`（4）。孩子用手指或小方块表示每个音素。
 
-**核心规律：在许多单音节词中，如果短元音后面紧接词尾 /tʃ/，通常使用 `tch`。**
+**🎣 Word Chains：** `catch → match → patch → batch`（每次只换首音）；`pitch → ditch → hitch`（换首音）；`match → catch → patch`。家长说 “Read match. Change /m/ to /k/. What is the new word?”（match → catch）。
 
-### 2. 示例单词
+**🎣 拼写选择：** 听到 `catch, pitch, fetch, match`，让孩子先说最后的 /tʃ/，再选择 `ch` 或 `tch`；对比 `rich, much, such, which`，这些是常见 `ch` 例外。听写 `catch, match, fetch, pitch, stitch`。
 
-| 拼写模式 | 示例 |
+**🎣 读句：** `I can catch it.` `The cat can fetch.` `The patch is red.`（部分高频词由家长辅助。）
+
+🌟 不要教成“所有短元音后都必须写 tch”。例如 `rich` 的 i 是短元音，却以 ch 结尾。
+
+### 🚩Lesson 70 — dge /dʒ/
+
+**核心规律：** 单音节词中，短元音后接 /dʒ/，通常写 `dge`；整个 `dge` 表示一个音素。对比 Unit 4 的 `cage`（`ge`）。
+
+| 模式 | 例词 | 说明 |
+|---|---|---|
+| -adge | badge | a /æ/ |
+| -edge | edge, ledge, hedge, wedge | e /ɛ/ |
+| -idge | ridge, bridge, fridge | i /ɪ/ |
+| -odge | dodge, lodge | o /ɑ/（常见美音） |
+| -udge | judge, fudge, budge, nudge | u /ʌ/ |
+
+**🎣 音素分割：** `badge → /b/ /æ/ /dʒ/`（3）；`edge → /ɛ/ /dʒ/`（2）；`bridge → /b/ /r/ /ɪ/ /dʒ/`（4）；`judge → /dʒ/ /ʌ/ /dʒ/`（3）。
+
+**🎣 Word Chains：** `budge → fudge → judge → nudge`（每步换首音）；`ledge → hedge → wedge`（每步换首音）；`ridge → bridge`（增加 /b/）。注意 `badge → budge` 是元音变化，不是首音变化。
+
+**🎣 拼写对比：** `cage/badge`、`page/edge`、`huge/judge`。先读，再圈出 `ge` 或 `dge`，说说前面是长元音还是短元音。听写 `badge, edge, ridge, bridge, fudge, judge`。
+
+**🎣 读句：** `The badge is red.` `The judge has a badge.` `The bridge is big.`（the、has 等由家长视情况辅助。）
+
+🌟 `dge` 不读 /d/ + /dʒ/；词尾 e 不另成一个音节。`bridge` 有4个音素，不是6个。
+
+### 🚩Lesson 71 — tch、ch、dge 综合复习
+
+| 音素 | 拼写 | 例词 |
+|---|---|---|
+| /tʃ/ | ch | chin, rich, much, bench |
+| /tʃ/ | tch | catch, fetch, pitch, match |
+| /dʒ/ | j | jam, jet, jump |
+| /dʒ/ | ge | cage, page, huge |
+| /dʒ/ | dge | badge, edge, bridge, judge |
+
+**🎣 分类卡：** 将 `catch, rich, badge, match, cage, pitch, bridge, much, judge, page, bench, fetch` 分成 `ch / tch / ge / dge` 四组（j 另列作复习）。
+
+**🎣 听写与纠错：** 家长读 `catch, rich, badge, cage, pitch, bridge`，孩子写后解释为何选用 ch/tch 或 ge/dge。可出示错误拼写 `*cach, *baj, *pich`，请孩子根据已学常见模式修正为 `catch, badge, pitch`；说明仅凭发音不能保证所有词拼写唯一。
+
+**🎣 读句：** `The cat can catch a bug.` `A fish is in the ditch.` `The judge can see the badge.`（`see` 等拓展词由家长辅助。）
+
+🌟 `catch → match → patch` 每一步只替换一个首音；`catch → pitch` 同时改变首音和元音，**不能**说成单音素变化链。
+
+## 3.3 Lesson 72：Long VCC
+
+### 🚩Lesson 72 — -ild、-old、-ind、-olt、-ost
+
+这些是常见的**长元音 + 两个辅音字母**模式。重点是识别整组字母，并与 Unit 5 的普通闭合音节作对比。
+
+| 模式 | 元音 | 例词（从易到难） |
+|---|---|---|
+| -ild | /aɪ/ | mild, wild, child |
+| -old | /oʊ/ | cold, gold, hold, told, bold, fold |
+| -ind | /aɪ/ | find, kind, mind, bind, blind |
+| -olt | /oʊ/ | bolt, colt, jolt |
+| -ost | /oʊ/ | most, post, host |
+
+**🎣 对比读词：** `hand /hænd/` vs. `find /faɪnd/`；`milk /mɪlk/` vs. `mild /maɪld/`；`cost /kɔst/ 或 /kɑst/` vs. `most /moʊst/`（随口音而异）。
+
+**🎣 Word Chains：** `cold → gold → hold → told → bold → fold`（每步换首音）；`find → kind → mind → bind`；`bolt → colt → jolt`；`most → post → host`。让孩子圈出不变的词尾部分。
+
+**🎣 分类：** `child, cold, find, bolt, most, wild, gold, mind, colt, post, blind, host, mild, told, jolt` 分成五组，每组读三遍。听写 `child, wild, cold, gold, find, mind, bolt, most`。
+
+**🎣 读句：** `The child is kind.` `I can find the gold.` `The wind is cold.`（wind 此处是“风”，读 /wɪnd/，作为例外示范。）
+
+🌟 Long VCC 不是“两个辅音前一律长元音”。`lost, cost` 不是 /oʊ/；`wind` 需结合词义判断发音。
+
+## 3.4 Lessons 73–74：词尾 y 的两种元音读音
+
+### 🚩Lesson 73 — y /aɪ/
+
+**核心规律：** 在许多单音节词末尾，y 充当元音字母，发 /aɪ/，与 `kite` 的长 i 相同。`my` 有2个音素 /m/ /aɪ/；`fly` 有3个 /f/ /l/ /aɪ/。
+
+| 类型 | 例词 |
 |---|---|
-| -atch | catch, match, patch, batch |
-| -etch | fetch, sketch, stretch |
-| -itch | pitch, ditch, stitch, switch |
-| -otch | notch, scotch |
-| -utch | hutch, clutch |
+| 简单单音节 | my, by, why |
+| 辅音连缀 + y | cry, dry, fry, fly, shy, sky, sly, try, pry |
 
-### 3. tch 与 ch 有什么区别？
+**🎣 听音与分音：** `my → /m/ /aɪ/`；`cry → /k/ /r/ /aɪ/`；`sky → /s/ /k/ /aɪ/`；`fly → /f/ /l/ /aɪ/`。
 
-两者通常都表示 /tʃ/。
+**🎣 Word Chains：** `my → by`；`cry → dry → fry → fly`；`sky → shy → sly`（后一链注意从 sky 到 shy 改变 /k/ 为 /h/，从 shy 到 sly 改变 /h/ 为 /l/）。
 
-例如：
+**🎣 分类：** 把 `yes, yellow, my, cry, sky, yet, fly, try` 分成 `y /j/`（词首）与 `y /aɪ/`（词尾）。听写 `my, cry, dry, fly, sky, try`。
 
-- chin → ch
-- rich → ch
-- catch → tch
-- match → tch
+**🎣 读句：** `I can fly.` `Try to get it.` `The sky is big.`（个别高频词由家长辅助。）
 
-在很多单音节词中，短元音后紧接 /tʃ/ 时使用 `tch`。
+🌟 y 的名称 /waɪ/ 不等于它在 `my` 中表示的音素 /aɪ/；不要额外读出 /w/。
 
-但也存在例外：
+### 🚩Lesson 74 — y /i/
 
-- much
-- such
-- rich
-- which
+**核心规律：** 许多多音节词末尾 y 发 /i/，例如 `happy → hap-py`。这通常出现在非重读的词尾音节；第一音节可能是闭合音节，也可能是开放音节。
 
-### 4. 与汉语拼音比较
+| 词 | 教学分块 | 词尾 y |
+|---|---|---|
+| happy, puppy, funny, sunny | hap-py, pup-py, fun-ny, sun-ny | /i/ |
+| candy, handy, windy | can-dy, han-dy, wind-y | /i/ |
+| baby, lady, tiny | ba-by, la-dy, ti-ny | /i/ |
+| messy, silly, rocky | mes-sy, sil-ly, rock-y | /i/ |
 
-汉语拼音 ch 表示一个声母。
+🌟 `windy` 的 wind 通常读 /wɪnd/；`baby, lady, tiny` 的首音节为开放音节；`messy, silly` 的分块仅用于教学，实际发音可能与书写切分略有不同。
 
-英语 ch 和 tch 都可以表示 /tʃ/，但英语 /tʃ/ 与普通话拼音 ch 的发音位置不同。
+**🎣 分类读词：** `my, happy, cry, baby, fly, sunny, dry, funny, sky, puppy, tiny, candy` 分为 y /aɪ/ 与 y /i/ 两组。让孩子观察**音节数量**，再说出词尾发音。
 
-此外，英语 `tch` 虽然有三个字母，却通常只表示一个音素。
+**🎣 音节拍手：** `hap-py`（2拍）、`sun-ny`（2拍）、`ba-by`（2拍）、`my`（1拍）、`fly`（1拍）。
 
-### 5. 家庭练习
+**🎣 Word Work：** `happy → puppy` 不是单音素替换，适合做“找相同词尾 y”的观察；真正的单音素链可用 `funny → sunny`（/f/ → /s/）、`candy → handy`（/k/ → /h/）。听写 `happy, funny, sunny, puppy, baby, candy`。
 
-**音素分割**
+**🎣 读句：** `The puppy is happy.` `It is a sunny day.` `The baby is funny.`（`day` 为拓展拼写，由家长带读。）
 
-- catch → /k/ /æ/ /tʃ/
-- pitch → /p/ /ɪ/ /tʃ/
-- fetch → /f/ /ɛ/ /tʃ/
-- stitch → /s/ /t/ /ɪ/ /tʃ/
+🌟 `gym, myth` 中的 y 读 /ɪ/，不属于本课两类典型词尾模式；不必强行归入其中。
 
-**Word Chain**
+## 3.5 Lessons 75–76：Consonant-le 与单元复习
 
-`catch → match → patch → pitch → ditch`
+### 🚩Lesson 75 — Consonant-le（辅音 + le）
 
-每一步改变一个音素。
+许多以“辅音字母 + le”结尾的词有一个独立的弱读尾音节，例如 `ta-ble`、`ap-ple`。孩子要学会**先分块，再合读**，而不是逐个字母读。
 
-**听写**
+| 结尾模式 | 例词 | 教学分块 |
+|---|---|---|
+| -ble | table, bubble, pebble | ta-ble, bub-ble, peb-ble |
+| -ple | apple, simple, maple | ap-ple, sim-ple, ma-ple |
+| -tle | little, title | lit-tle, ti-tle |
+| -dle | candle, handle | can-dle, han-dle |
+| -zle | puzzle | puz-zle |
+| -gle | wiggle, giggle | wig-gle, gig-gle |
+| -kle | pickle, tickle | pick-le, tick-le |
 
-- catch
-- match
-- pitch
-- fetch
-- stitch
+**🎣 拼读示范（table）：** ① 找到词尾 `ble`；② 把前面部分看作 `ta`（开放音节，a /eɪ/）；③ `ble` 读 /bəl/（或带成音节 /l/）；④ 合成 `ta-ble`，重音在前。`apple` 则是 `ap-ple`，第一部分的 a /æ/。
 
-### 6. 家长常见错误
+**🎣 比较读词：** `table / apple`（前面长、短元音）；`title / little`（首音节长、短元音）；`maple / simple`。圈出每个词的 `辅音 + le`。
 
-- 将 tch 拆成 /t/ + /tʃ/。
-- 认为三个字母必须表示三个音素。
-- 认为短元音后的 /tʃ/ 一定写作 tch。
+**🎣 分类卡：** `table, apple, little, candle, bubble, simple, puzzle, wiggle, pickle, title` 按 `-ble, -ple, -tle, -dle, -zle, -gle, -kle` 分类。
+
+**🎣 音节练习：** 让孩子拍手并分块读 `apple, table, little, candle, puzzle, bubble`；听写基础 `apple, table, little, candle`，进阶 `simple, bubble, puzzle, pickle`。
+
+**🎣 读句：** `The apple is on the table.` `The little puppy has a puzzle.` `I can wiggle.`（部分功能词由家长辅助。）
+
+🌟 `-le` 通常是弱读音节，不要读成 /liː/。`smile, while` 等是单音节 VCe 词，不能仅因以 le 结尾就分成两个音节。`turtle` 含尚未系统学习的 r-controlled 元音，可作为家长带读拓展词。
+
+### 🚩Lesson 76 — Ending Patterns Review
+
+| 规则 | 基础复习词 | 进阶复习词 |
+|---|---|---|
+| tch /tʃ/ | catch, match, pitch | stretch, stitch |
+| dge /dʒ/ | badge, edge, judge | bridge, fudge |
+| ch /tʃ/、ge /dʒ/ | rich, chin, cage | bench, huge |
+| Long VCC | child, cold, find | blind, most, bolt |
+| y /aɪ/ | my, cry, fly | sky, try |
+| y /i/ | happy, funny, baby | puppy, candy |
+| Consonant-le | apple, table, little | candle, simple, puzzle |
+
+**🎣 综合分类（可剪成单词卡）：** `catch, bridge, child, happy, table, match, badge, cold, baby, apple, pitch, judge, find, fly, candle, most, cry, puppy`。分为 `tch / dge / Long VCC / y /aɪ/ / y /i/ / Consonant-le` 六组。
+
+**🎣 分层听写：** 基础 `catch, badge, cold, my, happy, apple`；进阶 `bridge, child, find, puppy, candle, pitch`；挑战 `stretch, puzzle, simple, blind, stitch, wiggle`。
+
+**🎣 找错误并解释：** `*cach → catch`、`*baj → badge`、`*hapy → happy`、`*aple → apple`（这些是教学用错误写法）。重点不是背答案，而是说出所依据的拼写模式。
+
+**🎣 混合 Word Chains：** `catch → match → patch`；`budge → fudge → judge`；`cold → gold → hold`；`cry → dry → fry → fly`；`funny → sunny`。每条链独立练习，要求每步只改变一个音素。
+
+🌟 单元复习应同时检查“看词能读”和“听词能写”。会读 `catch` 不一定就能正确拼写 `tch`。
 
 ---
 
-## Lesson 70 — dge /dʒ/
+# Part 4. 在家模仿 UFLI 的练习方法
 
-### 1. 学习目标
+## 4.1 八个教学环节
 
-学习词尾 `dge` 通常表示 /dʒ/。
-
-**核心规律：在许多单音节词中，如果短元音后面紧接词尾 /dʒ/，通常使用 `dge`。**
-
-### 2. 示例单词
-
-| 拼写模式 | 示例 |
+| 环节 | 家庭简化操作与例子 |
 |---|---|
-| -adge | badge |
-| -edge | edge, ledge, hedge, wedge |
-| -idge | bridge, ridge, fridge |
-| -odge | dodge, lodge |
-| -udge | fudge, judge, budge |
+| Phonemic Awareness | 不看字，拆 `catch → /k/ /æ/ /tʃ/` |
+| Visual Drill | 看 `tch, dge, y, -old, -ble` 说常见发音 |
+| Auditory Drill | 听 /tʃ/、/dʒ/，讨论可能的拼写 |
+| Blending Drill | /b/ /æ/ /dʒ/ → badge；/k/ /oʊ/ /l/ /d/ → cold |
+| New Concept | 当天重点解释一个词尾模式 |
+| Word Work | `catch → match`；`cold → gold` |
+| Irregular Words | 复习 `rich, much, such` 等常见例外及学校 Heart Words |
+| Connected Text | 读目标单词、短句与短文 |
 
-### 3. dge 为什么只有一个音素？
+家庭不必机械完成全部环节，每次选择 3–4 项，练习 **10–15 分钟** 即可。
 
-例如：
+## 4.2 🎣可以直接照读的英文教学指令
 
-`badge → /b/ /æ/ /dʒ/`
-
-虽然 badge 有5个字母，但只有3个音素。
-
-对比：
-
-- jam：j → /dʒ/
-- cage：ge → /dʒ/
-- badge：dge → /dʒ/
-
-三种拼写都可以表示 /dʒ/。
-
-### 4. 与汉语拼音比较
-
-英语 /dʒ/ 在普通话中没有完全相同的对应音素。
-
-不能直接把它读成拼音 j 或 zh。
-
-尤其需要注意：`dge` 不应该拆成三个独立发音。
-
-### 5. 家庭练习
-
-**音素分割**
-
-- badge → /b/ /æ/ /dʒ/
-- edge → /ɛ/ /dʒ/
-- bridge → /b/ /r/ /ɪ/ /dʒ/
-- judge → /dʒ/ /ʌ/ /dʒ/
-
-**Word Chain**
-
-`badge → budge → judge → fudge → nudge`
-
-每一步改变一个音素。
-
-**听写**
-
-- badge
-- edge
-- bridge
-- fudge
-- judge
-
-### 6. 家长常见错误
-
-- 将 dge 拆成 /d/ + /g/ + /e/。
-- 将 badge 的词尾读成两个音节。
-- 认为所有 /dʒ/ 结尾都必须使用 dge。
-
----
-
-## Lesson 71 — tch, ch, dge Review
-
-### 1. 学习目标
-
-综合复习 /tʃ/ 与 /dʒ/ 的常见拼写方式。
-
-### 2. 拼写对照
-
-| 音素 | 拼写 | 示例 |
+| 家长说 | 孩子做 | 示例 |
 |---|---|---|
-| /tʃ/ | ch | chin, rich, much |
-| /tʃ/ | tch | catch, pitch, fetch |
-| /dʒ/ | j | jam, jet |
-| /dʒ/ | ge | cage, huge |
-| /dʒ/ | dge | badge, bridge |
+| “Say the word.” | 读单词 | catch |
+| “Stretch the sounds.” | 慢慢分音素 | /k/ /æ/ /tʃ/ |
+| “How many sounds?” | 数音素 | catch：3 |
+| “What do you notice at the end?” | 找词尾字母组合 | tch |
+| “Change /k/ to /m/.” | 替换首音 | catch → match |
+| “Sort the words.” | 按规律分类 | catch / rich |
+| “Tap the syllables.” | 拍手数音节 | hap-py：2 |
+| “Read each part. Blend the word.” | 分块再合成 | ta-ble → table |
+| “Write the word. Check the ending.” | 听写并检查词尾 | badge |
 
-### 3. 核心区别
+🌟 音素替换和字母替换并不总是一回事。例如 `catch → match` 替换一个首音，`catch → pitch` 则改变不止一个音素，不适合当作单音素链。
 
-**Decoding：**
+## 4.3 🎣每天15分钟家庭练习示例
 
-看到 catch，能读出 /kætʃ/。
-
-**Encoding：**
-
-听到 /kætʃ/，能根据常见拼写规律写出 catch。
-
-### 4. 家庭练习
-
-**分类**
-
-将以下单词按 ch、tch、ge、dge 分类：
-
-catch, rich, badge, match, cage, pitch, bridge, much, judge
-
-**听写**
-
-- catch
-- rich
-- badge
-- pitch
-- bridge
-
-**句子**
-
-- I can catch the ball.
-- The bridge is long.
-- The judge has a badge.
-
-### 5. 家长常见错误
-
-不要要求孩子仅凭声音就百分之百确定拼写。
-
-英语同一个音素可能有多种拼写方式，需要结合词的位置、元音及常见词汇判断。
-
----
-
-## Lesson 72 — Long VCC
-
-### 1. 学习目标
-
-认识一组特殊的长元音拼写模式：
-
-- -ild
-- -old
-- -ind
-- -olt
-- -ost
-
-### 2. 为什么叫 Long VCC？
-
-VCC 表示：
-
-- V = 元音
-- C = 辅音
-- C = 辅音
-
-例如 cold：
-
-`c + o + l + d`
-
-虽然 o 后面有两个辅音，但在 cold 中通常发长元音 /oʊ/。
-
-### 3. 示例单词
-
-| 模式 | 示例 | 常见元音 |
+| 时间 | 活动 | 可直接使用的材料 |
 |---|---|---|
-| -ild | child, wild, mild | /aɪ/ |
-| -old | cold, gold, hold, told | /oʊ/ |
-| -ind | find, kind, mind, blind | /aɪ/ |
-| -olt | colt, bolt, jolt | /oʊ/ |
-| -ost | most, post, host | /oʊ/ |
+| 3分钟 | 音素辨认 | catch（3）、badge（3）、bridge（4）、fly（3） |
+| 3分钟 | 模式卡分类 | catch, rich, badge, cage, cold, my, happy, table |
+| 5分钟 | Word Chains / 听写 | `cold → gold → hold`；听写 `pitch, judge, child` |
+| 4分钟 | 阅读与问答 | `The puppy is happy.` `The child can catch it.` |
 
-### 4. 与 Closed Syllable 比较
-
-| 单词 | 模式 | 元音 |
-|---|---|---|
-| hand | 普通闭合音节 | /æ/ |
-| milk | 普通闭合音节 | /ɪ/ |
-| child | Long VCC | /aɪ/ |
-| cold | Long VCC | /oʊ/ |
-| find | Long VCC | /aɪ/ |
-
-闭合音节通常使用短元音，但并非永远如此。
-
-### 5. 与汉语拼音比较
-
-汉语拼音的拼写与读音对应相对稳定。
-
-英语则存在需要特别学习的拼写模式，例如 -old、-ind。
-
-这与中文形声字在教学上有一点相似之处：规律可以帮助预测读音，但不能保证每次都正确。
-
-### 6. 家庭练习
-
-**Word Chains**
-
-`cold → gold → hold → told`
-
-`find → kind → mind → bind`
-
-**分类**
-
-将以下单词分成五组：
-
-child, cold, find, bolt, most, wild, gold, mind, colt, post
-
-**听写**
-
-- child
-- cold
-- find
-- bolt
-- most
-
-### 7. 家长常见错误
-
-- 将 child 的 i 读成短 /ɪ/。
-- 将 cold 的 o 读成短 /ɑ/。
-- 认为所有 -ind、-ost 单词都发长元音。
-
-例如 wind（风）中的 i 通常是短元音，而 wind（缠绕）中的 i 是长元音。lost、cost 中的 o 也不是典型的长元音。
+**课堂小游戏：** 家长写 `ch / tch / ge / dge` 四张卡，读出 `rich, match, cage, badge`，让孩子举起对应卡；之后互换角色，由孩子读词、家长选择。
 
 ---
 
-## Lesson 73 — y /aɪ/
+# Part 5. 阅读与写作练习
 
-### 1. 学习目标
+## 5.1 🎣从单词到短句
 
-学习词尾 y 可以表示长元音 /aɪ/。
-
-### 2. 示例单词
-
-- my
-- by
-- cry
-- dry
-- fly
-- fry
-- shy
-- sky
-- try
-- why
-
-### 3. 为什么 y 可以表示元音？
-
-在 Alphabet 单元中，孩子最初学习：
-
-`y → /j/`
-
-例如 yes、yellow、yet。
-
-但英语字母 y 也可以表示元音。
-
-例如：
-
-- my → /m/ /aɪ/
-- cry → /k/ /r/ /aɪ/
-- fly → /f/ /l/ /aɪ/
-
-### 4. 与汉语拼音比较
-
-汉语拼音中的 y 经常作为拼写符号出现在音节开头，例如 yi、ya。
-
-英语中的 y 则可以在不同位置表示不同声音，不能直接套用拼音 y 的发音。
-
-### 5. 家庭练习
-
-**Word Chains**
-
-`my → by`
-
-`cry → dry → fry → fly`
-
-**音素分割**
-
-- my → /m/ /aɪ/
-- cry → /k/ /r/ /aɪ/
-- fly → /f/ /l/ /aɪ/
-
-**听写**
-
-- my
-- cry
-- dry
-- fly
-- sky
-
-### 6. 家长常见错误
-
-- 将 my 读成 /mi/。
-- 将 y 一律读成 /j/。
-- 认为词尾 y 只能发 /aɪ/。
-
----
-
-## Lesson 74 — y /i/
-
-### 1. 学习目标
-
-学习多音节词末尾的 y 经常表示 /i/。
-
-### 2. 示例单词
-
-| 单词 | 音节划分 | 词尾发音 |
-|---|---|---|
-| happy | hap-py | /i/ |
-| baby | ba-by | /i/ |
-| funny | fun-ny | /i/ |
-| sunny | sun-ny | /i/ |
-| candy | can-dy | /i/ |
-| puppy | pup-py | /i/ |
-| windy | wind-y | /i/ |
-
-### 3. y 的两种常见词尾发音
-
-| 模式 | 发音 | 示例 |
-|---|---|---|
-| 单音节词末尾 | /aɪ/ | my, cry, fly |
-| 多音节词末尾 | /i/ | happy, baby, funny |
-
-这是常见规律，而不是绝对规则。
-
-例如 gym、symbol 中的 y 表示 /ɪ/。
-
-### 4. 与汉语拼音比较
-
-英语 happy 中的 y 表示 /i/，并不是汉语拼音 y 的声母发音。
-
-家长可以借助拼音 i 的听觉经验，但不能认为二者在所有发音细节上完全一致。
-
-### 5. 家庭练习
-
-**分类**
-
-将以下单词按 y 的发音分组：
-
-my, happy, cry, baby, fly, sunny, dry, funny
-
-**音节划分**
-
-- happy → hap-py
-- funny → fun-ny
-- candy → can-dy
-
-**听写**
-
-- happy
-- funny
-- sunny
-- baby
-- puppy
-
-### 6. 家长常见错误
-
-- 将 happy 末尾的 y 读成 /aɪ/。
-- 认为所有 y 都发 /i/。
-- 忽略多音节词中的重音。
-
----
-
-## Lesson 75 — Consonant-le
-
-### 1. 学习目标
-
-学习英语中常见的辅音加 -le 音节。
-
-例如：
-
-- table
-- little
-- candle
-- apple
-- puzzle
-
-### 2. 什么是 Consonant-le Syllable？
-
-在许多单词末尾：
-
-**辅音字母 + le 构成一个音节。**
-
-例如：
-
-`table → ta-ble`
-
-其中：
-
-- ta：第一个音节。
-- ble：第二个音节。
-
-ble 通常读 /bəl/，在自然语流中也可能接近 /bl̩/。
-
-### 3. 示例单词
-
-| 单词 | 音节划分 | 中文 |
-|---|---|---|
-| table | ta-ble | 桌子 |
-| apple | ap-ple | 苹果 |
-| little | lit-tle | 小的 |
-| candle | can-dle | 蜡烛 |
-| puzzle | puz-zle | 拼图；难题 |
-| turtle | tur-tle | 乌龟 |
-| bubble | bub-ble | 泡泡 |
-| simple | sim-ple | 简单的 |
-
-### 4. 为什么 table 有两个音节？
-
-table 通常读 /ˈteɪ.bəl/。
-
-它不是把 t-a-b-l-e 五个字母逐个读出来。
-
-可以分成：
-
-`ta + ble`
-
-注意：
-
-- ta 是开放音节，a 发 /eɪ/。
-- ble 是 Consonant-le 音节。
-
-### 5. 与汉语拼音比较
-
-汉语拼音中，每个音节通常都有比较明确的元音核心。
-
-英语的 Consonant-le 音节则可能包含弱读元音 /ə/，有时还可以由成音节辅音承担音节核心。
-
-例如：
-
-`little → /ˈlɪt.əl/`
-
-不能把它简单读成拼音 li-tle。
-
-### 6. 家庭练习
-
-**音节划分**
-
-- table → ta-ble
-- apple → ap-ple
-- little → lit-tle
-- candle → can-dle
-- puzzle → puz-zle
-
-**分类**
-
-- -ble：table, bubble
-- -ple：apple, simple
-- -tle：little, turtle
-- -dle：candle
-- -zle：puzzle
-
-**阅读句子**
-
-- The apple is on the table.
-- The little turtle is slow.
-- I have a puzzle.
-
-### 7. 家长常见错误
-
-- 将 table 读成一个音节。
-- 将末尾 le 读成清晰的 /li/。
-- 认为所有以 le 结尾的单词都属于 Consonant-le 类型。
-
-例如 smile 属于 VCe 模式，不是 Consonant-le 音节。
-
----
-
-## Lesson 76 — Ending Patterns Review
-
-### 1. 学习目标
-
-综合复习 Lessons 69–75 的主要拼写模式。
-
-### 2. 综合知识表
-
-| 知识点 | 主要规律 | 示例 |
-|---|---|---|
-| tch | /tʃ/ | catch, match |
-| dge | /dʒ/ | badge, bridge |
-| ch | /tʃ/ | chin, much |
-| Long VCC | 特殊长元音 | child, cold, find |
-| y /aɪ/ | 单音节词尾 y | my, cry, fly |
-| y /i/ | 多音节词尾 y | happy, baby |
-| Consonant-le | 词尾音节 | table, apple |
-
-### 3. 综合听写
-
-**基础组**
-
-- catch
-- badge
-- cold
-- my
-- happy
-
-**进阶组**
-
-- bridge
-- child
-- find
-- puppy
-- candle
-
-**挑战组**
-
-- stretch
-- splash（复习旧知识）
-- puzzle
-- turtle
-- simple
-
-### 4. 综合分类活动
-
-将以下单词按拼写模式分类：
-
-catch, bridge, child, happy, table, match, badge, cold, baby, apple
-
-类别：
-
-- tch
-- dge
-- Long VCC
-- y /i/
-- Consonant-le
-
-### 5. 综合音素练习
-
-- catch → /k/ /æ/ /tʃ/
-- badge → /b/ /æ/ /dʒ/
-- child → /tʃ/ /aɪ/ /l/ /d/
-- fly → /f/ /l/ /aɪ/
-
-对于 table、happy 等双音节词，可以优先练习音节划分，再分析每个音节的声音。
-
----
-
-# Part 5. UFLI 教学方法与家庭练习
-
-## 5.1 八个教学环节
-
-| UFLI 环节 | 学习目标 | 家庭练习 |
-|---|---|---|
-| Phonemic Awareness | 听辨与操作音素 | catch 拆成3个音素 |
-| Visual Drill | 看字母组合说发音 | tch、dge、y |
-| Auditory Drill | 听声音写字母组合 | 听 /tʃ/，选择 ch 或 tch |
-| Blending Drill | 将音素合成为单词 | /b/ /æ/ /dʒ/ → badge |
-| New Concept | 学习新拼写规则 | 解释 -tch 的使用 |
-| Word Work | 拼读、拼写和变换 | catch → match → patch |
-| Irregular Words | 学习特殊高频词 | 使用学校当周 Heart Words |
-| Connected Text | 阅读句子与短文 | 阅读含目标模式的故事 |
-
-## 5.2 每天15分钟家庭练习
-
-**Step 1：音素意识（3分钟）**
-
-家长说出 catch、badge、child，让孩子不看文字，尝试分割音素。
-
-**Step 2：拼写模式（3分钟）**
-
-展示 tch、dge、y、-le，让孩子说出相应的常见发音，并举出一个单词。
-
-**Step 3：Word Work（5分钟）**
-
-选择一组练习：
-
-`catch → match → patch → pitch → ditch`
-
-让孩子指出每一步发生变化的声音。
-
-**Step 4：阅读与理解（4分钟）**
-
-阅读2–4个句子，再问一个关于内容的问题。
-
-练习不需要追求速度，优先保证准确拼读和理解。
-
----
-
-# Part 6. 阅读与写作练习
-
-## 6.1 阅读短文：The Little Puppy
-
-**The Little Puppy**
-
-A little puppy sat by a bridge.
-
-The puppy saw a child.
-
-The child had a red ball.
-
-The puppy ran to catch the ball.
-
-The child was happy.
-
-The puppy was happy too.
-
-> 这是家庭阅读理解练习，不是严格限定 Lessons 1–76 的官方可解码短文。saw、ball、too 等词可能需要家长辅助。
-
-### 阅读理解问题
-
-1. Where was the puppy?
-2. What did the child have?
-3. What did the puppy want to catch?
-4. Why do you think the puppy was happy?
-5. Can you tell the story in your own words?
-
-前3个问题侧重事实理解，第4个问题引导推理，第5个问题练习故事复述。
-
-## 6.2 写作练习
-
-### Level 1：听写单词
-
-- catch
-- bridge
-- child
-- happy
-- table
-
-### Level 2：完成句子
-
-1. The puppy is ______.
-2. I can catch a ______.
-3. The apple is on the ______.
-
-### Level 3：自主造句
-
-从简单句开始：
-
-`The puppy is happy.`
-
-逐步增加细节：
-
-`The little puppy is happy.`
-
-再增加原因：
-
-`The little puppy is happy because it has a new toy.`
-
-### 与中文写作比较
-
-中国小学写话训练中，常常鼓励孩子回答：
-
-- 谁？
-- 在哪里？
-- 做什么？
-- 为什么？
-
-英语写作也可以使用同样的思路，逐步增加：
-
-- Character：谁？
-- Setting：在哪里？
-- Action：做什么？
-- Reason：为什么？
-
-但低年级孩子的拼写能力与表达能力可能发展得不同步。鼓励孩子表达想法的同时，可以选择少量本单元目标词进行拼写纠正，不必每句话都要求完全正确。
-
----
-
-# Part 7. 中国家长常见问题
-
-### Q1：为什么 catch 使用 tch，而 rich 使用 ch？
-
-因为短元音后紧接词尾 /tʃ/ 时，通常使用 tch，但 rich、much、such 等是常见例外。
-
-### Q2：为什么 badge 有5个字母，却只有3个音素？
-
-因为 dge 共同表示一个音素 /dʒ/。
-
-badge 的音素是 /b/、/æ/、/dʒ/。
-
-### Q3：为什么 cold 中的 o 不是短元音？
-
-因为 cold 属于特殊的 Long VCC 模式，-old 中的 o 通常发 /oʊ/。
-
-这说明闭合音节通常使用短元音，但存在例外。
-
-### Q4：为什么 my 和 happy 的 y 发音不同？
-
-词尾 y 在单音节词中经常发 /aɪ/，在多音节词中经常发 /i/。
-
-这是常见规律，而不是绝对规则。
-
-### Q5：为什么 table 不是按照 Silent e 规则读？
-
-因为 table 的结尾是 Consonant-le 音节，通常分成 ta-ble 两个音节。
-
-它与单音节 VCe 单词（例如 tape）结构不同。
-
-### Q6：孩子需要记住所有规则名称吗？
-
-不需要。
-
-规则名称主要帮助家长和教师组织知识。
-
-孩子最重要的是能够听辨、拼读、拼写和理解实际单词。
-
----
-
-# Part 8. 学习进度跟踪
-
-## 8.1 Lesson 进度表
-
-| Lesson | 知识点 | 学习日期 | 掌握情况 | 需要复习 |
-|---|---|---|---|---|
-| 69 | tch | | ☐ 熟练 ☐ 练习中 | |
-| 70 | dge | | ☐ 熟练 ☐ 练习中 | |
-| 71 | ch/tch/dge Review | | ☐ 熟练 ☐ 练习中 | |
-| 72 | Long VCC | | ☐ 熟练 ☐ 练习中 | |
-| 73 | y /aɪ/ | | ☐ 熟练 ☐ 练习中 | |
-| 74 | y /i/ | | ☐ 熟练 ☐ 练习中 | |
-| 75 | Consonant-le | | ☐ 熟练 ☐ 练习中 | |
-| 76 | Ending Patterns Review | | ☐ 熟练 ☐ 练习中 | |
-
-## 8.2 单元结束自查
-
-### 拼读与拼写
-
-- [ ] 能识别 tch、dge、ch。
-- [ ] 能区分 /tʃ/ 与 /dʒ/。
-- [ ] 能解释短元音后使用 tch、dge 的常见规律。
-- [ ] 能识别 -ild、-old、-ind、-olt、-ost。
-- [ ] 能区分词尾 y 的 /aɪ/ 与 /i/。
-- [ ] 能识别 Consonant-le 音节。
-
-### 阅读与表达
-
-- [ ] 能拼读包含本单元规则的陌生单词。
-- [ ] 能尝试划分 Consonant-le 双音节词。
-- [ ] 能阅读包含已学规则的句子。
-- [ ] 能回答简单的阅读理解问题。
-- [ ] 能使用新学单词造句。
-
----
-
-# Part 9. 家庭练习记录模板
-
-**日期：** YYYY-MM-DD  
-**当前 Lesson：**  
-**练习时间：** 10–15分钟
-
-### 今日复习
-
-- [ ] tch / ch
-- [ ] dge / ge
-- [ ] Long VCC
-- [ ] y /aɪ/
-- [ ] y /i/
-- [ ] Consonant-le
-- [ ] Phoneme Segmenting
-- [ ] Word Chains
-- [ ] Decoding
-- [ ] Encoding
-- [ ] Reading
-
-**今天练习的单词：**
-
-**孩子掌握较好的内容：**
-
-**容易混淆的发音或拼写：**
-
-**下次需要复习：**
-
----
-
-# Part 10. 本单元总结
-
-## 三个最重要的学习成果
-
-**1. 理解同一个音素可以有不同拼写。**
-
-例如：
-
-- /tʃ/ → ch、tch
-- /dʒ/ → j、ge、dge
-
-**2. 认识常见拼写模式及其例外。**
-
-例如：
-
-- child、cold、find 中的特殊长元音。
-- my 与 happy 中 y 的不同发音。
-
-**3. 能够通过音节结构阅读更复杂的单词。**
-
-例如：
-
-- table → ta-ble
-- little → lit-tle
-- candle → can-dle
-
----
-
-## 下一单元预告
-
-**Unit 7 — R-Controlled Vowels（Lessons 77–83）**
-
-主要学习：
-
-| Lesson | 知识点 |
+| Level | 练习材料 |
 |---|---|
-| 77 | ar /ɑr/ |
-| 78 | or、ore /ɔr/ |
-| 79 | ar、or、ore Review |
-| 80 | er /ɝ/ |
-| 81 | ir、ur /ɝ/ |
-| 82 | er、ir、ur、w + or |
-| 83 | R-Controlled Vowels Review |
+| 1：读词 | catch, badge, cold, child, fly, happy, table |
+| 2：读句 | `The child is happy.` `I can catch it.` `The apple is on the table.` |
+| 3：听写短句 | `I can fly.` `The puppy is happy.` `The child is kind.` |
 
-例如：
+🌟 句子中的 `the, is, on` 等高频词，可按孩子已学情况复习或直接辅助，不必为了阅读完整句子而跳过当前的目标拼读规则。
 
-- car、star、farm
-- corn、fork、more
-- her、fern
-- bird、girl
-- turn、burn
-- word、work
+## 5.2 🎣家庭补充短文：The Little Puppy
 
-下一单元的核心概念是：**元音后面的 r 会影响元音发音，因此不能总是按照普通短元音或长元音规则拼读。**
+> A little puppy sat by a bridge.  
+> The puppy saw a child.  
+> The child had a red ball.  
+> The puppy ran to catch the ball.  
+> The child was happy. The puppy was happy too.
+
+**目标词：** `little, puppy, bridge, child, catch, happy, by`。让孩子用不同颜色圈出 `-le, -y, -dge, -ild, -tch`，并试着给 `lit-tle, pup-py, hap-py` 拍手分音节。
+
+**阅读理解：** “Where was the puppy?”（在哪里？）“What did the child have?”（拿着什么？）“What did the puppy want to catch?”（想接住什么？）“Why was the puppy happy?”（为什么开心？开放推理）“Can you retell the story?”（复述故事。）
+
+🌟 这是家庭补充阅读，不是官方严格可解码短文。`saw, ball, too` 等词涉及尚未系统学习的模式，家长可提前带读。
+
+## 5.3 🎣听写、填空与造句
+
+**分组听写：** `catch, pitch, badge, bridge`（词尾辅音）；`cold, child, find, most`（Long VCC）；`my, fly, happy, puppy`（词尾 y）；`apple, table, little, candle`（Consonant-le）。
+
+**填空（答案在括号内）：** `I can ____ the ball.`（catch） / `The ____ is kind.`（child） / `The puppy is ____.`（happy） / `The apple is on the ____.`（table）。
+
+**扩写：** `The puppy is happy.` → `The little puppy is happy.` → `The little puppy is happy by the bridge.`。可问孩子 “Who?” “Where?” “What is happening?”，鼓励添加人物、地点、动作，不必一次纠正所有拼写。
+
+---
+
+# Part 6. 家长常见问题
+
+### 🚩Q1：为什么 catch 写 tch，而 rich 写 ch？
+
+短元音后直接接词尾 /tʃ/ 时通常写 tch，但 `rich, much, such, which` 是常见例外。让孩子记住高频模式，再逐渐积累例外，而不是机械套用。
+
+### 🚩Q2：为什么 badge 有5个字母却只有3个音素？
+
+因为 `dge` 整体表示 /dʒ/：`badge → /b/ /æ/ /dʒ/`。音素数按声音计，不按字母数计。
+
+### 🚩Q3：cold 为什么不是普通短元音？
+
+`-old` 属于常见 Long VCC 模式，o 通常读 /oʊ/。但并不是所有 VCC 都读长元音，例如 `cost, lost`。
+
+### 🚩Q4：为什么 my 和 happy 的 y 不同？
+
+单音节词末尾 y 常发 /aɪ/，多音节词末尾 y 常发 /i/；它是有用的高频规律，但并非适用于所有带 y 的词。
+
+### 🚩Q5：为什么 table 有两个音节，而 smile 只有一个？
+
+`table → ta-ble` 的词尾 `ble` 是 Consonant-le 音节；`smile` 则是 VCe 结构，末尾 e 不另成音节。不能只看词尾是否有 le。
+
+### 🚩Q6：孩子需要记住所有规则名称吗？
+
+不需要。能听辨、正确拼读、尝试拼写并在新词中迁移，比背出 “Long VCC” 或 “Consonant-le” 的定义更重要。
+
+---
+
+# Part 7. 学习进度与家庭记录
+
+## 7.1 Lesson 进度
+
+| Lesson | 日期 | 掌握情况 | 需要复习的词或发音 |
+|---|---|---|---|
+| 69 tch | | ☐ 熟练 ☐ 练习中 | |
+| 70 dge | | ☐ 熟练 ☐ 练习中 | |
+| 71 Review 1 | | ☐ 熟练 ☐ 练习中 | |
+| 72 Long VCC | | ☐ 熟练 ☐ 练习中 | |
+| 73 y /aɪ/ | | ☐ 熟练 ☐ 练习中 | |
+| 74 y /i/ | | ☐ 熟练 ☐ 练习中 | |
+| 75 Consonant-le | | ☐ 熟练 ☐ 练习中 | |
+| 76 Review 2 | | ☐ 熟练 ☐ 练习中 | |
+
+## 7.2 🎣单元自查
+
+- [ ] 能读出 `ch/tch` 的 /tʃ/、`j/ge/dge` 的 /dʒ/，并辨认常见拼写。
+- [ ] 能解释 `catch` 与 `badge` 中词尾组合各表示一个音素。
+- [ ] 能识别 `-ild, -old, -ind, -olt, -ost`，知道规则有例外。
+- [ ] 能区分 `my /aɪ/` 与 `happy /i/` 的词尾 y。
+- [ ] 能把 `table, apple, little` 分块读成两个音节。
+- [ ] 能完成分类、Word Chains、听写和简单短文阅读。
+
+### 🚩家庭练习记录（可重复打印）
+
+**日期：** __________　
+**Lesson：** ______　
+**练习时长：** ______ 分钟  
+**今日内容：** ☐ 辨音 ☐ 拼写模式 ☐ Word Chains ☐ 听写 ☐ 音节 ☐ 阅读  
+**练习单词：** __________________________________________________  
+**掌握较好：** __________________　
+**需要复习：** __________________
+
+---
+
+# Part 8. 本单元总结
+
+**第一，认识一个音素的不同拼写。** `rich/catch`、`cage/badge` 展示了 /tʃ/、/dʒ/ 的多种写法，既练习 decoding，也练习 encoding。
+
+**第二，继续拓展长元音规律。** `child, cold, find, bolt, most` 让孩子知道，除了 VCe 和开放音节，还有 Long VCC 这类常见模式；同时学习 `wind, lost, cost` 等例外。
+
+**第三，利用词尾和音节结构阅读更复杂的单词。** `my/fly` 与 `happy/baby` 对比词尾 y 的不同发音；`table, apple, little, candle` 则练习 Consonant-le 的分块阅读。
+
+**下一单元：Unit 7 — R-Controlled Vowels（Lessons 77–83）**。将学习 `ar, or, ore, er, ir, ur` 及 `w + or`，例如 `car, fork, more, her, bird, turn, word`。重点是理解：**元音后面的 r 会影响元音读音**。
